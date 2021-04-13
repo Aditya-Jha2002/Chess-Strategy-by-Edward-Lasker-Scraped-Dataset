@@ -1,0 +1,192 @@
+                GAME No. 14
+
+      White: Spielmann. Black: Tarrasch.
+
+           Ruy Lopez (see p. 41).
+
+          1. P-K4          P-K4
+          2. Kt-KB3        Kt-QB3
+          3. B-KT5         P-QR3
+          4. B-R4          Kt-B3
+          5. Castles       Kt-P
+          6. P-Q4
+
+        ---------------------------------------
+     8 | #R |    | #B | #Q | #K | #B |    | #R |
+       |---------------------------------------|
+     7 |    | #P | #P | #P |    | #P | #P | #P |
+       |---------------------------------------|
+     6 | #P |    | #Kt|    |    |    |    |    |
+       |---------------------------------------|
+     5 |    |    |    |    | #P |    |    |    |
+       |---------------------------------------|
+     4 | ^B |    |    | ^P | #Kt|    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    | ^Kt|    |    |
+       |---------------------------------------|
+     2 | ^P | ^P | ^P |    |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R | ^Kt| ^B | ^Q |    | ^R | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 120
+
+In a game between Riga and Berlin PxP was tried for the first
+time, a bold venture which anticipates White’s desire to open the
+King’s file. After 7. R-K1 Black can defend the Kt by P-Q4, but
+after 8. KtxP White threatens again to win the Kt by P-KB3,
+besides attacking the QKt a second time. However, Black has a
+surprising answer in readiness. He initiates a violent counter
+attack which keeps White busy until Black, by castling, escapes
+the dangers of the double pin. (Compare Game No. 17.)
+
+          6. ...            P-QKt4
+          7. B-Kt3          P-Q4
+          8. P-QR4
+
+This gives Black an opportunity of disposing of his QKt by
+exchanging it, thereby enabling him to round off his pawn
+position by P-QB4, at the same time threatening to cut off the
+Bishop by P-B5. 8. PxP followed by P-B3 is the natural
+continuation, as shown in the first part of this book, because
+the Bishop, retreating to B2, can operate on a useful diagonal.
+
+          8. ...            QKtxP!
+
+QR-Kt1 would not be so good, because White obtains an open file
+for his Rook. The move in the text is an absolutely valid
+defence, as was proved by Schlechter in his match against Lasker.
+
+          9. KtxKt          PxKt
+         10. Kt-B3
+
+PxP and P-B3 seems a more natural continuation.
+
+         10. ...            KtxKt
+
+Not PxKt, on account of BxP.
+
+         11. PxKt           P-QB4
+         12. RPxP           B-K2
+
+in order to castle in reply to B-R4.
+
+         13. Q-B3
+
+Here White should have got back his second pawn by PxQP.  If then
+13. ... P-B5; 14. B-R4, Castles; 15. PxP, BxP, White plays P-QB3,
+providing a retreat for his R or B.  After the move in the text
+this manœuvre becomes impossible, because the B after P-B3 can
+be attacked twice but has lost the support of the Queen.
+
+         13. ...            B-K3
+         14. RxP            Castles
+         15. PxP            P-B5
+         16. B-R2
+
+Now the Bishop is hemmed in permanently; in other words, Black is
+a piece up and must win easily. Therefore 16. B-R4 was compulsory
+in order to get at any rate three pawns for the piece, thus: 16.
+... B-Q2; 17. QxP, RxR; 18. PxR, BxB; 19. QxP.
+
+         16. ...            RxR
+         17. PxR            Q-R4
+         18. B-Kt1          P-B6
+         19. Q-Kt3
+
+White tries to work up an attack on the King’s side while Black
+is still occupied on the other wing.
+
+         19. ...               R-B1
+         20. P-B4              B-KB4
+         21. R-K1              B-B3
+         22. K-R1
+
+In order to answer BxQP by 23. B-K3 and P-R7, 22. ... QxP is not
+feasible because of QxP.
+
+         22. ...               P-R3
+         23. P-R3              R-Kt1
+         24. B-K3              QxP
+         25. R-Q1              Q-R8
+         26. Q-K1
+
+        ---------------------------------------
+     8 |    | #R |    |    |    |    | #K |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    | #P | #P |    |
+       |---------------------------------------|
+     6 |    |    |    |    |    | #B |    | #P |
+       |---------------------------------------|
+     5 |    |    |    | #P |    | #B |    |    |
+       |---------------------------------------|
+     4 |    |    |    | ^P |    | ^P |    |    |
+       |---------------------------------------|
+     3 |    |    | #P |    | ^B |    |    | ^P |
+       |---------------------------------------|
+     2 |    |    | ^P |    |    |    | ^P |    |
+       |---------------------------------------|
+     1 | #Q | ^B |    | ^R | ^Q |    |    | ^K |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 121
+
+The sequel forms an instructive example of how superior
+development can afford winning chances even when there is no
+immediate prospect of material gain. The opposing pieces are
+gradually constricted until the defending lines are weakened by
+compulsory pawn moves. In the present position Black quietly sets
+to work to bring his Bishops to bear on the White King.
+
+         26. ...                 B-K5
+         27. K-R2                B-K2
+         28. Q-B1
+
+to free his game somewhat with P-B5, which Black prevents at
+once.
+
+           28. ...                P-B4
+           29. R-K1               B-R5
+
+Being probably short of time, Black makes a few irrelevant moves.
+If his aim was not the opening of the KKt file but the subsequent
+sacrifice of the Queen, he might have played Q-Kt7 at once,
+followed by Q-Kt4.
+
+           30. P-Kt3              B-K2
+           31. B-B2               B-Q3
+           32. R-B1               K-R2
+           33. R-K1               R-Kt3
+           34. R-B1               B-R6
+           35. R-K1               Q-Kt7
+           36. Q-K2               R-Kt5
+           37. R-Kt1              R-Kt3
+
+Otherwise White might embark upon a counter attack, beginning
+with P-Kt4. Now this is impossible on account of R-Kt3.
+
+           38. R-K1               Q-Kt4
+           39. Q-R5
+
+After the exchange of Queens, Black would win easily by R-Kt7.
+39. B-R2 also fails on account of QxQ; 40. RxQ, R-Kt7; 41. B-Kt3,
+B-Q6!; 42. R-K5, BxP, and the passed pawn costs a Rook. With the
+text move, White provokes the sacrifice of the Queen at Kt 8,
+apparently not seeing the fine continuation at Black’s disposal
+on the forty-first move.
+
+           39. ...                QxB!
+           40. RxQ                RxR
+           41. P-Kt4
+
+Compulsory. B-Kt1 would be followed by R-QB8, etc.
+
+           41. ...                B-B8!!
+               Resigns.
+
+There might follow 42. K-Kt3, P-Kt3; 43. Q-R4, BxPch; 44. KxB, P-
+Kt4ch, and so on. 4l. ... B-Q3 would have given White a little
+respite, though his game would still have been hopeless after PxP
+and R-K8.

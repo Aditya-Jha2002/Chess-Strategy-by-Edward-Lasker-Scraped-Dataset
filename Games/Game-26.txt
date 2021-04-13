@@ -1,0 +1,105 @@
+                GAME No. 26
+
+    White: Capablanca.   Black: Blanco
+
+              French Defence.
+
+          1. P-K4           P-K3
+          2. P-Q4           P-Q4
+          3. Kt-QB3         PxP
+          4. KtxP           Kt-Q2
+          5. Kt-KB3         KKt-B3
+          6. KtxKtch        KtxKt
+          7. Kt-K5
+
+This crosses Black’s plan of developing the QB at Kt2.
+
+          7. ...            B-Q3
+          8. Q-B3           P-B3
+
+9. B-Kt5ch, P-B3; 10. KtxP was threatened.
+
+          9. P-B3           Castles
+         10. B-KKt5         B-K2
+         11. B-Q3
+
+Whatever Black plays now, he must create some weakness in order
+to provide against White’s Q-R3, BxKt, QxRP, and White’s attack
+must succeed. The whole of Black’s plan is thus frustrated, as
+the only reason for abandoning the centre by PxP was the
+occupation of the long diagonal by the QB.  Now the Queen’s side
+pieces cannot get into play without much difficulty, and by the
+time they have succeeded it is too late.
+
+        ---------------------------------------
+     8 | #R |    | #B | #Q |    | #R | #K |    |
+       |---------------------------------------|
+     7 | #P | #P |    |    | #B | #P | #P | #P |
+       |---------------------------------------|
+     6 |    |    | #P |    | #P | #Kt|    |    |
+       |---------------------------------------|
+     5 |    |    |    |    | ^Kt|    | ^B |    |
+       |---------------------------------------|
+     4 |    |    |    | ^P |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    | ^P | ^B |    | ^Q |    |    |
+       |---------------------------------------|
+     2 | ^P | ^P |    |    |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R |    |    |    | ^K |    |    | ^R |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 138.
+
+         11. ...              Kt-K1
+
+Intending to intercept the diagonal of the White KB by P-KB4. If
+Black plays P-KKt3 with the same intention, White plays P-KR4-5
+and PxP, and brings the Rook into play.
+
+         12. Q-R3             P-KB4
+
+P-KR3 would lead to an immediate disaster: 13. BxP, PxB; 14.
+QxRP, P-KB4; 15. P-KKt4. The move in the text avoids the
+immediate attack on the King, but the King’s Pawn is now
+“backward,” and White immediately fastens on this weakness.
+
+         13. BxB              QxB
+         14. Castles KR       R-B3
+         15. KR-K1            Kt-Q3
+         16. R-K2             B-Q2
+         17. QR-K1            R-K1
+         18. P-QB4            Kt-B2
+         19. P-Q5             KtxKt
+         20. RxKt             P-KKt3
+
+21. BxP was threatened.
+
+         21. Q-R4             K-Kt2
+         22. Q-Q4             P-B4
+         23. Q-B3             P-Kt3
+         24. PxP              B-B1
+         25. B-K2
+
+The Bishop now settles at Q5, and whether Black takes the pawn or
+not, he is paralysed either by the pawn itself, or the pin of the
+Bishop if the pawn is taken.
+
+         25. ...              BxP
+         26. B-B3             K-B2
+         27. B-Q5             Q-Q3
+         28. Q-K3             R-K2
+         29. Q-R6             K-Kt1
+         30. P-KR4
+
+The deciding manœuvre, tearing up the chain of pawns in front of
+the K.
+
+         30. ...              P-QR3
+         31. P-R5             P-B5
+         32. PxP              PxP
+         33. RxB              Resigns.
+
+After RxR, 34. RxR, RxR; 35. QxPch wins a piece.  A beautifully
+concise game.

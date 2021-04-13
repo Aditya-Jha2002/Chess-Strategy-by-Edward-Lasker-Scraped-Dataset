@@ -1,0 +1,105 @@
+               GAME No. 16
+
+     White: Yates.    Black: Gunsberg.
+
+                Ruy Lopez.
+
+          1. P-K4           P-K4
+          2. Kt-KB3         Kt-QB3
+          3. B-Kt5          P-QR3
+          4. B-R4           Kt-B3
+          5. Castles        KtxP
+          6. P-Q4           P-QKt4
+          7. B-Kt3          P-Q4
+          8. PxP            B-K3
+          9. P-QB3          B-K2
+         10. B-K3
+
+in order to exchange the Black Knight if played to B4.
+
+         10. ...            Castles
+         11. QKt-Q2
+
+If Q-Q3, then Kt-R4; 12. QKt-Q2, P-QB4.
+
+          11. ...            KtxKt
+
+This furthers White’s development, and should not be played
+unless there is no other move available. To be considered are P-
+B4 and B-KKt5. An argument against P-B4 is that White can deprive
+Black’s weak centre pawn of one protecting piece (12. PxP e.p.,
+KtxP (B3); 13. Kt-Kt5), and experience has shown that White
+obtains the superior game.
+
+          12. QxKt                Kt-R4
+          13. B-B2                Kt-B5
+
+A very dangerous manœuvre, as White can evade the exchange of
+his Bishop and the Black Kt does not get back in time for the
+defence of the K side, where White’s attack becomes virulent. He
+should have played P-QB4 followed by Kt-B3.
+
+          14. Q-Q3                P-Kt3
+          15. B-R6                KtxKtP
+          16. Q-K2                R-K1
+          17. Kt-Q4
+
+Black had probably anticipated that White would be content with
+regaining his pawn by BxP, but, with fine positional insight, he
+retains his Bishop for the coming onslaught and speedily
+concentrates his forces on the K side; whilst Black, who has won
+a pawn at the expense of several moves, cannot mobilise an
+equivalent number of pieces in time for the defence.
+
+          17. ...                 Kt-B5
+          18. P-B4                B-Q2
+
+White was threatening 19. Kt-B6, 20. KtxB, 21. B-Kt5, 22. B-B6;
+18. ... Q-Q2 is not sufficient, as 19. P-B5 would follow. Neither
+can 18. ... B-QB4 be played because of 19. B-Kt5, Q-B1; 20. B-B6.
+Preferable to the text move seems B-KB1 (19. B-Kt5, Q-B1; 20. B-
+B6, B-Kt2), as then the Black pieces have more freedom of action.
+
+          19. QR-K1          P-QB4
+          20. P-K6
+
+A brilliant sacrifice to which no satisfactory reply can be
+found. For instance, 20. ... PxKt; 21. Q-Kt4, Kt-K6, 22. RxKt,
+PxR; 23. P-B5, BxP; 24. PxB, PxP, 25. BxP, etc.; or 24. ... R-
+KB1; 25. PxPch, RxP; 26. Q-K6, Q-K1; 27. BxP, etc.; or 23. ... P-
+Kt4; 24. PxPch, KxP; 25. Q-R5ch, K-Kt1; 26. P-B6, BxP; 27. BxP,
+etc.; or 21. ... B-B4; 22. PxPch, KxP; 23. BxPch, PxB; 24. P-B5,
+etc. There are many variations, all leading to a speedy end.
+
+        ---------------------------------------
+     8 | #R |    |    | #Q | #R |    | #K |    |
+       |---------------------------------------|
+     7 |    |    |    | #B | #B | #P |    | #P |
+       |---------------------------------------|
+     6 | #P |    |    |    | ^P |    | #P | ^B |
+       |---------------------------------------|
+     5 |    | #P | #P | #P |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    | #Kt| ^Kt|    | ^P |    |    |
+       |---------------------------------------|
+     3 |    |    | ^P |    |    |    |    |    |
+       |---------------------------------------|
+     2 | ^P |    | ^B |    | ^Q |    | ^P | ^P |
+       |---------------------------------------|
+     1 |    |    |    |    | ^R | ^R | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 123
+
+          20. ...                B-KB3
+          21. P-Kt4              P-Kt
+          22. P-B5               P-Q6
+          23. BxP                BxKP
+
+If PxKP then 24. PxKtP, Kt-K4; 25. RxKt, BxR; 26. Q-R5, Q-B3; 27.
+RxQ, BxR; 28. PxPch, K-R1; 29. Q-B7, etc.; or 26. ... BxP; 27. B-
+B8, etc.
+
+          24. PxB                Q-Kt3ch
+          25. K-R1               Resigns

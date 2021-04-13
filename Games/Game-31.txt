@@ -1,0 +1,94 @@
+                  GAME No. 31
+
+        White: John.    Black: Janowski
+
+               Sicilian Defence.
+
+           1. P-K4                P-QB4
+           2. Kt-KB3              Kt-QB3
+           3. P-Q4                PxP
+           4. KtxP                Kt-B3
+
+The aim of this move is to provoke Kt-B3, and incidentally to
+prevent P-QB4. The latter move would give White command of his Q5
+and not only prevent Black’s P-Q4 but also immobilise Black’s KP
+unless his QP is to remain  “backward.”
+
+           5. QKt-B3              P-KKt3
+
+As shown on p. 216, P-Q3 must be played first. In any case Black
+must be wary of playing P-KKt3. If, for instance, after P-Q3
+White plays 6. B-QB4, and Black replies with P-KKt3, there
+follows 7. KtxKt, PxKt; 8. P-K5!, Kt-Kt5 (PxP?, 9. BxPch); 9. P-
+K6, P-KB4, with advantage to White (see game in the match
+Schlechter-Lasker).
+
+          6. KtxKt          KtPxKt
+          7. P-K5           Kt-Kt1
+          8. B-QB4          P-Q4
+          9. PxP, e.p.      PxP
+         10. Q-B3
+
+        ---------------------------------------
+     8 | #R |    | #B | #Q | #K | #B | #Kt| #R |
+       |---------------------------------------|
+     7 | #P |    |    |    |    | #P |    | #P |
+       |---------------------------------------|
+     6 |    |    | #P | #P |    |    | #P |    |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    | ^B |    |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    | ^Kt|    |    | ^Q |    |    |
+       |---------------------------------------|
+     2 | ^P | ^P | ^P |    |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R |    | ^B |    | ^K |    |    | ^R |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 144
+
+White has now three pieces in action and Black none.  Black’s
+game is hopeless already; his B2 cannot be covered by Q-Q2
+because of: 11. BxPch, QxB; 12. QxPch, and after Q-K2ch there
+follows: 11. B-K3, B-Kt2; 12. Castles QR, and 13. KR-K1, with an
+overwhelming attack.
+
+         10. ...               Q-Q2
+         11. Kt-Q5
+
+In view of the fact that his game is so much more developed, and
+that the opposing King will hardly be able to escape from the
+centre of the board, White decides to sacrifice a Knight in order
+to open the files in the centre for his Rooks, instead of
+following the simple line indicated in the previous note.
+
+         11. ...               PxKt
+         12. BxP               Q-K2ch
+         13. B-K3              R-Kt1
+         14. Castles KR
+
+Castles QR is stronger still, as the QR gets into action at once.
+
+          14. ...               B-KKt2
+          15. B-KB4             R-Kt3
+          16. B-B6ch            RxB
+
+If B-Q2, the continuation might have been: 17. BxB, QxB; 18. QR-
+Q1, Q-Kt2; 19. KR-K1ch, Kt-K2; 20. RxKtch, KxR; 21. BxPch, etc.;
+or 18. ... Q-B1; 19. BxP, etc.
+
+After 17. R-K1 Black could have held out a little longer with B-
+B3. After the text move, however, Black’s game collapses quickly
+before the concentrated onslaught of the White forces.
+
+          17. QxRch           Q-Q2
+          18. Q R-K1ch        Kt-K2
+          19. RxKtch!         KxR
+          20. R-K1ch          K-B1
+          21. BxPch           K-Kt1
+          22. R-K8ch          B-B1
+          23. RxBch           K-Kt2
+          24. Q-B3ch          Resigns.

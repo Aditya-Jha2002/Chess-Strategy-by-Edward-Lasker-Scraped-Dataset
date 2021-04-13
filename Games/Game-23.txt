@@ -1,0 +1,167 @@
+                  GAME No. 23
+
+        White: Yates.       Black: Esser.
+
+              French Defence.
+
+          1. P-K4           P-K3
+          2. P-Q4           P-Q4
+          3. Kt-QB3         Kt-KB3
+          4. B-Kt5          PxP
+          5. BxKt           PxB
+
+If the Queen recaptures, White obtains too great an advantage in
+development, and therefore Black submits to the doubling of his
+pawns. It is doubtful if this means a handicap, although the
+King’s side gets broken up. For Black keeps his two Bishops, a
+powerful weapon, unless White succeeds in developing swiftly an
+attack on the King’s side. The present game is instructive and
+shows the chances afforded to both sides by the position brought
+about by the exchange at KB6.
+
+          6. KtxP           P-KB4
+
+As the KB obtains a long diagonal at Kt2, this advance is
+justified. Otherwise there would be strong objections to it, as
+the pawn is likely to be subjected to attack, and apart from
+that, it gives up command of Black’s K4.
+
+          7. Kt-QB3
+
+Kt-Kt3 would seem more natural, firstly, because Black has
+weaknesses on the K side, and White will need his pieces for
+attack in that quarter, and secondly, because the QP ought to be
+supported by P-B3, as Black will attack it by B-Kt2.
+
+          7. ...            B-Kt2
+          8. Kt-B3          Castles
+          9. B-B4
+
+If now the Knight were at Kt3, White could play P-B3 and BQ3.
+This is the proper place for the B, which might obtain an open
+diagonal after P-KKt4.
+
+          9. ...            Kt-B3
+         10. Kt-K2          Kt-R4
+         11. B-Q3           P-B4
+         12. P-B3           P-QB5
+
+P-Kt3 seems preferable, as the text move releases the hold on
+White’s Q4. The isolated pawn resulting after 13. PxP is not to
+be feared, as the B at Kt2 would have greater efficiency (QR-
+Kt1), and White would not be so firmly established in the centre.
+
+         13. B-B2           P-Kt4
+         14. Q-Q2
+
+There now ensues an interesting struggle. White builds up an
+attack with Q and both Knights and eventually the B  (P-KKt4). If
+Black can manage to play his King into safety at R1 in time, and
+then occupies the Kt file with his Rooks, he would have the
+better of it, his pieces having by far the greater range of
+action.
+
+         14. ...               B-Kt2
+         15. Q-B4              Q-B3
+
+K-R1 and KR-Kt1 might be considered.
+
+         16. Kt-Kt3            B-KR3
+         17. Q-B7              Q-Q1
+         18. Q-K5
+
+White gains a move by attacking the Knight’s Pawn. It may seem
+far fetched if I now point out that this could not have happened
+if from the first Black had given preference to the pawn
+formation at QKt3 and B4 instead of Kt4 and B5, though the whole
+game would almost certainly have taken a different course. Still,
+when advancing a pawn into an unprotected position there always
+is the risk of its becoming the object of an attack at an
+opportune moment, and whenever the plan of development does not
+necessitate such moves they are best avoided.
+
+         18. ...               B-Q4
+         19. Kt-R5             Kt-B3?
+         20. Q-Kt3ch??
+
+        ---------------------------------------
+     8 | #R |    |    | #Q |    | #R | #K |    |
+       |---------------------------------------|
+     7 | #P |    |    |    |    | #P |    | #P |
+       |---------------------------------------|
+     6 |    |    | #Kt|    | #P |    |    | #B |
+       |---------------------------------------|
+     5 |    | #P |    | #B |    | #P |    | ^Kt|
+       |---------------------------------------|
+     4 |    |    | #P | ^P |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    | ^P |    |    | ^Kt| ^Q |    |
+       |---------------------------------------|
+     2 | ^P | ^P | ^B |    |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R |    |    |    | ^K |    |    | ^R |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 134
+
+The last moves have decided the game. Both players have
+overlooked that 20. Q-B6 would have won a pawn at least  (QxQ,
+21. KtxQch with KtxB and BxP). 20. ... BxKt leads to an immediate
+loss by 21. QxB, BxKt; 22. QxB followed by P-KKt4! with an
+overwhelming attack.
+
+Instead of 19. ... Kt-B3, Black should have played P-B3, followed
+by K-R1 and the occupation of the Kt file by the Rooks. White’s
+last move allows him to de this with even greater effect.
+
+         20. ...               K-R1
+         21. Q-R3              R-KKt1
+
+Black has now a preponderance of material on the field of battle,
+and it can be concluded off-hand that White, not being able to
+bring his Rooks into play, must lose.
+
+         22. Kt-Kt3            Q-B3
+         23. K-B1
+
+K-K2 is a shade better. But there is no longer any adequate
+defence.
+
+         23. ...               R-Kt5
+         24. R-K1              QR-KKt1
+         25. Kt-K5
+
+Black was threatening BxKt, followed by R-R5 and P-B5
+
+         25. ...               KtxKt
+         26. PxKt              Q-Kt4
+         27. Q-R5              BxPch
+         28. K-Kt1             RxKt?
+
+QxQ and B-K5ch was simple and effective.
+
+         29. RPxR              BxR
+         30. QxQ               BxQ
+         31. KxB               R-Q1
+         32. P-B4
+
+R-Q1 is much more promising, although it means the loss of a pawn
+(RxR and B-B8, etc.). With Bishops of different colour the game
+is not easy to win even now.
+
+          32. ...             R-Q7
+          33. PxB             RxB
+          34. R-Q1            RxKtP
+          35. R-Q7            K-Kt2
+          36. RxRP            R-QB7
+
+He could have played P-Kt5 at once.
+
+          37. R-R5            R-QKt7
+          38. P-R4
+
+R-R3 would only have drawn out the agony a little longer.
+
+          38. ...             P-Kt5
+              Resigns.

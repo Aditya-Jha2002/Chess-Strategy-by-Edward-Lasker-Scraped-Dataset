@@ -1,0 +1,215 @@
+
+                    GAME No. 17
+
+         White: Berlin.       Black: Riga.
+
+                     Ruy Lopez.
+
+             Move 1-6 as in Game No. 16.
+
+        ---------------------------------------
+     8 | #R |    | #B | #Q | #K | #B |    | #R |
+       |---------------------------------------|
+     7 |    | #P | #P | #P |    | #P | #P | #P |
+       |---------------------------------------|
+     6 | #P |    | #Kt|    |    |    |    |    |
+       |---------------------------------------|
+     5 |    |    |    |    | #P |    |    |    |
+       |---------------------------------------|
+     4 | ^B |    |    | ^P | #Kt|    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    | ^Kt|    |    |
+       |---------------------------------------|
+     2 | ^P | ^P | ^P |    |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R | ^Kt| ^B | ^Q |    | ^R | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 124
+
+          6. ...               PxP
+
+Compare note to move No. 6 in Game 14.
+
+          7. R-K1              P-Q4
+          8. KtxP              B-Q3
+
+This is the key to the variation. Black threatens to obtain a
+draw by perpetual check through BxPch, followed by Q-R5ch and
+QxPch. This is not good enough against a weaker opponent in a
+tournament, and a strong player cannot afford to play the Riga
+defence. But that is not a point against the variation. To prove
+it unsound, White has to find a win.
+
+          9. KtxKt             BxPch
+         10. K-R1!
+
+After 10. K-B1 Black has a tremendous attack, and drives it home
+before White can manage to bring his extra piece into play. A
+game Maroczy-Berger (Vienna, 1908) is an illustration of this. It
+continued in this way: 10. K-B1, Q-R5; 11. B-K3, Castles; 12. Kt-
+Q4, B-Kt5; 13. Kt-KB3, Q-R4. Now White has no satisfactory
+continuation.  14. Kt-Q2 obstructs the Queen, and it is difficult
+to bring the Rooks into concerted action. 14. Kt-B3, QR-Q1; 15.
+Q-Q3, BxKt; 16. PxB, QxP; 17. KtxKt, PxKt; 18. Q-B3, Q-R6ch; 19.
+K-K2, Q-Kt5ch; 20. K-B1, R-Q4; 21. B-Kt3, R-KR4; 22. P-B3, PxP;
+Resigns.
+
+          10. ...                Q-R5
+
+It now looks as if White were lost. But a fine sacrifice forces
+the exchange of all Black’s attacking pieces, and saves the
+situation.
+
+          11. RxKtch           PxR
+          12. Q-Q8ch            QxQ
+          13. KtxQch            KxKt
+          14. KxB               ...
+
+        ---------------------------------------
+     8 | #R |    | #B | #K |    |    |    | #R |
+       |---------------------------------------|
+     7 |    | #P | #P |    |    | #P | #P | #P |
+       |---------------------------------------|
+     6 | #P |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 | ^B |    |    |    | #P |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     2 | ^P | ^P | ^P |    |    | ^P | ^P | ^K |
+       |---------------------------------------|
+     1 | ^R | ^Kt| ^B |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 125
+
+After the terrible slaughter, the position is somewhat clearer.
+Black has a Rook and two pawns for two minor pieces, a slight
+advantage for the end-game, but as yet there is no thought of an
+end-game. White, in possession of two Bishops, with an open
+Queen’s file on which the Black King stands, has good attacking
+chances, and most masters would think the position favourable for
+White.
+
+          14. ...                B-K3
+
+P-KB4 is a plausible move, but is followed by a pretty mate by
+15. B-Kt5. The move in the text threatens to eliminate the KB by
+P-QB4, P-QKt4.
+
+          15. B-K3           P-KB4
+          16. Kt-B3          K-K2
+          17. P-KKt4
+
+Tarrasch recommends 17. R-Q1, threatening Kt-Q5ch.  If P-B3,
+White could play 18. B-Kt6, thereby permanently preventing Black
+from contesting the Queen’s file, and then try to exchange
+Black’s B by Kt-K2-Q4. With two Bishops, White would then have
+winning chances.
+
+A subtle idea underlies White’s move of P-KKt4. He wishes to take
+advantage of the fact that Black has exchanged the KB by playing
+P-Kt5, thus holding all the four pawns on the King’s side. But
+Black finds a surprising reply, which seems to refute White’s
+plan.
+
+Capablanca played against Ed. Lasker (New York, 1915), 17. P-
+KKt4, P-KKt3; 18. K-Kt3, P-KR4; 19. PxBP, P-R5ch; 20. K-R2, PxP;
+21. Kt-K2, P-Kt4; 22. B-Kt3, BxB; 23. RPxB, KR-KKt1; 24. R-Q1,
+QR-Q1; 25. RxR, KxR; 26. Kt-K4, winning a pawn.
+
+          17. ...         P-KKt3
+          18. P-Kt5       QR-KKt1!!
+
+Black offers the exchange in order to get rid of White’s QB.  If
+White accepts the sacrifice, he loses his KKtP, and Black retains
+three passed pawns for the piece, at least an equivalent for the
+end-game. White should decline the doubtful gift and meet the
+threat of P-R3 and P-KKt4 with 19. R-KKt1.
+
+          19. B-Q4         P-R3
+          20. B-B6ch       K-B2
+          21. BxR          RxB
+          22. R-Q1
+
+in order to play 23. B-Q7 in answer to P-B4. This explains
+White’s check at move 20.
+
+          22. ...          PxPch
+          23. K-Kt2        K-B3!
+
+If now 24. Kt-Q5ch, Black would assail the White King with K-K4;
+25. KtxP, B-B5-K7-B6. The Black phalanx of pawns becomes
+menacing.
+
+           24. B-Kt3       BxB
+           25. RPxB        K-K3
+           26. P-Kt4       R-R2
+
+Black need no longer fear to exchange Rooks, for he would then
+threaten the Queen’s side pawns with his King whilst the passed
+pawns kept the White forces occupied.
+
+          27. Kt-K2          R-Q2
+          28. Kt-Q4ch        K-B3
+          29. P-QB3          P-B3
+
+The aim of this move is not clear. Black should adopt a forward
+policy with P-Kt5, P-B5, R-R2, etc.
+
+          30. R-KR1          P-Kt5
+          31. R-R8
+
+Now none of the pawns can advance: P-B5 would be answered by 32.
+R-K8, R-K2; 33. RxR, KxR; 34. Kt-Kt3 and one of the pawns is
+lost.
+
+          31. ...             R-K2
+          32. Kt-K2           R-Q2
+          33. Kt-Q4           R-K2
+          34. R-B8ch          K-Kt2
+          35. R-Q8            P-B5
+          36. R-Q6            K-B2
+          37. Kt-B2           R-K3
+          38. R-Q7ch          R-K2
+          39. R-Q6            R-K3
+          40. R-Q1
+
+White tries to win at all costs--and loses. By a forcible advance
+on the Queen’s side, he creates new chances, but also new
+weaknesses.
+
+          40. ...            K-B3
+          41. P-B4           R-K2
+          42. R-Q4           K-Kt4
+          43. R-Q6           P-K6!
+          44. P-B3
+
+PxP fails on account of P-B6ch and R-R2.
+
+          44. ...            P-K7
+          45. Kt-K1          P-Kt6
+          46. P-Kt5
+
+Too late.
+
+          46. ...           R-R2
+          47. PxBP          PxP
+          48. R-K6          R-R7ch
+          49. K-Kt1         R-B7
+          50. Kt-B2         RxP
+          51. RxKP          R-Q6
+          52. Kt-K1         R-Kt6
+          53. R-Q2          P-B6
+          54. Kt-Q3         P-R4
+              Resigns
+
+The RP cannot be prevented from pushing on to R6, after which a
+mate is threatened by the BlacKRon the eighth rank. R-Q1 would
+then be compulsory. But that lets the Black Rook in on the
+seventh (KR-R7, followed by P-B7ch).

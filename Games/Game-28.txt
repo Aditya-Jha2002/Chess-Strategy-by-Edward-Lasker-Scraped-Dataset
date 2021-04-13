@@ -1,0 +1,126 @@
+                 GAME No. 28
+
+        White: Alapin.      Black: Rubinstein.
+
+               Sicilian Defence.
+
+          1. P-K4          P-QB4
+
+At first glance this move would seem to lose time, as it does
+nothing towards the main object of opening strategy, namely, the
+development of pieces. But we shall find that
+ it does contribute to that aim, although indirectly. For one
+thing it could, by a transposition of moves, lead into an opening
+in which P-QB4 is played in any case; in other openings it is of
+use, in that it acts from the first against the formation of a
+strong white centre. Concurrently it prepares the opening of a
+file for the Rooks.
+
+          2. Kt-KB3          Kt-KB3?
+
+Black should not play Kt-KB3 as long as White’s P-K5 means the
+clear gain of a move. There are plenty of developing moves to
+choose from.
+
+Two systems of development can be followed by Black according to
+whether the KB is to develop at K2 or Kt2. In the first case
+(compare Game No. 29) P-K3 is played. In the second case, the
+opening might take this course: 2. ... Kt-QB3; 3. P-Q4, PxP; 4.
+KtxP, Kt-B3; 5. Kt-QB3, P-Q3 (not P-KKt3 at once, because White
+would exchange Knights and drive off the KKt by P-K5); 6. B-K3,
+P-KKt3, and B-Kt2. White’s position is superior, as he has a pawn
+in the centre in conjunction with greater mobility. Black will
+find it difficult to bring his QB into play. Nevertheless his
+position is compact and difficult to get at.
+
+          3. P-K5
+
+Undoubtedly Rubinstein had taken this move into account when
+playing 2. ... Kt-KB3. His idea was to provoke the advance of the
+KP. The pawn at K5 is weaker than at K4, particularly as Black’s
+QBP prevents its natural support by P-Q4. Moreover Black’s Q4 is
+free from interference by White. White refutes this ultra
+subtilty by simple and straight-forward play, and he gets such an
+advantage in development that his attack succeeds before Black is
+able to demonstrate any weakness in White’s game.
+
+          3. ...            Kt-Q4
+          4. Kt-B3          KtxKt
+          5. QPxKt          Kt-B3
+          6. B-QB4          P-Q3
+
+After 6 ... P-K3, 7. B-B4 would restrain the QP.
+
+          7. B-B4           PxP
+
+At this early stage Black has no satisfactory means of
+development. The QP is attacked three times, and therefore the KP
+cannot move, nor can the KB be developed at Kt2.  B-Kt5, in order
+to play BxKt and PxP, is refuted by BxPch. The move in the text
+which brings about the exchange of Queens, but develops another
+White piece at the same time, is more or less forced. It is
+instructive to watch how White’s advantage in development soon
+materialises.
+
+          8. KtxP          QxQch
+          9. RxQ           KtxKt
+         10. BxKt          P-QR3
+
+White’s threat of B-Kt5ch could not be parried by B-Q2 because of
+11. BxPch.
+
+        ---------------------------------------
+     8 | #R |    | #B |    | #K | #B |    | #R |
+       |---------------------------------------|
+     7 |    | #P |    |    | #P | #P | #P | #P |
+       |---------------------------------------|
+     6 | #P |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     5 |    |    | #P |    | ^B |    |    |    |
+       |---------------------------------------|
+     4 |    |    | ^B |    |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    | ^P |    |    |    |    |    |
+       |---------------------------------------|
+     2 | ^P | ^P | ^P |    |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 |    |    |    | ^R | ^K |    |    | ^R |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 141
+
+          11. B-B7          B-Kt5
+          12. P-B3          QR-B1
+          13. B-Kt6         B-B4
+          14. B-Kt3         P-K4
+          15. B-R4ch        K-K2
+          16. P-QB4
+
+Here White could have won a pawn at once by R-Q5.  If then K-K3,
+17. P-QB4.
+
+          16. ...          P-B3
+          17. K-B2         K-B2
+          18. B-Q7!        BxB
+          19. RxBch        B-K2
+          20. KR-Q1!
+
+The pawns can wait. 20. RxP would not have been profitable
+because of R-QKt1.
+
+          20. ...          K-K3
+          21. RxP          B-Q3
+
+Black might have resigned here. It is only a question of time.
+
+          22. B-R7          R-B3
+
+Otherwise there follows R-Kt6.
+
+          23. RxP           P-QR4
+          24. R-Kt7         R-R1
+          25. R-Q5          P-R4
+          26. P-QR4         P-R5
+          27. P-QKt3        R(R1)-QB1
+          28. R-Kt5         Resigns.

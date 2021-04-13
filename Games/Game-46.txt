@@ -1,0 +1,110 @@
+               GAME NO. 46
+
+  White: G. A. Thomas.    Black: Ed. Lasker.
+
+   Irregular Opening (compare Game No. 45).
+
+           1. P-Q4      P-QB4
+           2. P-Q5      P-Q3
+           3. P-QB4     P-KKt3
+           4. Kt-QB3    B-Kt2
+           5. B-Q2
+
+This is not necessary. Black could hardly exchange his B for the
+Kt; the weakness at his KB3 and KR3 would become too serious a
+disadvantage.
+
+           5. ...       P-K3
+           6. P-K4      PxP
+           7. KtxP!
+
+In view of the fact that Black’s position after BP or KPxP would
+be very promising, as all his pieces would be easy to bring into
+play, White decides upon the sacrifice of a pawn, in order to
+further his own development.
+
+           7. ...       BxP
+           8. R-Kt1     B-Kt2
+           9. Q-R4ch    Kt-B3
+          10. KKt-B3
+
+Kt-Kt6, R-Kt sq; 11. B-R5 leads to nothing, as Black plays 12.
+QK2.
+
+          10. ...       P-KR3
+
+If Black plays KKt-K2 at once, his position becomes somewhat
+cramped after 11. B-Kt5, Castles; 12. Kt-B6ch, K-R1; 13. Q-Q1.
+
+          11. B-Q3      Kt-K2
+          12. Castles   Castles
+          13. Q-B2      P-Kt3
+
+This allows the development of the QB.
+
+          14. B-B3      KtxKt
+          15. KPxKt     Kt-K4
+
+        ---------------------------------------
+     8 | #R |    | #B | #Q |    | #R | #K |    |
+       |---------------------------------------|
+     7 | #P |    |    |    |    | #P | #B |    |
+       |---------------------------------------|
+     6 |    | #P |    | #P |    |    | #P | #P |
+       |---------------------------------------|
+     5 |    |    | #P | ^P | #Kt|    |    |    |
+       |---------------------------------------|
+     4 |    |    | ^P |    |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    | ^B | ^B |    | ^Kt|    |    |
+       |---------------------------------------|
+     2 | ^P |    | ^Q |    |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 |    | ^R |    |    |    | ^R | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 164
+
+Kt-K2 should have been played here in order to play BxB; 17. QxB,
+B-Kt5 with Kt-B4, in answer to 16. Q-Kt2.   Black is still open
+to attack in consequence of his broken King’s side, but there is
+no demonstrable advantage for White. The text move is a mistake,
+and gives White chances of a decisive attack.
+
+          16. KtxKt         BxKt
+          17. BxB           PxB
+          18. BxP!          Q-Kt4
+
+Of course not PxB, on account of 19. QxPch, K-R1; 20. QxPch, K-
+Kt1; 21. R-Kt3, etc. 18. ... P-B4 fails because of 19. R-Kt3.
+
+          19. B-K4          P-B4
+          20. P-B4!!
+
+This elegant continuation decides the game. If PxP, White simply
+plays 21. B-Q3, and Black can hardly hope to save the end-game,
+as his pawns are broken up. If the Queen retreats, however, there
+follows: 21. PxP, and White obtains two passed pawns for the B
+and has the superior position.
+
+          20. ...          Q-Kt2
+          21. PxP          PXB
+          22. RxRch        QxR
+          23. R-KB1        Q-Kt2
+          24. QxP          Q-Kt5
+          25. R-B4         Q-Q8ch
+          26. K-B2         Q-Q5ch
+          27. QxQ          PxQ
+          28. P-K6         B-R3
+          29. RxP          R-B1ch
+
+If K-B1, 30. P-Q6.
+
+          30. K-K3         R-B3
+          31. K-K4         R-B7
+          32. P-Q6         R-K7ch
+
+He might play K-Q5, after which B-Kt2ch has points.
+
+          33. K-Q3         Resigns.

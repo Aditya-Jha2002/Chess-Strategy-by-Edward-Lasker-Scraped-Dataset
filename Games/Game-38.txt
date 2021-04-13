@@ -1,0 +1,242 @@
+                 GAME No. 38
+
+       White: Rotlewi. Black: Teichmann.
+
+           Queen’s Gambit Declined.
+
+          1. P-Q4               P-Q 4
+          2. Kt-KB3             Kt-KB3
+          3. P-B4               P-K3
+          4. Kt-B3              QKt-Q2
+          5. B-Kt5              B-K2
+
+Capablanca tried 5. ... B-Kt5; against Ed. Lasker in New York,
+1915. The continuation was: 6. P-K3, P-B4; 7. B-Q3, Q-R4; 8. Q-
+Kt3.
+
+The correct move is here 8. Castles. If Black wins the pawn by
+BxKt; 9. PxB, QPxP; 10. BxP, QxBP, White obtains a strong attack,
+e.g., 11. R-B1, Q-R4; 12. BxKt, PxB (KtxB; 13. PxP); 13. P-Q5,
+with this possible continuation l3. ... Kt-Kt3, 14. PxP, PxP; 15.
+Q-Q6, with a strong attack.
+
+          6. P-K3               Castles
+          7. Q-B2               P-B4
+
+White intends to castle on the Queen’s side, and to follow this
+up with a storm by the King’s side pawns. Although Rubinstein has
+on many occasions been successful with this form of attack, it is
+open to criticism. For, where Kings have castled on different
+wings, the attack on the King which has castled on the Q side
+should be more successful.
+
+
+        ---------------------------------------
+     8 | #R |    | #B | #Q |    | #R | #K |    |
+       |---------------------------------------|
+     7 | #P | #P |    | #Kt| #B | #P | #P | #P |
+       |---------------------------------------|
+     6 |    |    |    |    | #P | #Kt|    |    |
+       |---------------------------------------|
+     5 |    |    | #P | #P |    |    | ^B |    |
+       |---------------------------------------|
+     4 |    |    | ^P | ^P |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    | ^Kt|    | ^P | ^Kt|    |    |
+       |---------------------------------------|
+     2 | ^P | ^P | ^Q |    |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R |    |    |    | ^K | ^B |    | ^R |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 153
+
+This is much stronger than P-Q Kt3 and B-Kt2, as then the Black
+Queen cannot participate in the attack quickly enough. As pointed
+out before, speed is the first consideration for the attack,
+whenever the Kings have castled on different wings. An
+interesting counterpart to the present game is found in a game
+won by Rubinstein from Teichmann (Match, Vienna, 1908) 7. ... P-
+QKt3; 8. PxP, PxP; 9. B-Q3, B-Kt2; 10. Castles QR, P-B4; 11. P-
+KR4, P-B5?  (the only hope lay in the opening of the QB file);
+12. B-B5, R-K1; 13. BxKKt, KtxB; 14. P-KKt4, B-Q3; 15. P-Kt5, Kt-
+K5; 16. P-R5, Q-K2; 17. QR-Kt1, P-QR3; 18. BxPch!, KxB; 19. P-
+Kt6ch, K-Kt1; 20. KtxKt, PxKt; 21. P-R6, P-B31 22. PxP, PxKt; 23
+R-R8ch, KxP; 24. R-R7ch, and Black resigned a few moves later.
+
+          8. Castles           Q-R4
+          9. PxQP
+
+White loses time in the centre. It was imperative to proceed at
+once with P-KKt4 followed by BxKt, P-Kt5 and P-KR4.
+
+          9. ...               KPxP
+         10. PxP               KtxP
+         11. Kt-Q4             B-K3
+         12. K-Kt1
+
+It would be too risky to leave both King and Queen on the QB
+file.
+
+         12. ...               QR-B1
+         13. B-Q3              P-KR3
+
+The threat was: BxKt and BxPch. Had White played P-KKt4 and P-KR4
+instead of effecting exchanges in the centre, Black would not
+have been able to afford this weakening move. But now Black wins
+the game on the other wing, before White is able to make use of
+the weakness thus created.
+
+         14. BxKt              BxB
+         15. B-B5              KR-Q1
+         16. BxB               PxB
+         17. Q-Kt6
+
+The Queen must leave the QB file without delay, as Kt-K5 is
+threatened. Black’s game is already superior; with the exception
+of the Queen, White has no piece available for the attack on the
+opposing King.
+
+          17. ...                 R-Q3
+          18. R-QB1               R-R3
+
+Now White must again provide against Black’s Kt-K5, as White’s
+QKt is needed for the defence of QR2.
+
+          19. P-B3                R-Q1
+
+Black intends to move his B and then to advance his KP with an
+attack on the Queen. The object of the text move is to prevent
+White from saving himself by an attack on the Rook (Q-B5).
+
+          20. R-B2                BxKt
+
+By this exchange Black achieves his object of driving off the
+Knight by P-Q5, but White has time to give his RP further
+protection by P-QKt3, This, Black would have prevented by playing
+B-Kt4 instead of the text move, e.g. 21. P-B4, P-K4; 22. Q-B5,
+PxKt; 23. PxP, B-B3; 24. PxKt, P-Q5, etc.
+
+          21. PxB                  P-K4
+          22. Q-Kt4                PxP
+          23. QxP                  Kt-K3
+          24. Q-K5
+
+This delays the fatal advance of the QP for one move.
+
+          24. ...                  P-QKt4
+          25. P-QKt3               P-Q5
+          26. Kt-K4                P-Q6
+          27. R-Q2                 Kt-Q5
+          28. R-QB1                Kt-B7
+          29. Q-Kt2                Kt-R6ch
+          30. K-R1                 Kt-B7ch
+          31. K-Kt1                Kt-R6ch
+          32. K-R1                 Kt-B7ch
+          33. K-Kt1
+
+        ---------------------------------------
+     8 |    |    |    | #R |    |    | #K |    |
+       |---------------------------------------|
+     7 | #P |    |    |    |    |    | #P |    |
+       |---------------------------------------|
+     6 | #R |    |    |    |    |    |    | #P |
+       |---------------------------------------|
+     5 | #Q | #P |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    | ^Kt|    |    |    |
+       |---------------------------------------|
+     3 |    | ^P |    | #P |    | ^P |    |    |
+       |---------------------------------------|
+     2 | ^P | ^Q | #Kt| ^R |    |    | ^P | ^P |
+       |---------------------------------------|
+     1 |    | ^K | ^R |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 154
+
+Black does not play for a draw, but only wishes to gain time.
+
+          33. ...            R-QB3
+
+The intention is to double Rooks and to force an entry at B7. P-
+Kt5 would not be good. The White Rook would no longer be
+attacked, and the Knight could attack the QP.
+
+          34. R(B1)-Q1       KR-QB1
+
+Now that the White Rook has left the QB file, one Rook would be
+sufficient to force an entry at B7, and Kt-R6ch followed by P-Kt5
+could have been played at once, e.g. 34. ... Kt-R6ch; 35. K-R1,
+P-Kt5 (preventing P-QKt4); 36. Kt-B2,R-B7; 37. RxR, PxR; 38. R-
+QB1, Q-Kt3; 39. Kt-K4, R-Q8 followed by RxRch, Q-Q5ch and P-B8
+mate.
+
+          35. RxP            Kt-R6ch
+          36. K-R1           P-Kt5
+          37. R-Q7           Q-K4!!
+
+If QxQ, Black mates in three.
+
+          38. R-Q8ch        RxR
+          39. RxRch         K-R2
+          40. R-Q1          QxQch
+
+Curiously enough there is nothing better. Q-B2 only leads to the
+exchange of Queens and the same end-game, which, however, is an
+easy win for Black, as the permanent mating threat keeps the
+White Rook tied to the first rank, whilst the Black King
+threatens to capture all the White pawns.
+
+If Q-B2 White forces the exchange of Queens with the following
+combination: 41. Q-Q2, R-B7; 42. Q-Q3, R-B8ch; 43. K-Kt2, with a
+threat of Kt-B6ch and Q-R7 mate. Black therefore would have to
+play Q-B7ch, etc., as in the game.
+
+         41. KxQ           R-B7ch
+         42. K-R1          RxP
+         43. R-R1          P-Kt4
+         44. Kt-B6ch       K-Kt2
+         45. Kt-K4         K-Kt3
+         46. Kt-Q6         P-QR4
+
+We have now a position with a forced move. If the White Knight
+moves, there follows K-B4-B5, etc. Therefore White gives up his R
+P voluntarily.
+
+         47. R-QB1         RxP
+         48. Kt-B4         Kt-Kt4
+
+Now Kt-B6 and RxP mate are threatened.
+
+         49. Kt-K5ch       K-Kt2
+         50. Kt-Kt4        R-K7
+         51. R-B5          R-K8ch
+         52. K-Kt2         Kt-R6
+         53. R-B7ch        K-B1
+         54. R-B1          R-K7ch
+         55. K-R1          Kt-B7ch
+         56. K-Kt1         Kt-R6ch
+
+Black again appears to be short of time.
+
+         57. K-R1          Kt-Kt4
+         58. R-B5          R-K8ch
+         59. K-Kt2         Kt-R6
+         60. R-B1          R-K7ch
+
+Now, after the sixtieth move Black has again plenty of time, and
+can prepare the final combination at leisure.
+
+         61. K-R1          R-K3
+         62. R-R1          K-Kt2
+         63. R-QB1         K-Kt3
+         64. R-B6          RxR
+         65. Kt-K5ch       K-B4
+         66. KtxR          P-R4
+         67. Kt-Q4ch       K-K4
+         68. Kt-K2         Kt-B7ch
+         69. K-Kt2         Kt-Q5
+             Resigns.

@@ -1,0 +1,180 @@
+                   GAME NO. 8
+
+     White: Blackburne.    Black: Em. Lasker.
+
+                  Scotch Game.
+
+          1. P-K4           P-K4
+          2. Kt-KB3         Kt-QB3
+          3. P-Q4           PxP
+          4. KtxP           B-B4
+          5. B-K3           Q-B3
+
+The threat KtxKt and BxB must be met in some way.  P-Q3 is not
+satisfactory, for Black remains with a trebled pawn after the
+double exchange. An alternative to the text move is B-Kt3. Q-B3,
+however, has the advantage of developing a piece, and although it
+is the Queen, White has no early opportunity of driving the same
+off, such as he often obtains when the Queen comes out so soon in
+the game.
+
+          6. P-QB3          KKt-K2
+          7. Kt-B2
+
+In order to develop the QKt.
+
+          7. ...            P-QKt3!
+
+Out of three possible moves, Lasker selects the one which
+contributes most to development. B-Kt3 does nothing in that
+direction, and BxB would bring the White Knight further into
+play. The text move prepares the development of the B at Kt2 with
+the option of Castles QR. If White exchanges Bishops he gives up
+the command of his Q4.  Black’s P-Q3 might have had the same
+result, but then the exchange would have given White a majority
+of pawns on the K side, whilst White’s three Q side pawns would
+have held the black Q side pawns, one of the latter being
+doubled.
+
+          8. Kt-Q2          Q-Kt3
+
+The exchange of Bishops allows White to play Kt-K3, thus avoiding
+the weakening move P-K Kt3. 9. B-KB4 is answered by P-Q4!.
+
+          9. BxB            PxB
+         10. Kt-K3          R-QKt1
+         11. P-QKt3         Castles
+         12. B-B4
+
+To prevent Black’s P-B4.
+
+At first sight it seems as if the QBP ought to move to B4, as the
+advance of the QKtP has weakened it. But White dares not allow a
+Black Knight to settle at Q5.
+
+          12. ...            P-Q3
+          13. P-B4!
+
+        ---------------------------------------
+     8 |    | #R | #B |    |    | #R | #K |    |
+       |---------------------------------------|
+     7 | #P |    | #P |    | #Kt| #P | #P | #P |
+       |---------------------------------------|
+     6 |    |    | #Kt| #P |    |    | #Q |    |
+       |---------------------------------------|
+     5 |    |    | #P |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    | ^B |    | ^P | ^P |    |    |
+       |---------------------------------------|
+     3 |    | ^P | ^P |    | ^Kt|    |    |    |
+       |---------------------------------------|
+     2 | ^P |    |    | ^Kt|    |    | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R |    |    | ^Q | ^K |    |    | ^R |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 108
+
+Black threatens to play K-R1 in order to play P-B4.  White’s
+position would then be very bad, and therefore he rightly decides
+to anticipate the move, even at the cost of a pawn. In order to
+gain the QBP Black must waste a number of moves with the Q, and
+White gains time for a King’s side attack. The pawn sacrifice is
+very promising indeed.
+
+          13. ...              Q-B3
+          14. Castles          QxQBP
+          15. R-B3
+
+There seem to be many threats here, and the position is a
+difficult one to fathom. After disentangling his Queen, Black
+tries very hard to force his P-B4. As soon as he succeeds in this
+he has a won game, for the open file is available both for
+defence and counter-attack.
+
+          15. ...             Q-Q5
+          16. K-R1            B-K3
+          17. R-QB1           BxB
+          18. RxB             Q-Kt7
+
+Q-B3 is impossible apart from the fact that it would block the
+KBP, e.g. 18. ... Q-B3; 19. P-K5, PxP; 20. Kt-K4, etc.
+
+          19. R-QB2          Q-B3
+
+Now the attack shown in the last note could be answered with Q-
+R5.
+
+          20. Kt-Kt4
+
+Here P-KKt4 could be answered by Kt-Q5, e.g. 21. P-Kt5, Q-Kt3;
+22. R-Kt3, P-B4.
+
+          20. ...           Q-Kt3
+          21. R-Kt3         P-B4
+          22. Kt-K5         Q-K3
+          23. KtxKt         KtxKt
+          24. P-K5          Kt-Kt5!
+
+This prevents the Rook from occupying the Q file which is about
+to be opened.
+
+          25. R-B4          PxP
+          26. Q-R1          Q-Q2!
+
+If now QxP, Black plays R-B2 with unanswerable threats of R-K1 or
+Q1.
+
+          27. Kt-B3         PxP
+          28. Kt-K5         Q-K2
+          29. RxKBP         QR-K1
+          30. Kt-B4         Q-K8ch
+          31. R-B1          QxQ
+          32. RxQ           KtxP
+          33. P-R3          P-B5
+          34. R-Q3          Kt-Kt5
+          35. R-Q7          P-B6!
+          36. PxP           RxP
+          37. RxRP          Kt-Q6
+
+threatens mate in six.
+
+          38. R-R1          Kt-K8
+
+mate is again threatened.
+
+          39. Kt-Q2         RxPch
+          40. K-Kt1         R-Kt6ch
+          41. K-R2          R-Q6!
+          42. RxKt          RxKtch
+          43. RxR           RxR
+          44. R-Q7          R-K6
+          45. RxP           RxP
+          46. RxP           P-R3
+          47. R-B6
+
+A few more moves “for fun.”
+
+          47. ...          K-R2
+          48. K-Kt2        P-R4
+          49. R-R6         P-Kt3
+          50. R-R4         K-R3
+          51. R-QB4        R-Kt7ch
+          52. K-Kt3        K-Kt4
+          53. R-B3         P-R5ch
+          54. K-R3         K-R4
+          55. R-B4         R-Kt6ch
+          56. K-R2         P-Kt4
+          57. R-R4         R-Kt7ch
+          58. K-Rsq        P-R6
+          59. R-QB4        P-Kt5
+          60. K-Ktsq       P-Kt6
+          61. R-B5ch       K-Kt3
+          62. R-Bsq        K-B4
+          63. R-Rsq        R-Q7
+          64. R-Ksq        K-B5
+          65. R-Rsq        K-K6
+          66. R-R3ch       R-Q6
+          67. R-Rsq        K-K7
+              Resigns.

@@ -1,0 +1,239 @@
+               GAME NO. 37
+
+   White: Marshall.   Black: Capablanca.
+
+    Queen’s Gambit Declined (see p. 52).
+
+          1. P-Q4             P-Q4
+          2. P-QB4            P-K3
+          3. Kt-QB3           Kt-KB3
+          4. B-Kt5            B-K2
+          5. P-K3             Kt-K5
+
+
+        ---------------------------------------
+     8 | #R | #Kt| #B | #Q | #K |    |    | #R |
+       |---------------------------------------|
+     7 | #P | #P | #P |    | #B | #P | #P | #P |
+       |---------------------------------------|
+     6 |    |    |    |    | #P |    |    |    |
+       |---------------------------------------|
+     5 |    |    |    | #P |    |    | ^B |    |
+       |---------------------------------------|
+     4 |    |    | ^P | ^P | #Kt|    |    |    |
+       |---------------------------------------|
+     3 |    |    | ^Kt|    | ^P |    |    |    |
+       |---------------------------------------|
+     2 | ^P | ^P |    |    |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R |    |    | ^Q | ^K | ^B | ^Kt| ^R |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 150
+
+Lasker has played this move successfully in his match against
+Marshall; but it has not come into general use. White should get
+the better game by 6. BxB, QxB; 7. Q-B2, KtxKt; 8. QxKt or 7.
+PxP, KtxKt; 8. PxKt, PxP; 9. Q-Kt3, in the first case because the
+Black QB is out of play, in the second case because of the open
+Kt file. 7. KtxKt is bad, because PxKt prevents the natural
+development of the KKt at B3, and Black can obtain an attack
+after castling by P-KB4-5.
+
+          6. BxB           QxB
+          7. B-Q3
+
+This also is a good move, as it furthers development.
+
+          7. ...           KtxKt
+          8. PxKt          PxP
+
+Giving up the centre pawn in this case is not against the spirit
+of the opening, as it opens the only diagonal on which the Black
+QB can operate.
+
+          9. BxP           P-QKt3
+         10. Q-B3          P-QB3
+         11. Kt-K2         B-Kt2
+         12. Castles KR    Castles
+         13. P-QR4
+
+This move can only be good if White intends to operate on the
+Queen’s side, possibly by KR-Kt1 and P-R5.  But the position of
+the White Queen makes the adoption of a different plan
+compulsory. For one thing, it is rational to concentrate forces
+where the Queen can take her share, therefore, in this case, on
+the King’s side. On the other hand, the manœuvre referred to
+could not be put into execution here because Black can prevent P-
+R5 by P-QB4 and Kt-B3. A fairly obvious course was to play P-K4,
+taking possession of the centre. P-QB4 would then be answered by
+P-Q5, after which the White Rooks would be very effective at Q1
+and K1. In this game White does initiate a King’s side attack
+subsequently, and thus 13. ... P-QR4 is clearly a lost move.
+
+          13. ...          P-QB4
+          14. Q-Kt3        Kt-B3
+          15. Kt-B4        QR-B1
+
+The tempting move of P-K4 cannot be played because of 16. Kt-Q5,
+Q-Q1; 17. PxBP, Kt-R4; 18. KR-Q1.  The move in the text threatens
+PxP, KtxP and RxB.
+
+          16. B-R2         KR-Q1
+          17. KR-K1        Kt-R4
+
+This threatens B-B3 attacking the RP. White decides to yield the
+same at once, thinking quite rightly that a direct attack must
+have good chances, as Black gets two pieces out of play in
+capturing the pawn.
+
+         18. QR-Q1           B-B 3
+         19. Q-Kt4
+
+Black cannot take the pawn yet, because of KtxP and BxPch.
+
+         19. ...             P-B5
+         20. P-Q5?
+
+        ---------------------------------------
+     8 |    |    | #R | #R |    |    | #K |    |
+       |---------------------------------------|
+     7 | #P |    |    |    | #Q | #P | #P | #P |
+       |---------------------------------------|
+     6 |    | #P | #B |    | #P |    |    |    |
+       |---------------------------------------|
+     5 | #Kt|    |    | ^P |    |    |    |    |
+       |---------------------------------------|
+     4 | ^P |    | #P |    |    | ^Kt| ^Q |    |
+       |---------------------------------------|
+     3 |    |    | ^P |    | ^P |    |    |    |
+       |---------------------------------------|
+     2 | ^B |    |    |    |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 |    |    |    | ^R | ^R |    | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 151
+
+There is no need to play for violent complications. The logical
+course was to open the way to the King’s side for the Rooks by P-
+K4. The continuation could have been:  20. P-K4, BxRP; 21. Kt-R5,
+P-Kt3; 22. P-K5, BxR; 23. RxB followed by Kt-B6, with a strong
+attack; also after 21. ... P-B3, 22. R-Q2, White’s attacking
+chances are good. After the move in the text, Black could get an
+advantage by simply exchanging: 20. ... PxP; 21. KtxP, BxKt; 22.
+RxB, RxR; 23. QxRch, R-Q1; 24. Q-KB5, P-Kt3; 25. Q-B2, Q-R6. In
+taking the RP, however, Black incurs grave risks.
+
+         20. ...             BxRP
+         21. R-Q2            P-K4
+         22. Kt-R5           P-Kt3
+         23. P-Q6            Q-K3
+         24. Q-Kt5           K-R1
+
+Black finds the weaknesses at his KB3 and KR3 very troublesome.
+RxP would lose at once, because of 25. RxR, QxR; 26. Q-R6!
+
+          25. Kt-B6           RxP
+          26. RxR             QxR
+          27. B-Kt1
+
+Q-R4 would have been answered by K-Kt2.
+
+          27. ...             Kt-B3
+
+Black must try to bring back his minor pieces for the defence. If
+he succeeds in doing that in time, the end-game is easily won on
+the Queen’s side.
+
+          28. B-B5            R-Q1
+
+Not PxB because of Q-R6.
+
+          29. P-KR4
+
+White’s attacking resources seem inexhaustible. By exchanging
+Queens he could have got his pawn back in this way:  29. B-Q7, Q-
+B1 (R xB?, 30. Q-R6); 30. BxKt, BxB; 31. QxQP, Q-Q3; 32. Kt-
+Q7,QxQ; 33. KtxQ, B-K1; 34. KtxQBP. But even then Black would
+maintain a superiority in the end-game owing to the freedom of
+his passed pawn, and because he can post his Rook at the seventh
+after P-QKt4. This explains why Marshall prefers not to win back
+his pawn, but to enter upon a violent attack with a doubtful
+issue. However, Capablanca finds the right move in all the
+ensuing complications, and finally wins the game.
+
+        ---------------------------------------
+     8 |    |    |    | #R |    |    |    | #K |
+       |---------------------------------------|
+     7 | #P |    |    |    |    | #P |    | #P |
+       |---------------------------------------|
+     6 |    | #P | #Kt| #Q |    | ^Kt| #P |    |
+       |---------------------------------------|
+     5 |    |    |    |    | #P | ^B | ^Q |    |
+       |---------------------------------------|
+     4 | #B |    | #P |    |    |    |    | ^P |
+       |---------------------------------------|
+     3 |    |    | ^P |    | ^P |    |    |    |
+       |---------------------------------------|
+     2 |    |    |    |    |    | ^P | ^P |    |
+       |---------------------------------------|
+     1 |    |    |    |    | ^R |    | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 152
+
+         29. ...                 Kt-K2
+         30. Kt-K4               Q-B2
+         31. Q-B6ch              K-Kt1
+         32. B-K6
+
+This is now compulsory. If White loses time in withdrawing the B,
+Black consolidates his position by: Kt-Q4 and Q-K2.
+
+         32. ...                 PxB
+
+R-B1 is refuted by 33. Kt-Kt5!, PxB; 34. QxR, etc.
+
+         33. QxKPch
+
+Better than Kt-Kt5, for after Kt-Q4, 34. QxPch, the Black King
+finds a safe retreat at Kt2.
+
+         33. ...                 K-B1
+         34. Kt-Kt5              Kt-Kt1
+         35. P-B4
+
+in order to open the file for the Rook.
+
+         35. ...                 R-K1
+         36. PxP                 R-K2
+         37. R-B1ch              K-Kt2
+         38. P-R5                B-K1
+         39. P-R6ch              K-R1
+
+KtxP fails on account of Q-B6ch.
+
+         40. Q-Q6
+
+White takes all possible advantage from the position, but cannot
+bring home his attack, as Black has concentrated his forces for
+the defence. Black must still be careful to avoid a mate, e.g.
+QxQ?; 41. PxQ, RxP; 42. R-B7 or 4l. ... R-Q2; 42. R-B8.
+
+         40. ...                 Q-B4
+         41. Q-Q4
+
+Here White could have tried QxQ and R-B8. There was then a
+permanent threat of RxB, e.g. 41. QxQ, PxQ; 42. R-B8, RxP; 43.
+Kt-B3, R-K2; 44. Kt-Kt5, etc.  It seems as if Black would have to
+give up the piece again by 43. ... R-R4 in order to win. White,
+however, would then have drawing chances, which would have been a
+fitting conclusion to this wonderful game.
+
+         41. ...                RxP
+         42. Q-Q7               R-K2
+             Resigns

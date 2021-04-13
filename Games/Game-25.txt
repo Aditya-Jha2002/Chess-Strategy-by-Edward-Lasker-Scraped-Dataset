@@ -1,0 +1,129 @@
+                  GAME NO. 25
+
+   White: Emanuel Lasker.   Black: Tarrasch.
+
+                French Defence.
+
+          1. P-K4                P-K3
+          2. P-Q4                P-Q4
+          3. Kt-QB3              Kt-KB3
+          4. B-Kt5               B-Kt5
+
+        ---------------------------------------
+     8 | #R | #Kt| #B | #Q | #K |    |    | #R |
+       |---------------------------------------|
+     7 | #P | #P | #P |    |    | #P | #P | #P |
+       |---------------------------------------|
+     6 |    |    |    |    | #P | #Kt|    |    |
+       |---------------------------------------|
+     5 |    |    |    | #P |    |    | ^B |    |
+       |---------------------------------------|
+     4 |    | #B |    | ^P | ^P |    |    |    |
+       |---------------------------------------|
+     3 |    |    | ^Kt|    |    |    |    |    |
+       |---------------------------------------|
+     2 | ^P | ^P | ^P |    |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R |    |    | ^Q | ^K | ^B | ^Kt| ^R |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 136
+
+This line of defence, called the McCutcheon variation, was
+recommended for many years by Tarrasch as being the strongest.
+The most obvious continuation 5. P-K5 leads to complications, and
+the final verdict has not yet been reached.  After 5. ... P-KR3,
+the best continuation is thought to be:  6. PxKt, PxB; 7. PxP, R-
+Kt1; 8. P-KR4, PxP; 9. Q-R5, Q-B3; 10. QxRP, QxP.
+
+White has an easy development, whilst Black, as in most
+variations in the French defence, finds it difficult to bring his
+QB into play. After P-KR3, it is not advisable to retire the
+Bishop; 6. B-R4, P-KKt4; 7. B-Kt3, for here the Bishop is out of
+play, and Black’s King’s Knight being free can play to K5 for
+concerted action with Black’s KB.  Lasker’s continuation in the
+present instance is at once simple and effective. It leads to an
+entirely different system of development.
+
+          5. PxP             QxP
+
+If Black recaptures with the pawn, he must lose a move with the
+Bishop in order to avoid getting an isolated doubled pawn after
+6. Q-B3. The doubled pawn which Black may get after the move in
+the text would not be isolated, and therefore not necessarily
+weak. It could become a weakness if Black were to castle on the
+King’s side. But otherwise it might even become a source of
+strength, supporting, as it would, an advance of Black’s KP
+against the White centre.
+
+          6. Kt-B3          P-B4?
+
+Black should retain the option of castling QR, in case White
+exchanges at his KB6; P-QKt3 and B-Kt2 would have been better.
+
+          7. BxKt          PxB
+          8. Q-Q2          BxKt
+          9. QxB           Kt-Q2
+         10. R-Q1          R-KKt1
+         11. PxP           QxP
+         12. Q-Q2          Q-Kt3
+
+guarding against the mate at Q1 before moving the Kt.  But this
+would have been better effected by Q-K2. After Q-Kt3 the Knight
+cannot move yet because of B-Kt5ch.
+
+        ---------------------------------------
+     8 | #R |    | #B |    | #K |    | #R |    |
+       |---------------------------------------|
+     7 | #P | #P |    | #Kt|    | #P |    | #P |
+       |---------------------------------------|
+     6 |    | #Q |    |    | #P | #P |    |    |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    | ^Kt|    |    |
+       |---------------------------------------|
+     2 | ^P | ^P | ^P | ^Q |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 |    |    |    | ^R | ^K | ^B |    | ^R |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 137
+
+          13. P-B3          P-QR3
+          14. Q-B2          P-B4
+          15. P-KKt3        Kt-B4
+          16. B-Kt2         Q-B2
+
+Black wishes to push on the KP. White, however, prevents this at
+once.
+
+          17. Q-K2          P-Kt4
+          18. Castles       B-Kt2
+
+The Black position has any number of weaknesses. The King cannot
+castle into safety; the pawn position is full of holes, and open
+to attack. White takes full advantage of this and wins in
+masterly fashion with a few strokes.
+
+         19. P-B4           P-Kt5
+         20. Q-Q2           R-Kt1
+
+Now White cannot capture the KtP because of BxKt.  But he does
+not want the pawn, he wants the King.
+
+         21. Q-R6           BxKt
+         22. BxB            Q-K4
+         23. KR-K1          QxP
+         24. Q-B4           QR-B1
+         25. Q-Q6           P-B3
+
+Mate in two was threatened (B-B6ch, etc.).
+
+         26. B-R5ch        R-Kt3
+         27. BxRch         PxB
+         28. RxPch         Resigns.

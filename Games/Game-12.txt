@@ -1,0 +1,214 @@
+                GAME No. 12
+
+    White: Teichmann.    Black: Rubinstein.
+
+           Ruy Lopez (see p. 37).
+
+           1. P-K4           P-K4
+           2. Kt-KB3         Kt-QB3
+           3. B-Kt5          P-QR3
+           4. B-R4
+
+By exchanging the Bishop White could not prove P-QR3 to be a lost
+move, for Black, by retaking with the QP, obtains open lines for
+Q and QB, and in addition to an easy development, retains two
+Bishops. This is a set-off against a certain weakness in Black’s
+game, which may be found in the fact that after P-Q4, PxP, White
+has four pawns to three on the King’s side, while his three pawns
+on the Queen’s side are able to hold the four opposing pawns, one
+of which is doubled. But this weakness can only tell in the end-
+game, which is too far ahead for practical purposes, and to which
+it may not come at all. An example of the usual line of play will
+be found in Game No. 18.
+
+          4. ...             Kt-B3
+          5. Castles         B-K2
+          6. R-K1            P-QKt4
+          7. B-Kt3           P-Q3
+          8. P-B3
+
+        ---------------------------------------
+     8 | #R |    | #B | #Q | #K |    |    | #R |
+       |---------------------------------------|
+     7 |    |    | #P |    | #B | #P | #P | #P |
+       |---------------------------------------|
+     6 | #P |    | #Kt| #P |    | #Kt|    |    |
+       |---------------------------------------|
+     5 |    | #P |    |    | #P |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    | ^P |    |    |    |
+       |---------------------------------------|
+     3 |    | ^B | ^P |    |    | ^Kt|    |    |
+       |---------------------------------------|
+     2 | ^P | ^P |    | ^P |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R | ^Kt| ^B | ^Q | ^R |    | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 116
+
+         8. ...              Castles
+
+In Capablanca’s opinion Black should not castle before White’s
+intentions in the centre have been made clear. It makes a great
+difference whether White plays his QP to Q4 or to Q3 only.
+
+If after 8. ... QKt-R4; 9. B-B2, P-B4 White plays:  10. P-Q4, his
+intention is to move his pawn further to Q5 as soon as Black has
+castled, and then to attack on the King’s wing with QKt-Q2-B1-K3,
+P-KKt4 and Kt-B5.  For this reason Black should force White to
+disclose whether he intends to exchange his QP or to advance it
+to Q5. In the latter case Black can refrain from castling
+altogether and counter-attack on the King’s wing, e.g., 10. P-Q4,
+Q-B2; 11. P-KR3, B-Q2; 12. QKt-Q2, R-QB1; if now: 13.  P-Q5 then
+P-R3 followed by P-Kt4-Kt5 gives Black many chances. If on the
+contrary 13. PxP, then Black need no longer fear an attack on the
+King’s side after he has castled, as his Rooks will have a
+favourable opportunity for operating on the open Queen’s file.
+However, there is still the disadvantage for Black of having
+advanced Queen’s side pawns, which are liable to attack (P-QR4).
+
+The game takes a different course when Black exchanges the pawns
+in the centre. The continuation would then be:  11. ... Kt-B3;
+12. Q Kt-Q2, B-Q2; 13. Kt-B1, PxP; 14. PxP, PxP; 15. B-Kt5, Q-
+Kt3. It is difficult to decide which side has the advantage.
+Black has an extra pawn, but White has the initiative.
+
+If in Diag. 116, after 8. ... Castles White plays 9. P-Q4 at
+once, Black has an opportunity for the following interesting
+attack: 9. P-Q4, B-Kt5; 10. B-K3, KtxKP; 11. B-Q5, Q-Q2; 12.
+BxKKt, P-Q4; 13. B-B2, P-K5 14. P-KR3, B-R4; 15. Kt-K5, BxQ; 16.
+KtxQ, BxB; 17. KtxR, RxKt. White cannot take advantage of his
+Rooks, as there is no open file, whilst Black threatens to
+initiate a strong attack with P-B4.
+
+Aljechin has analysed a variation of this line of play, which he
+thinks leads finally to White’s advantage: 12. PxP, Kt-Kt4; 13.
+BxKt, BxB; 14. P-KR3, BxKt; 15. QxB, KtxP; 16. RxKt, PxR; 17.
+BxR, B-B8; 18. Kt-R3, Q-Q7. I doubt that White can win this game.
+
+          9. P-Q3
+
+In this less aggressive continuation, in which nothing is
+immediately attempted against Black’s centre, White prepares
+gradually for a King’s side attack, as in this game with Kt-Q2-
+B1-Kt3. But Black should obtain time for operations in the
+centre.
+
+          9. ...                Kt-QR4
+          10. B-B2              P-B4
+          11. QKt-Q2            Kt-B3
+          12. P-QR4
+
+In many variations of the Ruy Lopez, this advance is always good,
+if Black cannot avoid exchanging the pawn, because the White
+Queen’s Rook, which only gets into play with difficulty, can
+either be exchanged or hold the Rook’s file. In any case the
+Black Knight’s pawn is weak for the end-game. If, as in the
+present game. Black can play P-Kt5, P-R4 is useless and even
+doubtful, as the Rook’s pawn itself may become weak in the end-
+game.
+
+          12. ...               B-Kt2
+
+This causes the loss of the game. In the Ruy Lopez the Bishop is
+nearly always needed on the diagonal QB1-KR6, to prevent a Knight
+from settling at White’s KB5, which otherwise cannot be repelled
+except by P-KKt3, a most undesirable consummation. The proper
+continuation would have been P-Kt5, B-K3, Q-B2 and P-Q4,
+capturing the Queen’s file. Compare note to move 13 in the next
+game.
+
+          13. Kt-B1             Q-B2
+          14. Kt-Kt3            P-Kt3
+
+        ---------------------------------------
+     8 | #R |    |    |    |    | #R | #K |    |
+       |---------------------------------------|
+     7 |    | #B | #Q |    | #B | #P |    | #P |
+       |---------------------------------------|
+     6 | #P |    | #Kt| #P |    | #Kt| #P |    |
+       |---------------------------------------|
+     5 |    | #P | #P |    | #P |    |    |    |
+       |---------------------------------------|
+     4 | ^P |    |    |    | ^P |    |    |    |
+       |---------------------------------------|
+     3 |    |    | ^P | ^P |    | ^Kt| ^Kt|    |
+       |---------------------------------------|
+     2 |    | ^P | ^B |    |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R |    | ^B | ^Q | ^R |    | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 117
+
+Here is the weakness. White first provides against Black’s P-Q4,
+and then starts a sharp attack on the King’s side.
+
+          15. B-Kt5           QR-Q1
+
+P-Q4 at once is not feasible, because of BxKt.
+
+          16. PxP             PxP
+          17. Q-B1
+
+This brings the Q away from her file, which Black could now
+secure by P-Q4, followed by PxP.
+
+          17. ...             KR-K1
+
+The proper continuation is the one outlined in the note above.
+
+          18. P-R3
+
+White has now ample leisure to prepare the advance of his KBP.
+
+          18. ...             R-R1
+          19. RxR             RxR
+          20. Kt-R2           B-QB1
+          21. P-KB4           Kt-K1
+          22. P-B5            BxB
+          23. QxB             Q-K2
+
+Black seeks salvation in exchanges, which White, of course, tries
+to avoid, having good prospects of driving home his attack. His
+pieces are concentrated on the King’s side, whilst the Black
+forces are scattered, and unable to get back in time for the
+defence. Moreover, it is likely that the weakness at Black’s KR3
+and KB3 will prove fatal as the Black KB is exchanged.
+
+          24. Q-R6            Q-B1
+          25. Q-B1            Q-Kt2
+          26. R-B1            P-Kt4
+
+White was threatening to play Kt-Kt4 with PxP and Kt-R6.
+
+          27. Kt-Kt4          Kt-B3
+          28. KtxKtch         QxKt
+
+One of the attacking Knights is eliminated. But there is another,
+which forces the entry at KB6 and KKt6.
+
+          29. P-R4
+
+to gain access for the White Queen at KR6. If Black, captures
+there follows: 30. Kt-R5, Q-Q1; 31. Q-R6, Q-B1; 32. Kt-B6ch, an
+instructive example of the weakness created by P-KKt3.
+
+          29. ...            P-R3
+          30. Kt-R5          Q-Q1
+          31. P-B6
+
+All this is easy to understand.
+
+          31. ...            K-R2
+          32. PxP            B-Kt5
+          33. Kt-Kt7         K-Kt3
+          34. B-Q1           Q-Q2
+          35. Kt-B5          BxKt
+          36. PxBch          Resigns.
+
+The conclusion might be: K-R2; 37. B-R5, PxP; 38. QxP, R-KKt1;
+39. B-Kt6ch, PxB; 40. Q-R4 mate.

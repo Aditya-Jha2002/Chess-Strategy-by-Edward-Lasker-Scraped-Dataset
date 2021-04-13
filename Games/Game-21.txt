@@ -1,0 +1,117 @@
+                 GAME No. 21
+
+White: Eduard Lasker. Black: Aljechin.
+
+           Three Knights’ Defence.
+
+          1. P-K4                P-K4
+          2. Kt-KB3              Kt-QB3
+          3. Kt-B3               B-Kt5
+          4. Kt-Q5
+
+Developing another piece by B-Kt5 or B4 would be more in
+accordance with principle.
+
+          4. ...                 B-K2
+
+There was a threat of KtxB and KtxP. If Black plays P-Q3, the B
+must retire all the same after 5. B-Kt5. It seems best to retire
+the B to K2 rather than to B4 or R4, because there remains the
+threat of a pin subsequently by B-KKt5, which might become
+serious with the Knight at Q5.
+
+          5. B-B4                Kt-B3
+          6. P-Q3                P-Q3
+          7. KtxB                QxKt
+          8. P-B3                P-KR3
+
+The KKt is to support the advance of P-Q4 subsequently, and that
+is why Black does not want to allow it to be pinned. This is
+sound strategy, since White has exchanged his QKt, which from B3
+prevents P-Q4 in the ordinary way.
+
+          9. B-K3                Castles
+         10. Q-Q2                B-K3
+         11. B-Kt3
+
+The first mistake. B-QKt5 should be played to retard P-Q4.
+
+         11. ...               BxB
+         12. PxB               P-Q4
+
+        ---------------------------------------
+     8 | #R |    |    |    |    | #R | #K |    |
+       |---------------------------------------|
+     7 | #P | #P | #P |    | #Q | #P | #P |    |
+       |---------------------------------------|
+     6 |    |    | #Kt|    |    | #Kt|    | #P |
+       |---------------------------------------|
+     5 |    |    |    | #P | #P |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    | ^P |    |    |    |
+       |---------------------------------------|
+     3 |    | ^P | ^P | ^P | ^B | ^Kt|    |    |
+       |---------------------------------------|
+     2 |    | ^P |    | ^Q |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R |    |    |    | ^K |    |    | ^R |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 132
+
+         13. PxP
+
+The second mistake. Unimportant as it seems, it leads to the loss
+of the game. White did not defend the pawn by Q-B2, because it
+would have proved 10. Q-Q2 to have been a lost move. But giving
+up the centre is a far greater evil. Black now commands his Q5
+and KB5, and this enables him to start an attack to which there
+is no defence. The game shows conclusively how important it is to
+maintain the centre.
+
+         13. ...               KtxP
+         14. Castles KR        P-B4
+         15. P-QKt4            P-QKt3
+         16. Q-K2
+
+to prevent P-K5, which would now be countered by PxP and Q-B4.
+However, as P-K5 cannot be prevented permanently, and the Q must
+move in any case, Q-B2 would have been the better move, as there
+the Queen cannot be molested by a Rook.
+
+         16. ...               Q-Q3
+         17. P-Kt5             QKt-K2
+         18. B-Q2              Kt-Kt3
+         19. R-R4             QR-K1!
+
+Black’s game is beautifully developed, whilst White cannot make a
+combined effort. The Black Rooks are particularly well placed,
+and threaten to take an effective part in the attack in various
+ways. All this is the outcome of White losing the centre.
+
+          20. P-KKt3
+
+Though this prevents Kt(Q 4)-B5, it weakens KB3, which is all the
+more serious as Black threatens to open the file by P-B5.
+
+          20. ...             Q-Q2
+
+If now White refrains from taking the pawn, Black plays P-QR4!
+
+          21. RxP             P-K5
+          22. Kt-Q4           PxP
+          23. QxP             Kt-K4
+          24. Q-K2            P-B5
+
+All the avenues of attack are now open, and White’s game
+collapses quickly.
+
+         25. Q-R5                Kt-KB 3
+         26. Q-B5                Kt-B6ch
+         27. K-R1                QxQ
+         28. KtxQ                KtxB
+         29. R-Q1                Kt(B3)-K5
+         30. KtxP                KtxBPch
+         31. K-Kt2               P-B6ch
+             Resigns.

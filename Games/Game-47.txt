@@ -1,0 +1,201 @@
+                GAME No. 47
+
+     White: Tartakower.    Black: Asztalos.
+
+               Dutch Opening.
+
+          1. P-KB4          P-Q4
+
+It has been tried to refute White’s non-developing first move by
+a pawn sacrifice: 1. ... P-K4; which leads to a rapid
+mobilisation of the Black forces after 2. PxP, P-Q3; 3. PxP, BxP.
+But this attack--called the From Gambit--does not seem to prevail
+against the best defence. In a match game, Tartakower-Spielmann
+(Vienna, 1913), White won as follows:
+
+4. Kt-KB3, P-KKt4; 5. P-Q4, P-Kt5; 6. Kt-K5, Kt-QB3; 7. KtxKt,
+PxKt; 8. P-KKt3, P-KR4; 9. B-Kt2, P-R5; 10. Q-Q3, B-Q2; 11. Kt-
+B3, R-Kt1; 12. Castles, PxP; 13. PxP, P-QB4; 14. B-B4, BxB; 15.
+RxB, Q-Kt4; 16. Kt-K4, Q-R3; 17. KtxP, Kt-B3; 18. KtxB, KtxKt;
+19. Q-K4ch, K-Q1; 20. RxBP, R-K1; 21. QxP, Q-K6ch; 22. K-B1,
+Resigns.
+
+When Black plays P-KB4 in answer to 1. P-Q4 we have the Dutch
+Defence. After 1. P-Q4, P-KB4, White can also sacrifice a pawn by
+2. P-K4, and thereby obtain a far more favourable position than
+Black does in From’s gambit, as he is a move to the good, having
+already advanced his QP, e.g. 2. P-K4, PxP; 3. Kt-QB3, Kt-KB3; 4.
+P-B3 or 4. B-Kt5 and then P-B3. If Black captures the KBP, White
+obtains a powerful attack. A drastic example is found in the
+following little game, played by two students in an academic
+tournament at Petrograd: 4. P-B3, PxP; 5. KtxP, P-K3; 6. B-KKt5,
+B-K2; 7. B-Q3, Castles; 8. Castles, P-QKt3; 9. Kt-K5, B-Kt2; 10.
+BxKt, BxB; 11. BxPch, KxB; 12. Q-R5ch, K-Kt1; 13. Kt-Kt6, R-K1;
+14. Q-R8ch, K-B2; 15. Kt-K5ch, K-K2; 16. QxPch!!, BxQ; 17. R-
+B7ch, K-Q3; 18. Kt-Kt5ch, K-Q4; 19. P-B4ch, K-K5; 20. R-K1 mate.
+
+Black’s best answer is to play P-Q4 after White’s 4. P-KB3  (5.
+B-Kt5, B-B4). If 4. B-Kt5, it is not yet possible to play P-Q4
+because of the threat: BxKt, Q-R5ch, and QxQP. In that case Black
+must first play P-QB3, after which White again obtains a strong
+attack by P-KB3.
+
+Black can avoid the attacks which follow after 1. P-Q4, P-KB4; 2.
+P-K4, by playing P-K3 on his first move, and then lead into the
+Dutch defence with P-KB4 on his second move. He must, however,
+reckon with having to play the French defence which White can
+bring about with 2. P-K4.
+
+          2. P-K3          P-K3
+          3. Kt-KB3        P-QB4
+          4. P-QKt3        Kt-QB3
+          5. B-Kt5         Kt-B3
+
+Black should have played B-Q2 here, as White can exchange at B6,
+leaving Black with a doubled pawn. This in itself is not a
+drawback, but in the present position it is serious, as Black
+will have difficulty in finding a place for his QB. For there is
+no prospect of enforcing P-K4, as White commands that square in
+sufficient force.
+
+          6. B-Kt2          B-K2
+          7. Castles        Castles
+          8. BxQKt          PxB
+          9. Kt-K5          Q-B2
+         10. P-Q3           P-QR4
+
+Black’s attempt of capturing his K4 by playing Kt-Q2 and P-B3,
+White would cross at once with Q-Kt4. With the text move Black
+begins operations on the Q side, which is quite correct, as White
+has the upper hand on the other wing.
+
+          11. Q-K2
+
+White should have prevented the further advance of the Black RP
+by 11. P-QR4. This would have been sound policy in any case, as
+the R file could not have been forced open for the Black Rooks.
+
+          11. ...          P-R5
+          12. Kt-Q2        PxP
+
+Premature. The capture is only of value if the file can be held.
+To that end it is first necessary to play B-Kt2 and to occupy the
+R file with Rooks and Queen. After the exchange
+ of Rooks, Black is at a disadvantage for the end-game because of
+the inefficiency of the QB.
+
+        ---------------------------------------
+     8 | #R |    | #B |    |    | #R | #K |    |
+       |---------------------------------------|
+     7 |    |    | #Q |    | #B | #P | #P | #P |
+       |---------------------------------------|
+     6 |    |    | #P |    | #P | #Kt|    |    |
+       |---------------------------------------|
+     5 |    |    | #P | #P | ^Kt|    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    |    | ^P |    |    |
+       |---------------------------------------|
+     3 |    | #P |    | ^P | ^P |    |    |    |
+       |---------------------------------------|
+     2 | ^P | ^B | ^P | ^Kt| ^Q |    | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R |    |    |    |    | ^R | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 165
+
+If instead of the text move Black had driven off the Bishop to B1
+with P-R6 (13. B-B3?, P-Q5!; 14. PxP, Kt-Q4)  he could have
+enforced his P-K4, but in the long run White would have captured
+the QRP, and remained with a passed pawn on the R file, a
+powerful weapon for the end-game, e.g. l2. ... P-R6; 13. B-B1,
+Kt-Q2; 14. KtxKt, BxKt; 15. P-K4, P-KB3; 16. P-B4, followed by
+Kt-Kt1.
+
+          13. RPxP          RxR
+          14. RxR           B-Kt2
+          15. P-KKt4
+
+The Black pieces being cut off from the K side, White is free to
+attack.
+
+          15. ...           R-R1
+          16. RxRch         BxR
+          17. P-Kt5         Kt-Q2
+          18. Q Kt-B3       KtxKt
+          19. BxKt          Q-R4
+          20. P-B4
+
+in order to prevent the release of the B by the pawn sacrifice P-
+B5 and P-B4.
+
+          20. ...           B-Kt2
+          21. K-B2          K-B1
+          22. P-R4          B-R3
+          23. P-R5          B-Kt2
+          24. P-R6          P-Kt3
+
+By advancing his RP White has weakened Black’s KB3, with the
+constant threat of establishing his Kt there and of capturing the
+RP.
+
+          25. K-B1
+
+This move is superfluous and probably dictated by time pressure.
+The proper plan is: Q-QKt2 with the threat of B-B7 or Kt8 and Q-
+R8ch.
+
+          25. ...          Q-R6
+          26. Q-QKt2
+
+The end-game is a clear win for White. He plays his Kt to KKt4,
+threatening to reach B6 or K5. The effect is twofold.
+
+        ---------------------------------------
+     8 |    |    |    |    |    | #K |    |    |
+       |---------------------------------------|
+     7 |    | #B |    |    | #B | #P |    | #P |
+       |---------------------------------------|
+     6 |    |    | #P |    | #P |    | #P | ^P |
+       |---------------------------------------|
+     5 |    |    | #P | #P | ^B |    | ^P |    |
+       |---------------------------------------|
+     4 |    |    | ^P |    |    | ^P |    |    |
+       |---------------------------------------|
+     3 | #Q | ^P |    | ^P | ^P | ^Kt|    |    |
+       |---------------------------------------|
+     2 |    | ^Q |    |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    | ^K |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 166
+
+Black must keep his B at K2 and his K must remain near the KBP.
+White’s King marches to QKt6 and captures the QB pawns, queening
+his QKtP. Black cannot prevent the White King from doing this by
+B-Q1, as White, by attacking Black’s QB4 with his B, could at any
+time force the B back to his K2. The remainder of the game needs
+no comment.
+
+          26. ...            QxQ
+          27. BxQ            B-Q3
+          28. Kt-R2          K-K1
+          29. Kt-Kt4         B-K2
+          30. B-K5           K-Q2
+          31. K-K2           K-K1
+          32. K-Q2           K-Q2
+          33. K-B2           K-K1
+          34. K-Kt2          K-Q2
+          35. K-R3           K-K1
+          36. K-R4           K-Q2
+          37. B-Kt8          K-B1
+          38. B-R7           K-Q2
+          39. B-Kt6          P-Q5
+          40. P-K4           K-K1
+          41. P-K5           K-Q2
+          42. Kt-B2          Resigns.
+
+because there follows Kt-K4 and BxP.

@@ -1,0 +1,123 @@
+                  GAME No. 6
+
+       White: Mason.    Black: Gunsberg.
+
+                Giuoco Piano.
+
+          1. P-K4          P-K4
+          2. Kt-KB3        Kt-QB3
+          3. B-B4          B-B4
+          4. P-Q3          P-Q3
+          5. B-K3          B-Kt3
+          6. P-B3          Kt-B3
+          7. QKt-Q2        Q-K2
+          8. P-QR4
+
+A lost move. The logical continuation is Kt-B1-Kt3 and Castles.
+
+          8. ...           B-K3
+          9. B-QKt5        BxB
+
+Generally speaking, exchanges such as this are doubtful.
+However, in the present case, although it opens the B file for
+White, White cannot prevent Black from obtaining the same
+advantage.
+
+          10. PxB           P-QR3
+
+Black gives up the move he has gained. There is no justification
+for this, as nothing prevents him from proceeding with his
+development at once with 10. ... Castles.
+
+          11. BxKtch       PxB
+          12. P-QKt4
+
+White is anxious lest his KtP should be made “backward” by P-QR4
+and P-B4. This is one of the drawbacks of the premature advance
+of the QRP.
+
+          12. ...           Castles KR
+          13. Castles       Kt-Kt5
+          14. Q-K2          P-KB4
+          15. PxP           BxP
+          16. P-K4          B-Q2
+          17. Kt-B4         Kt-B3
+          18. Kt-K3         P-Kt3
+          19. P-B4
+
+This creates a weakness at Q4.
+
+Unimportant as it appears to be, it is the cause of the loss of
+the game, as the opposing Knight gets in ultimately. The doubling
+of the Rooks on the KB file would seem to be the best plan.
+
+          19. ...           Kt-R4
+          20. P-Kt3
+
+White’s weaknesses at KB3 and KR3 are more damaging than the
+corresponding ones in the Black camp, as Black still possesses a
+Bishop of the same colour as the weakened squares.  But the move
+is now compulsory; for were White to allow the Black Knight to
+his KB5, and to drive him off then with P-Kt3, the Knight could
+play to his R6 and prevent the doubling of the White Rooks.
+
+          20. ...           B-R6
+          21. R-B2          Kt-Kt2
+          22. Q-Kt2
+
+White begins to operate in the centre and on the Q wing, as his
+position on the K side begins to be doubtful. The intention is to
+play P-Q4, which, however, Black opposes at once.
+
+          22. ...                Kt-K3
+
+        ---------------------------------------
+     8 | #R |    |    |    |    | #R | #K |    |
+       |---------------------------------------|
+     7 |    |    | #P |    | #Q |    |    | #P |
+       |---------------------------------------|
+     6 | #P |    | #P | #P | #Kt|    | #P |    |
+       |---------------------------------------|
+     5 |    |    |    |    | #P |    |    |    |
+       |---------------------------------------|
+     4 | ^P | ^P | ^P |    | ^P |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    | ^P | ^Kt| ^Kt| ^P | #B |
+       |---------------------------------------|
+     2 |    | ^Q |    |    |    | ^R |    | ^P |
+       |---------------------------------------|
+     1 | ^R |    |    |    |    |    | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 106
+
+If now White plays P-Q4, he loses a piece by PxP; 24. KtxP?, RxR;
+25. KxR, Q-B3ch.
+
+          23. R-K1
+
+The Rook has no future here, and R-Q1, in order to play P-Q4, is
+more logical. But as Black obviously threatens to double his
+Rooks on the KB file, it would be advisable to play for an
+exchange of Rooks, with: Kt-Kt2, QR-B1 and Kt-K1.
+
+          23. ...               R-B2
+          24. QR-K2             QR-KB1
+          25. Kt-K1             Kt-Q5
+          26. R-Q2              Q-Kt4
+          27. Kt(K3)-Kt2        BxKt
+          28. KxB
+
+KtxB is frustrated by Kt-B6ch.
+
+          28. ...               Q-K6
+
+All the Black forces are now in action, and White has no defence,
+as his pieces can hardly move.
+
+          29. K-B1              Kt-Kt6!
+              Resigns.
+
+If R-K2 or B2, there follows RxRch; 31. RxR, Kt-Q7ch; 32. QxKt,
+QxQ.

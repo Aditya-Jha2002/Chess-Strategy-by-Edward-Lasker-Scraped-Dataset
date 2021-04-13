@@ -1,0 +1,149 @@
+                  GAME No. 2
+
+       White: Leonhardt. Black: Marshall.
+
+    Falkbeer Counter Gambit (compare p. 35).
+
+          1. P-K4           P-K4
+          2. P-KB4          P-Q4
+          3. PxQP           P-K5
+          4. P-Q3           PxP
+          5. QxP            Kt-KB3
+          6. Kt-QB3
+
+It would be quite bad to play P-B4 and try to hold the extra pawn
+at the expense of development. Black would very soon occupy the
+King’s file with his Rook and there would be no time for White to
+bring his King into safety, e.g. 6. P-B4, B-QB4; 7. Kt-KB3,
+Castles; 8. B-K2, R-K1, and already now there are threats of Kt-
+K5 or Kt-Kt5 followed by B-B7ch or Kt-B7.
+
+           6. ...           B-QB4
+           7. B-Q2
+
+White would of course like to continue with B-K3 in order to make
+a fight for the possession of the diagonal. He would, however,
+lose his chance of castling through Black’s Q-K2. This is
+detrimental in all such cases where the lines in the centre are
+open or likely to be forced open at any time.
+
+          7. ...            Castles
+          8. Castles        QKt-Q2
+          9. B-K2           Kt-Kt3
+         10. B-B3           B-KKt5
+         11. B-K3?
+
+White has not yet completed his development, and his first care
+should be to bring out his KKt. This he could have done without
+difficulty, thus: 11. BxB, KtxB; 12. Kt-R3.  After the move in
+the text, Black not only occupies the King’s file but gains a
+move in so doing.
+
+         11. ...            BxBch
+         12. QxB            R-K1
+         13. Q-Q4           Q-Q3
+
+Black’s course is obvious; he must win the QP. The forces will
+then be equal in material, but there will remain a
+
+        ---------------------------------------
+     8 | #R |    |    |    | #R |    | #K |    |
+       |---------------------------------------|
+     7 | #P | #P | #P |    |    | #P | #P | #P |
+       |---------------------------------------|
+     6 |    | #Kt|    | #Q |    | #Kt|    |    |
+       |---------------------------------------|
+     5 |    |    |    | ^P |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    | ^Q |    | ^P | #B |    |
+       |---------------------------------------|
+     3 |    |    | ^Kt|    |    | ^B |    |    |
+       |---------------------------------------|
+     2 | ^P | ^P | ^P |    |    |    | ^P | ^P |
+       |---------------------------------------|
+     1 |    |    | ^K | ^R |    |    | ^Kt| ^R |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 101.
+
+flaw in White’s position, namely the exposed KBP, and this tells
+in the ending.
+
+          14. P-KR3
+
+Now the square at KKt3 is unprotected, and this is serious in
+view of a probable Knight’s ending, where, moreover, it will
+sooner or later be necessary to play P-KKt3 in order to support
+the KBP. Both the KKtP and KBP would be weak, with the King on
+the other wing, and be under constant threat of being captured.
+The game does proceed as indicated, and the simple and logical
+manner in which Marshall brings home his advantage in a very
+short time shows convincingly how fatal a shattered pawn position
+can be for the end-game. Instead of the move in the text, White
+should have played BxB followed by Kt-B3, which would have
+completed his development without making another pawn move.
+
+          14. ...           BxB
+          15. KtxB          QR-Q1
+          16. KR-KI         RxR
+          17. RxR           QKtxP
+          18. KtxKt         KtxKt
+          19. P-KKt3        P-KR3
+
+making a loophole for the King. In this case the move is correct,
+as the threat of mate ties the Black Rook to his rank. It is
+wrong to make a loophole, as weak players are fond of doing, as
+early as possible “in case,” before it is shown that there will
+be a need for it, or that there will be a Rook ending.
+
+          20. P-R3
+
+White is afraid of playing 20. QxP on account of Kt-Kt5, which
+threatens KtxBP followed by Q-QB3. 21. QxP would not be a
+sufficient defence because of Q-B4 threatening mate, and on the
+other hand 21. Q-R4 would conjure up a dangerous attack,
+beginning with P-QKt4. When the players castle on different
+wings, there is always the danger of the opponent sacrificing
+pawns and opening up files for his Rooks and Q against the
+castled King. The game then assumes a wild character, and as
+matters are generally settled one way or another in the middle-
+game, end-game considerations, both with regard to number and
+position of pawns, can be disregarded. Experience has shown that
+the player who develops his attack first is likely to win, and
+that it is of little use to submit tamely to an assault of this
+kind without attempting a counter attack.
+
+Such games are very difficult for the beginner to understand.
+There is about them something violent and difficult to estimate,
+and years of practice are necessary in order to gain the judgment
+required for weighing up the possibilities of attack and counter
+attack, where the Kings have castled on opposite wings.
+
+          20. ...            P-R3
+          21. R-Q1           Kt-B3
+          22. QxQ            RxQ
+          23. RxR            PxR
+          24. Kt-Q4          Kt-K5
+          25. Kt-K2          K-B1
+
+The Black King now pushes forward irresistibly, and attacks the
+weakened pawns on the King’s wing. The White King cannot get any
+nearer, as a check by the Black Kt would win a pawn at once. The
+end is easy.
+
+          26. P-B3           K-K2
+          27. K-B2           K-K3
+          28. P-Kt3          Kt-B7
+          29. Kt-Q4ch        K-B3
+          30. P-KR4          P-KR4
+
+Now the P at Kt3 is “backward” and therefore lost.
+
+          31. P-B4        Kt-K5
+          32. Kt-K2       K-B4
+          33. K-Q3        Kt-B7ch
+          34. K-B3        K-Kt5
+          35. P-Kt4       Kt-K5ch
+          36. K-Q4        KtxP
+              Resigns.

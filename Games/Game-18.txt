@@ -1,0 +1,181 @@
+                GAME No. 18.
+
+       Emanuel Lasker.     Capablanca.
+
+           Ruy Lopez (see p. 37)
+
+          1. P-K4          P-K4
+          2. Kt-KB3        Kt-QB3
+          3. B-Kt5         P-QR3
+          4. BxKtQ         PxB
+          5. P-Q4          PxP
+
+Worthy of consideration is: 5. ... B-KKt5; 6PxP, QxQch; 7. KxQ,
+Castles ch; 8. K-K2, R-K1; 9. P-KR3, BxKtch; 10. KxB, P-B3; with
+a good game.  In this opening Black is justified in assuming the
+initiative, as the exchange, which has opened a diagonal for his
+QB, has furthered his development. If he does not do so, and
+confines himself to defending tamely, the chances are that he
+will lose on account of White’s majority of pawns on the King’s
+side.
+
+          6. QxP          QxQ
+
+Compulsory. If B-K3 instead, 7. B-B4 attacks QB7.  B-Q3 in reply
+to that would be inferior. By exchanging Bishops White would
+render the Black QP “backward,” and on the open file its capture
+would be inevitable.
+
+          7. KtxQ         B-Q3
+          8. Kt-QB3       Kt-K2
+
+Black prepares to castle on the King’s side. It is more usual,
+and probably stronger, to castle on the Queen’s side, as the King
+then protects the QBP, which in the present case would be weak if
+Black’s KB were to be exchanged.
+
+          9.  Castles       Castles.
+         10.  P-B4          R-K1
+
+        ---------------------------------------
+     8 | #R |    | #B |    | #R |    | #K |    |
+       |---------------------------------------|
+     7 |    | #P | #P |    | #Kt| #P | #P | #P |
+       |---------------------------------------|
+     6 | #P |    | #P | #B |    |    |    |    |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    | ^Kt| ^P | ^P |    |    |
+       |---------------------------------------|
+     3 |    |    | ^Kt|    |    |    |    |    |
+       |---------------------------------------|
+     2 | ^P | ^P | ^P |    |    |    | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R |    | ^B |    |    | ^R | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 126
+
+Black allows his opponent too much latitude on the King’s wing.
+He should prevent White’s P-B5, which obstructs his QB, by P-KB4.
+After P-K5 the game would be equalised by B-B4, BxKt, and B-K3.
+
+A draw would then be practically certain, with the Bishops of
+opposite colours. Black probably thought White would not risk
+weakening his KP by P-B5. But with unfailing judgment Lasker
+foresees that, in consequence of the greater mobility of his
+pieces, his attack will be successful before a counter attack on
+the weak KP can be instituted.
+
+          11. Kt-Kt3          P-B3
+
+Even now P-KB4 was imperative, though it would keep the Bishop
+from that square. The continuation could have been 12. P-K5, B-
+Kt5; 13. Kt-K2 (or R4), Kt-Q4, and the Bishop is safe.
+
+          12. P-B5!!
+
+This move has a twofold aim. It shuts in the Bishop, and allows
+B-B4, exchanging the Black QB.
+
+          12. ...           P-QKt3
+
+The diagonal QR1-KR8 is the only one in which the Bishop has any
+prospects of action. However, as soon as he relinquishes his
+present diagonal, a White Knight settles at K6 and the Black
+Rooks are very much hampered.
+
+          13. B-B4          B-Kt2
+
+Black should have exchanged the Bishops. Now he gets a weak pawn
+at Q3. Before playing B-Kt2, P-B4 should be played to prevent the
+Knight getting from Kt3-Q4-K6.
+
+          14. BxB          PxB
+          15. Kt-Q4        QR-Q1
+          16. Kt-K6        R-Q2
+          17. QR-Q1        Kt-B1
+          18. R-B2         P-QKt4
+          19. KR-Q2
+
+This holds Black’s Kt at B1. White’s next move prevents the
+Bishop getting into action by P-B4. After depriving all the Black
+pieces of their mobility, White turns his attention to a
+determined assault on the Black King.
+
+          19. ...              QR-K2
+          20. P-QKt4           K-B2
+          21. P-QR3            B-R1
+          22. K-B2             R-R2
+          23. P-Kt4            P-R3
+          24. R-Q3             P-QR4
+          25. P-KR4            PxP
+          26. PxP              R(R2)-K2
+
+There are no prospects on the Rook’s file, and Black is
+restricted to keeping his pieces mutually protected. He cannot
+prevent White from penetrating the King’s side.
+
+          27. K-B3          R-Kt1
+          28. K-B4          P-Kt3
+          29. R-Kt3         P-Kt4ch
+          30. K-B3
+
+If Black captures the pawn, he would lose it again forthwith
+through White’s R-R3, and the pawn at R3 would also be captured.
+
+          30. ...                 Kt-Kt3
+          31. PxP                 RPxP
+          32. R-R3                R-Q2
+          33. K-Kt3
+
+        ---------------------------------------
+     8 | #B |    |    |    |    |    | #R |    |
+       |---------------------------------------|
+     7 |    |    |    | #R |    | #K |    |    |
+       |---------------------------------------|
+     6 |    | #Kt| #P | #P | ^Kt| #P |    |    |
+       |---------------------------------------|
+     5 |    | #P |    |    |    | ^P | #P |    |
+       |---------------------------------------|
+     4 |    | ^P |    |    | ^P |    | ^P |    |
+       |---------------------------------------|
+     3 |    |    | ^Kt|    |    |    | ^K | ^R |
+       |---------------------------------------|
+     2 |    |    | ^P |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    | ^R |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 127
+
+The White King leaves the diagonal because Black’s P-B4 would
+interfere with the combination by which White intends to
+annihilate Black’s game in a few moves.
+
+          33. ...                 K-K1
+          34. QR-KR1              B-Kt2
+          35. P-K5!!
+
+A beautiful final stroke.
+
+          35. ...                 QPxP
+          36. Kt-K4!!             Kt-Q4
+          37. Kt(K6)-B5           B-B1
+
+Black dares not move the Rook on account of KtxB and Kt-Q6ch.
+
+          38. KtxR                BxKt
+          39. R-R7ch              R-B1
+          40. R-R1                K-Q1
+          41. R-R8ch              B-B1
+          42. Kt-B5               Resigns
+
+Mate in two is threatened. Black’s only move is Kt-K2, after
+which he is helpless, and White can capture the pawns one by one
+at his leisure (R-B7, etc.). In this game, so beautifully
+engineered by White, we have a further example of Lasker’s
+remarkable grasp of position.

@@ -1,0 +1,106 @@
+                 GAME No. 20
+
+   White: Eduard Lasker.    Black: Englund.
+
+             Four Knights’ Game.
+
+          1. P-K4               P-K4
+          2. Kt-KB3             Kt-QB3
+          3. Kt-B3              Kt-B3
+          4. B-Kt5              Kt-Q5
+          5. KtxP
+
+Black can now get White’s KP by playing Q-K2, and moreover
+exchange White’s valuable Bishop. Instead of the move in the text
+it is advisable to retire the Bishop to R4 or B4, or else to play
+5. KtxKt, PxKt; 6. P-K5, PxKt; 7. PxKt. Black would then play QxP
+and not PxQPch, as the latter move allows White to develop
+quickly, and Black has no time to castle--e.g. 8. BxP, QxP; 9.
+Castles, B-K2; 10. B-B3, followed by R-K1.
+
+          5. ...              Q-K2
+          6. Kt-B3            KtxP?
+
+        ---------------------------------------
+     8 | #R |    | #B |    | #K | #B |    | #R |
+       |---------------------------------------|
+     7 | #P | #P | #P | #P | #Q | #P | #P | #P |
+       |---------------------------------------|
+     6 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     5 |    | ^B |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    | #Kt| #Kt|    |    |    |
+       |---------------------------------------|
+     3 |    |    | ^Kt|    |    | ^Kt|    |    |
+       |---------------------------------------|
+     2 | ^P | ^P | ^P | ^P |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R |    | ^B | ^Q | ^K |    |    | ^R |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 131.
+
+  Here KtxB was essential, followed by QxP, freeing the Bishop.
+After 7. KtxKt, QxPch; 8. Q-K2, QxQch; 9. KxQ, Kt-Q4 (10. P-B4,
+P-QR3), Black completes his development a little later (10. R-K1,
+P-KB3; 11. K-B1ch, K-B2), but after the exchange of Queens there
+is not much to fear from an immediate attack, and the value of
+the two Bishops soon asserts itself. In a match game Ed. Lasker-
+Cole (London, 1913) the continuation was 12. P-Q4, P-QR3; 13. Kt-
+B3, KtxKt; 14. PxKt, P-Q4. Here the doubled pawn is a
+disadvantage, in that the pawn at B2 is immobile, and constantly
+liable to be attacked by B-B4. P-Q3 was the better move.
+
+          7. Castles         KtxKt
+
+Now KtxB was no longer possible. After KtxQKt there would be
+threats of KtxBP as well as of R-K1 and P-Q3.  The game is almost
+lost for Black at this stage, as the King cannot escape the
+impending attack on the K file by castling.
+
+          8. QPxKt           KtxKtch
+          9. QxKt            Q-B4
+         10. R-K1ch         B-K2
+         11. B-Q3
+
+prevents castling, as Q-K4 would win a piece.
+
+         11. ...             P-Q4
+         12. B-K3
+
+White has the development of the B gratis, as Black must lose
+time with the Queen.
+
+         12. ...             Q-Q3
+         13. B-KB4           Q-KB3
+         14. QxP!!
+
+Black being behind with his development is already threatened by
+sacrificial combinations. If he takes the Bishop he loses by 15.
+B-Kt5ch, K-B1; 16. Q-Q8ch!, BxQ; 17. R-K8 mate, or l5. ... P-B3;
+16. BxPch, and so on.
+
+         14. ...             P-B3
+         15. Q-K4            B-K3
+         16. R-K3            B-QB4
+
+Here Black might have castled on the Queen’s side, but R-Q1 would
+have had much the same sequel as in the actual game.
+
+         17. B-K5            Q-R3
+         18. R-Kt3           B-KB1
+
+A sorry retreat. But after Q-Q7, which may have been Black’s
+original intention, White plays R-KB1, threatening B-KB4.
+
+         19. R-Q1
+
+This move completes White’s development, and only seems to give
+Black a chance of castling. However, Black has no satisfactory
+continuation.
+
+         19. ...                 Castles?
+         20. QxPch               PxQ
+         21. B-R6                Mate

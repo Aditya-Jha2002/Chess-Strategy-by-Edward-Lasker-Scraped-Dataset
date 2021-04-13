@@ -1,0 +1,112 @@
+                   GAME No. 42
+
+      White: Capablanca.     Black: Aljechin.
+
+        Queen’s Gambit Declined (see pp. 57 and 58).
+
+          1. P-Q4          P-Q4
+          2. P-QB4         P-QB3
+          3. P-K3          Kt-B3
+          4. Kt-KB3        P-K3
+          5. QKt-Q2        QKt-Q2
+          6. B-Q3          B-K2
+          7. Castles       Castles
+          8. Q-B2
+
+        ---------------------------------------
+     8 | #R |    | #B | #Q |    | #R | #K |    |
+       |---------------------------------------|
+     7 | #P | #P |    | #Kt| #B | #P | #P | #P |
+       |---------------------------------------|
+     6 |    |    | #P |    | #P | #Kt|    |    |
+       |---------------------------------------|
+     5 |    |    |    | #P |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    | ^P | ^P |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    | ^B | ^P | ^Kt|    |    |
+       |---------------------------------------|
+     2 | ^P | ^P | ^Q | ^Kt|    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R |    | ^B |    |    | ^R | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 160
+
+Black’s difficulty is the development of his QB, particularly
+after White’s last move, which prevents P-K4. If now Q-B2 White
+plays 9. P-K4 and either the Queen or the Knight bear on K5, e.g.
+9. ... PxKP; 10. KtxP, P-K4; 11. QKt-Kt5, B-Q3; 12. P-B5, etc.
+
+Black therefore must develop his QB at Kt2 with P-QKt3, B-Kt2 and
+P-B4. Having moved the QBP twice, Black is a move behind the
+development usual in this opening.  However, it would have been
+the lesser evil. In the present game the Bishop does not get into
+play in time.
+
+          8. ...          PxP
+          9. KtxP         P-B4
+         10. QKt-K5       PxP
+         11. PxP          Kt-Kt3
+         12. Kt-Kt5
+
+If Black captures the pawn, White gains time by threatening the
+Queen, and brings all his forces into play, whilst the Black
+Queen’s side remains undeveloped, e.g.: 12. ... QxP; 13.   R-Q1,
+Q-B4; 14. Kt-Kt4, P-Kt3; 15. B-K3, Q-R4; 16. R-B1, with a strong
+attack. Black of course need not take the pawn, but the move in
+the text is a valuable one nevertheless, as the threat Q-B3-R3
+provokes a weakening pawn move.
+
+          12. ...       P-Kt3
+          13. KKt-B3    K-Kt2
+
+preventing the entry of the B at R6.
+
+          14. B-KKt5    QKt-Q4
+          15. QR-B1     B-Q2
+          16. Q-Q2      Kt-Kt1
+
+It should be noted how the weakness at KR3 acts to the detriment
+of Black’s game. The text move covers the weak square, but at the
+same time brings the Kt out of play. White in consequence gets
+the upper-hand on the Queen’s side, and the Knight cannot return
+in time.
+
+          17. BxB       QxB
+
+It would be no use taking with the KKt, as the threat Kt-Kt4 and
+Q-R6 must be guarded against. If the other Kt captures there
+follows: 18. B-K4, R-Kt1; 19. R-B3 and KR-B1.
+
+          18. B-K4      B-Kt4
+
+This drives the Rook to a better square, but already now there is
+no satisfactory move. It would perhaps have been best to parry
+the threat of BxKt and R-B7 by playing Q-Q3, although the pawn
+would have to recapture after 19. BxKt, because of 20. R-B5 and
+KR-B1. The chance of bearing on the QP through the open file,
+which was probably Black’s intention all along, would then be
+lost. After the text move, however, White takes possession of the
+seventh rank, and Black’s game collapses quickly.
+
+           19. KR-K1    Q-Q3
+           20. BxKt     PxB
+           21. Q-R5     P-QR3
+           22. Q-B7     QxQ
+           23. RxQ      P-R3
+
+Kt-Kt5 and Kt-K6ch was threatened.
+
+           24. RxP      QR-B1
+           25. P-QKt3   R-B7
+           26. P-QR4    B-K7
+           27. Kt-R4!   P-KR4
+
+The KtP cannot be saved.
+
+          28. KKtxP    R-K1
+          29. RxPch    Resigns.
+
+

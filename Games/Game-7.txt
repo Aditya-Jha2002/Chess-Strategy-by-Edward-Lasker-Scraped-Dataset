@@ -1,0 +1,133 @@
+                GAME NO. 7
+
+    White: Marshall.   Black: Tarrasch.
+
+            Max Lange Attack.
+
+          1. P-K4          P-K4
+          2. P-Q4          PxP
+          3. Kt-KB3        Kt-QB3
+          4. B-QB4         B-B4
+          5. Castles       Kt-B3
+
+Black can avoid the complications of the Max Lange attack by 5.
+... P-Q3. In that case White cannot recover the pawn, and in
+order to develop his QKt effectively, would have to play P-B3,
+aiming at rapid development in return, after 6. ... PxP; 7. KtxP.
+But Black can frustrate this plan either by pushing his pawn to
+Q6, so that the QKt is barred from the square B3, or by playing
+B-KKt5 with this probable continuation: 7. Q-Kt3, BxKt; 8. BxPch,
+K-B1; 9. PxB, Kt-B3, and Black has the better game, for White’s
+King’s side is broken up and his pieces undeveloped, while Black
+has prospects of attack on the open KB file.
+
+          6. P-K5          P-Q4
+          7. PxKt          PxB
+          8. R-K1ch        B-K3
+          9. Kt-Kt5        Q-Q4
+
+        ---------------------------------------
+     8 | #R |    |    |    | #K |    |    | #R |
+       |---------------------------------------|
+     7 | #P | #P | #P |    |    | #P | #P | #P |
+       |---------------------------------------|
+     6 |    |    | #Kt|    | #B | ^P |    |    |
+       |---------------------------------------|
+     5 |    |    | #B | #Q |    |    | ^Kt|    |
+       |---------------------------------------|
+     4 |    |    | #P | #P |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     2 | ^P | ^P | ^P |    |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R | ^Kt| ^B | ^Q | ^R |    | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 107
+
+This is the typical position in the Max Lange attack.  With his
+ninth move White threatened to win a piece by KtxB and Q-R5ch.
+Black could not parry the threat by 9. ... Q-Q3, on account of
+PxP followed by Kt-K4-B6ch.  The position in the diagram appears
+to be favourable for Black, as all his minor pieces are in play,
+whilst White’s development is somewhat restricted by Black’s
+strong pawns at QB5 and Q5. For a long time this opening has not
+been played in tournaments, being considered unsatisfactory for
+White.  With the present game, and his new move of 15. B-R6,
+Marshall has reopened the question as to whether White’s attack
+on the K file plus the pawn at KKt7 is sufficiently tempting.
+
+          10. Kt-QB3           Q-B4
+          11. QKt-K4           Castles QR
+
+This is imperative. If Black retires the Bishop from his unsafe
+position, White permanently prevents Black from castling, which
+is bound to be fatal in view of the open K file--e.g. 11. ... B-
+Kt3; 12. PxP, R-KKt1; 13. P-KKt4, Q-Kt3; 14. KtxB, PxKt; l5. B-
+Kt5, RxP; 16. Q-B3 with a violent attack.
+
+          12. KtxQB
+
+If White tries to win the exchange in the following way:  12. P-
+KKt4, Q-K4!; 13. Kt-KB3, Q-Q4; 14. PxP followed by Kt-B6, Black
+can initiate a promising counter attack by 14. ... BxP!!; 15.
+PxR-Q, RxQ; 16. Kt-B6, QxKt; 17. QxQ, BxQ. In this case White
+exposes his King’s side by P-KKt4 in order to benefit from the
+unstable position of the Black KB, but unless care is taken, he
+can easily fall a victim to an attack on the open KKt file
+
+          12. ...               PxKt
+          13. P-KKt4            Q-K4
+
+Not Q-Q4, on account of PxP and Kt-B6.
+
+          14. PxP               KR-Kt1
+          15. B-R6
+
+This is Marshall’s innovation. It gets the Bishop out of play, as
+P-Kt5 must necessarily follow, yet the pawn at Kt7 holds the
+Black Rook, and there is a permanent threat of Kt-B6 either
+winning the exchange or, if the Knight is taken, giving White a
+pair of formidable passed pawns.
+
+          15. ...             P-Q6
+          16. P-B3            B-Q3
+
+This is quite to White’s liking, since he wishes to advance Ids
+centre pawns. Black’s only chance of escaping disaster would be:
+B-K2, with R-Q2, Kt-Q1-B2. Instead of this, his next few moves do
+not reveal any concerted plan, and he loses in a surprisingly
+short time.
+
+          17. P-B4          Q-Q4
+          18. Q-B3          B-K2
+          19. P-Kt5         Q-B4
+          20. Kt-Kt3        Q-B2
+
+In manoeuvring his Q, Black has achieved nothing either for
+counter attack or defence. Now White has numerous attacking
+chances. He first turns his attention to the KP.
+
+          21. Q-Kt4          QR-K1
+          22. R-K4!          P-Kt4
+          23. P-QR4
+
+and now even the QR takes part in the assault. Black’s game is
+hopeless.
+
+          23. ...            P-R3
+          24. PxP            PxP
+          25. K-Kt2
+
+attacking the KP by avoiding the check.
+
+          25. ...            Kt-Q1
+          26. Q-B3           Q-Kt3
+          27. R-Q4           P-B3
+          28. RxKtch         KxR
+          29. QxP            Resigns.
+
+After this, no master has tried to defend a “Max Lange” in an
+international tournament.

@@ -1,0 +1,115 @@
+                GAME No. 24
+
+        White: Atkins. Black: Barry.
+
+              French Defence.
+
+          1. P-K4             P-K3
+          2. P-Q4             P-Q4
+          3. Kt-QB3           Kt-KB3
+          4. B-Kt5            B-K2
+          5. P-K5             KKt-Q2
+          6. BxB              QxB
+
+        ---------------------------------------
+     8 | #R | #Kt| #B |    | #K |    |    | #R |
+       |---------------------------------------|
+     7 | #P | #P | #P | #Kt| #Q | #P | #P | #P |
+       |---------------------------------------|
+     6 |    |    |    |    | #P |    |    |    |
+       |---------------------------------------|
+     5 |    |    |    | #P | ^P |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    | ^P |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    | ^Kt|    |    |    |    |    |
+       |---------------------------------------|
+     2 | ^P | ^P | ^P |    |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R |    |    | ^Q | ^K | ^B | ^Kt| ^R |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 135.
+
+          7. Kt-Kt5
+
+The intention is to strengthen the centre by P-QB3.  Though it
+takes a number of moves to bring the Knight into play again, yet
+most of the tournament games in this variation have been won by
+White, mostly through a King’s side attack on the lines set out
+in the notes to Game No. 22.  Investigations by Alapin tend to
+show that this is due to the fact that Black in all cases devoted
+his attention to Queen’s side operations (just as in Game No. 22)
+when he could have utilised White’s backward development, by
+himself starting a counter attack on the King’s side. He can then
+either aim at the White centre at once with P-KB3, or else play
+P-KB4 and prepare the advance of the KKtP by Kt-B3-Q1-B2.  These
+various lines of play are still under discussion. Simple
+development is probably preferable to the move in the text, e.g.
+7. B-Q3, Castles; 8. P-B4, P-QB4; 9. Kt-B3.
+
+          7. ...            K-Q1
+
+There can be no advantage in forfeiting the option of castling
+unless there be no other way of getting the King into safety and
+of bringing the Rooks into concerted action. It is obvious that
+otherwise the free development of pieces is hindered, and the
+King is in appreciable danger, for it is easier to open files in
+the centre than on the wings where the pawns have not advanced
+yet. Therefore Kt-Kt3 is the only move worth considering.
+
+          8. P-QB3           P-KB3
+          9. PxP
+
+With the Black King remaining in the centre, White has no further
+interest in the maintenance of his pawn at K5. On the contrary he
+will try to clear the centre.
+
+          9. ...             PxP
+         10. Q-Q2            P-B3
+         11. Kt-QR3          Kt-B1
+
+At this early stage it is clear that Black will have to contend
+with difficulties in trying to complete his development.   The
+usual way (P-QB4) is barred on account of the dangers to Black’s
+King with which a clearance in the centre is fraught.
+
+         12. Kt-B3           B-Q2
+         13. P-KKt3!
+
+As Black can force this advance at any time by playing R-KKt1,
+White decides to develop his KB at Kt2, thereby covering his KB3
+and KR3. The weakness of the latter squares would not be of any
+great moment if White were to castle on the Queen’s wing. But as
+P-QB4 is necessary in order to break up the centre, castling KR
+is the right course.
+
+         13. ...                 B-K1
+         14. B-Kt2               QKt-Q2
+         15. P-B4                PxP
+         16. KtxP                Kt-QKt3
+         17. KtxKt               PxKt
+         18. Castles KR          Kt-Kt3
+         19. KR-K1               B-Q2
+         20. Q-B3                R-K1
+         21. Kt-Q2               Q-B1
+         22. P-QR4!
+
+White wishes to get rid of the pawn at Black’s Kt3, in order to
+break in with his Knight at B5. Black has no means of preventing
+this, and soon succumbs to the overwhelming array of White
+forces.
+
+         22. ...                 Kt-K2
+         23. P-R5                P-QKt4
+         24. Kt-Kt3              Kt-Q4
+         25. BxKt                KPxB
+         26. RxRch               BxR
+         27. Kt-B5               Q-B2
+         28. R-K1                K-B2
+         29. Q-K3                B-Q2
+         30. Q-B4ch              Resigns.
+
+If K-Q1, 31. KtxPch followed by Kt-Q6ch. If K-B1 White wins by
+31. Q-Q6 and R-K7.

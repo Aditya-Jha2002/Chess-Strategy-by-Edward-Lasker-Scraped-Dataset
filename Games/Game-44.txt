@@ -1,0 +1,100 @@
+               GAME NO. 44
+
+ White: Dus Chotimirski.   Black: Vidmar.
+
+             Queen’s Pawn Game.
+
+          1. P-Q4           P-Q4
+          2. Kt-KB3         P-QB4
+          3. P-B3           P-K3
+          4. B-B4
+
+We have seen on page 55 that Black can hardly develop his QB
+without disadvantage. White, however, has no difficulty in doing
+so, as his QP is protected, and after Black’s Q-Kt3 he has only
+to look after his KtP. He could play Q-B1, which might bring the
+Q into effective action on the diagonal to R6.
+
+The aim of the text move is the early occupation of K5.  But, as
+the present game shows, this cannot be effected. Black must not
+waste time with Q-Kt3, but play B-Q3 at once.
+
+          4. ...       Kt-QB3
+          5. P-K3      Kt-B3
+          6. QKt-Q2    B-Q3
+          7. B-Kt3     Castles
+          8. Kt-K5     BxKt!
+          9. PxB       Kt-Q2
+
+Now White has no means of maintaining his centre. Whether he
+supports the pawn with Kt-B3 or P-KB4, Black forces matters with
+P-B3.
+
+        ---------------------------------------
+     8 | #R |    | #B | #Q |    | #R | #K |    |
+       |---------------------------------------|
+     7 | #P | #P |    | #Kt|    | #P | #P | #P |
+       |---------------------------------------|
+     6 |    |    | #Kt|    | #P |    |    |    |
+       |---------------------------------------|
+     5 |    |    | #P | #P | ^P |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    | ^P |    | ^P |    | ^B |    |
+       |---------------------------------------|
+     2 | ^P | ^P |    | ^Kt|    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R |    |    | ^Q | ^K | ^B |    | ^R |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 162
+
+Now that the idea underlying White’s opening strategy has proved
+impracticable, he has difficulty in formulating a plan. Making
+the best of a bad job, he abandons his KP in exchange for Black’s
+KRP. But Black obtains a powerful pawn centre, a telling
+advantage.
+
+          10. B-Q3          KKtxP
+          11. BxKt          KtxB
+          12. BxPch         KxB
+          13. Q-R5ch        K-Kt1
+          14. QxKt          P-B3
+          15. Q-R5          Q-Kt3
+
+Black wishes to provoke the advance of the QKtP and QBP in order
+to obtain a passed pawn (16. P-QKt3, P-K4; 17. Castles KR, Q-R4;
+18. P-QB4, P-Q5). In order to avoid this continuation, White
+takes his chance of castling on the Queen’s side. This turns out
+to Black’s advantage. Indeed it is a foregone conclusion. In the
+ensuing double assault by pawns, Black is several moves ahead, as
+the White pawns concerned in the attack are still on their
+original squares.
+
+          16. Castles QR     P-K4
+          17. P-KKt4         P-Q5
+          18. P-QB4          B-Q2
+          19. P-Kt5          PxKtP
+          20. QxP            RxP
+          21. PxP            BPxP!
+
+Finely played. Black gives up his KP in order to get his QR into
+play with the gain of a move.
+
+          22. QxP            R-K1
+          23. Q-Kt3          QR-K7
+          24. KR-K1
+
+KR-Kt1 would also be of no avail because of Q-KR3, 25. Q-Q3, Q-
+KB3 threatening B-B4. The move in the text puts an end to the
+agony.
+
+          24. ...          RxKt!!
+              Resigns.
+
+For after 25. RxR, RxR; 26. KxR, QxPch; 27. K-Q3, B-B4ch; 28. R-
+K4, Q-B6ch; 29. K-K2, QxQ; Black remains with an extra piece.
+
+

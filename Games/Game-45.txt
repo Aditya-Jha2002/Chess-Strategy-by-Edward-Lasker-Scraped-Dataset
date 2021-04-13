@@ -1,0 +1,166 @@
+                 GAME No. 45
+
+   White: Rubinstein.    Black: Spielmann.
+
+           Irregular Opening.
+
+          1. P-Q4          P-QB4
+
+With this move Black tries to avoid well-trodden paths of
+tournament practice. White can, at will, lead into a peaceful
+Queen’s Gambit by 2. P-K3 or into a Sicilian Defence by P-K4. It
+is more usual, however, to play P-Q5, which blocks up the Black
+centre to some extent.
+
+If 2. PxP, Black regains his pawn after P-K3 without any
+disadvantage.
+
+          2. P-Q5          P-Q3
+          3. P-QB4
+
+Coupled with 4. P-K4, this move is of doubtful value, as Black
+gains command of White’s Q4. It is advisable to keep the QBP
+back, thus retaining the option of driving off a hostile piece
+from Q4 by P-QB3. Moreover, the White KB is hemmed in by the pawn
+at QB4.
+
+           3. ...       P-KKt3
+           4. P-K4      B-Kt2
+           5. B-Q3      P-K3
+
+The development of the KKt is not desirable at B3, where it would
+block the long diagonal. From K2, however, it commands KB4, where
+it can take up a strong position after the exchange of pawns in
+the centre, or else it can support the advance of the KBP.
+
+           6. Kt-QB3    Kt-K2
+           7. KKt-K2
+
+Kt-B3 would have been slightly better, because the Black QKt
+might play to his K4.
+
+           7. ...       PxP
+           8. KPxP      Kt-Q2
+           9. P-B4
+
+This move weakens the King’s position, and would be justified
+only if there was a possibility of opening the file for the Rook
+by P-B5. But Black has too strong a hold on his KB4. The text
+move aims at preventing the exchange of White’s KB through
+Black’s Kt-K4. It would have been better to withdraw the B to B2.
+
+           9. ...       Kt-KB3
+          10. Kt-Kt3    P-KR4!
+
+Now White cannot enforce P-B5, as Black can attack the Knight by
+P-R5. White cannot prevent this with P-KR4, as the Black Knight
+would take up a commanding position at Kt5. Black’s game is
+superior. He can concentrate all his minor pieces on the King’s
+wing, while White’s QB is ineffective on account of the ill-
+considered advance of the KBP.
+
+        ---------------------------------------
+     8 | #R |    | #B | #Q | #K |    |    | #R |
+       |---------------------------------------|
+     7 | #P | #P |    |    | #Kt| #P | #B |    |
+       |---------------------------------------|
+     6 |    |    |    | #P |    | #Kt| #P |    |
+       |---------------------------------------|
+     5 |    |    | #P | ^P |    |    |    | #P |
+       |---------------------------------------|
+     4 |    |    | ^P |    |    | ^P |    |    |
+       |---------------------------------------|
+     3 |    |    | ^Kt| ^B |    |    | ^Kt|    |
+       |---------------------------------------|
+     2 | ^P | ^P |    |    |    |    | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R |    | ^B | ^Q | ^K |    |    | ^R |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 163
+
+          11. Castles    P-R5
+          12. KKt-K4     KtxKt
+          13. BxKt
+
+White has to capture with the B, in order to exchange the Black
+Knight if it should play to B4. After 13. KtxKt, B-Q5ch; 14. K-
+R1, Kt-B4; White’s Knight would not be able to move from K4 on
+account of the threat: Kt-Kt6ch.   Sooner or later, Black would
+get a deciding advantage by enforcing the exchange of White’s
+Knight, e.g. 15. Q-K1, Q-K2; 16. R-QKt1, B-Q2; 17. P-QKt3,
+Castles QR; 18. B-Kt2, QxKt; 19. BxQ, Kt-Kt6ch; 20. QxKt, PxQ;
+21. P-KR3, BxP; 22. PxB, RxPch; 23. K-Kt2, R-R7ch; 24. KxP, RxB;
+or 21. BxB, RxPch, followed by PxB and QR-R1.
+
+          13. ...       B-Q5ch
+          14. K-R1      Kt-B4
+          15. BxKt      BxB
+
+White is helpless against the two powerful Bishops.
+
+          16. R-K1ch    K-B1
+
+Black forfeits his chance of castling, not a great loss under the
+circumstances. In any case his KR is needed on the Rook’s file,
+and Black would only have castled on the Queen’s side if at all.
+
+          17. Q-B3
+
+Here P-KR3 was essential in order to prevent the further advance
+of the KRP. The weakness at Kt3 would not have been so serious in
+the absence of a Black Knight. Now Black forces the advance of
+White’s KKtP, and the Bishops become immediately effective.
+
+          17. ...       P-R6
+          18. P-KKt3
+
+not P-KKt4 on account of Q-R5.
+
+          18. ...       Q-Q2
+          19. B-Q2      B-Kt5
+          20. Q-B1
+
+If Q-Q3, Black plays Q-B4 and White cannot exchange Queens
+because of B-B6 mate.
+
+          20. ...       Q-B4
+
+threatening Q-B7.
+
+          21. QR-B1     K-Kt2
+          22. B-K3      B-B3
+
+Black must not exchange his valuable Bishop.
+
+          23. P-Kt3     KR-K1
+          24. B-B2
+
+There is no answer to Black’s threat of doubling the Rooks on the
+K file. If White plays Q-B2, Black’s Queen effects an entry at
+Q6, after which he would double his Rooks, and White’s Bishop
+cannot be defended. After the text move, Black forces the
+exchange of his two Rooks for the Queen. Generally speaking, this
+is no disadvantage, but in consequence of the exposed position of
+the White King, it means a speedy loss for White.
+
+          24. ...       B-B6ch
+          25. K-Kt1     B-Kt7
+          26. RxR       BxQ
+          27. RxR       Q-Q6!
+
+If now RxB Black plays Q-B6.
+
+          28. R-K8
+
+In order to play R-K3 if Black plays BxKt.
+
+          28. ...       Q-B6!
+          29. KxB       Q-R8ch
+          30. B-Kt1     Q-Kt7ch
+          31. K-K1      QxBch
+          32. K-Q2      QxPch
+              Resigns
+
+for the pawn queens.

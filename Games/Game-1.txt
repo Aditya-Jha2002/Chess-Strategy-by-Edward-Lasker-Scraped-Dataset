@@ -1,0 +1,126 @@
+                GAME No. 1
+
+    White: Tartakower.   Black: Burn.
+
+   King’s Gambit declined (compare p. 30).
+
+          1. P-K4         P-K4
+          2. P-KB4        B-B4
+          3. Kt-KB3       P-Q3
+          4. PxP
+
+On principle this exchange cannot be commended, as the opening of
+the Queen’s file increases the Black Queen’s mobility.  White
+derives no benefit from the KB file so long as the Black Bishop
+makes castling impossible. White intends to play P-B3 and P-Q4,
+but the manœuvre is doubtful, and the whole opening includes an
+inordinately large number of pawn moves. In the present game
+Black exposes the failings inherent to this system unequivocally.
+
+          4. ...          PxP
+          5. P-B3         Kt-QB3
+
+Black cannot put off White’s P-Q4 by B-KKt5, for White can give a
+check with the Queen and unpin the Knight.
+
+          6. P-QKt4
+
+The object of this move is not clear, as P-Kt5 does not win a
+pawn (Kt-R4; 8. KtxP; 9. Q-R5ch). It does not promote development
+either, and only compromises the QBP and QKtP.
+
+          6. ...            B-Kt3
+          7. B-Kt5          Kt-B3
+
+This is aimed at the White King’s pawn, which is deprived of its
+natural support by the QKt. In this position Black does well to
+attack White’s KP rather than to defend his own, because an open
+King’s file can only benefit him. Being able to castle, he can
+occupy the file with his Rook before White has time to bring his
+King into safety.
+
+          8. KtxP
+
+It would have been better to protect the pawn by Q-K2 or P-Q3.
+
+          8.    ...            Castles!
+
+
+        ---------------------------------------
+     8 | #R |    | #B | #Q |    | #R | #K |    |
+       |---------------------------------------|
+     7 | #P | #P | #P |    |    | #P | #P | #P |
+       |---------------------------------------|
+     6 |    | #B |#Kt |    |    |#Kt |    |    |
+       |---------------------------------------|
+     5 |    | ^B |    |    | ^Kt|    |    |    |
+       |---------------------------------------|
+     4 |    | ^P |    |    | ^P |    |    |    |
+       |---------------------------------------|
+     3 |    |    | ^P |    |    |    |    |    |
+       |---------------------------------------|
+     2 | ^P |    |    | ^P |    |    | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R | ^Kt| ^B | ^Q | ^K |    |    | ^R |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag.  100
+
+The beginning of a brilliant attack. Whether White exchanges the
+Bishop or the Knight, he is overwhelmed.
+
+          9. KtxKt
+
+After 9. BxKt, PxB; 10. KtxP, Q-K1 wins; 10. P-Q4 would also lose
+because Black gains two pawns after KtxP; 11. O-O, KtxP. It is
+interesting to note how speedily the weakness at White’s QB3 is
+brought to book.
+
+          9. ...               PxKt
+         10. BxP               KtxP!!
+
+Now White can neither take the Kt nor the R. In the first case Q-
+R5ch forces mate very soon, in the second B-B7ch, followed by B-
+Kt5ch or B-R3ch, wins the Queen.
+
+          11. P-Q4           Q-B3!
+          12. BxKt           Q-R5ch
+          13. K-Q2           QxB
+          14. Q-B3           Q-R5!
+          15. P-Kt3
+
+Not QxR, because of Q-B7ch and the loss of the Queen by a
+discovered check by the Bishop.
+
+                             Q-Kt4ch
+          16. Q-K3           Q-Q4
+          17. R-K1           B-Kt5
+          18. K-B2           P-QR4
+
+Such is the price to pay for premature advances.
+
+          19. PxP            RxP
+          20. B-R3           P-QB4
+
+Black shatters White’s pawn position, and his Bishops and Rooks
+have full play along open files and diagonals.
+
+          21. PxP            RxB!
+          22. KtxR
+
+or PxB, RxRPch; 23. RxR,QxRch; 24. K-Bl,B-B4.
+
+          22. ...            BxP
+
+The rest speaks for itself.
+
+          23. Q-K5           B-B4ch
+          24. K-Kt2          Q-Kt2ch
+          25. K-B1           BxKtch
+          26. K-Q2           R-Q1ch
+          27. K-K3           R-Q6ch
+          28. K-B2           Q-B6ch
+          29. K-Kt1          R-Q7
+          30. Q-Kt8ch        B-KB1
+              Resigns.

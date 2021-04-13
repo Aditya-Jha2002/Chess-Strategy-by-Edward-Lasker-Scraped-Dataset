@@ -1,0 +1,102 @@
+                 GAME No. 33
+
+        White: Barasz.   Black: Mieses.
+
+          Centre Counter Defence.
+
+          1. P-K4           P-Q 4
+          2. PxP            QxP
+          3. Kt-QB3         Q-QR4
+          4. Kt-B3
+
+It is better to advance the QP at once and so threaten B-Q2,
+after which Black is almost under compulsion to provide a retreat
+for his Q by P-QB3, thus blocking his QKt.
+
+          4. ...              Kt-QB3
+          5. B-K2             B-B4
+          6. P-Q3
+
+Already now the mistake of having allowed Black to develop his
+Queen’s side unmolested is apparent. P-Q4 is now impossible, for
+Black would castle on the Queen’s side and keep the initiative by
+exerting a permanent pressure on White’s QP by P-K4. White must
+yield up the centre to Black.
+
+          6. ...              P-K4
+          7. B-Q2             Castles
+          8. P-QR3            Q-B4
+
+The Queen must escape from White’s threat of P-QKt4.
+
+          9. Castles          Kt-B3
+         10. P-QKt4           Q-K2
+         11. P-Kt5
+
+This advance is somewhat purposeless, as the White pieces are not
+ready for an attack on Black’s King. It is difficult, though, to
+find a sensible plan, as the White pieces have so little
+mobility. It would perhaps be best to play R-K1, B-B1, and Kt-K4.
+
+         11. ...              Kt-Q5
+         12. R-K1             Q-B4
+         13. B-KB1            B-Q3
+         14. Q-Kt1?
+
+        ---------------------------------------
+     8 |    |    | #K | #R |    |    |    | #R |
+       |---------------------------------------|
+     7 | #P | #P | #P |    |    | #P | #P | #P |
+       |---------------------------------------|
+     6 |    |    |    | #B |    | #Kt|    |    |
+       |---------------------------------------|
+     5 |    | ^P | #Q |    | #P | #B |    |    |
+       |---------------------------------------|
+     4 |    |    |    | #Kt|    |    |    |    |
+       |---------------------------------------|
+     3 | ^P |    | ^Kt| ^P |    | ^Kt|    |    |
+       |---------------------------------------|
+     2 |    |    | ^P | ^B |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R | ^Q |    |    | ^R | ^B | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 146
+
+The purpose of this move is not clear. The advance of the KtP
+could only be condoned by a desire to obtain an open file, and it
+seems illogical to protect it now. If White wanted to escape the
+pinning of his KKt he need not have moved the Queen. KtxKt would
+have effected this and prevented the King’s side from being laid
+bare.
+
+White’s game would still have been bad, particularly as the
+exchange at Q4 opens the diagonal for the Black KB, but the move
+in the text has even a worse effect. Mieses concludes the game
+with an elegant sacrifice.
+
+         14. ...                  KtxKtch
+         15. PxKt                 P-K5!
+         16. QPxP                 BxPch
+         17. KxB                  QxPch
+         18. B-Kt2                RxB
+         19. R-K2                 RxR
+         20. KtxR                 QxKt
+         21. PxB                  Q-K4ch
+         22. K-R1                 R-K1
+
+Black has wrought fearful havoc in the White ranks, and the
+defenceless King cannot withstand the onslaught of the three
+White pieces for long.
+
+         23. P-QB4                Kt-R4
+         24. K-Kt1                Q-Q5ch
+         25. K-R2                 R-K7
+
+threatening Q-R5ch, Q-B7ch, and mate at Kt7 or R7.
+
+         26. Q-R1                 Q-K4ch
+         27. P-B4                 QxPch
+         28. K-Kt1                Q-Q5ch
+             Resigns.

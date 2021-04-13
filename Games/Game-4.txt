@@ -1,0 +1,198 @@
+                GAME NO. 4
+
+      White: Tarrasch. Black: Capablanca.
+
+               Giuoco Piano
+
+           1. P-K4         P-K4
+           2. Kt-KB3       Kt-QB3
+           3. B-B4         B-B4
+           4. P-B3
+
+The beginning of interesting operations in the centre. The steady
+development with: 4. P-Q3, P-Q3; 5. Kt-B3, Kt-B3; 6. B-KKt5, B-K3
+or Castles tends to a draw from the very first, and is thought
+dull.
+
+           4. ...        Kt-B3
+
+Black can avoid the exchange of pawns, which White tries to bring
+about after P-Q4, by playing his Queen to K2.  This covers his KP
+a second time, and White’s P-Q4 can be answered with B-Kt3.
+White’s QBP then obstructs the Kt’s natural development. In a
+game von Schewe-Teichmann  (Berlin, 1907) the position discussed
+on p. 117 was reached after the following moves: 5. Castles, P-
+Q3; 6. P-Q4, B-Kt3; 7. P-QR4, P-QR3; 8. P-R5, B-R2.
+
+          5. P-Q4          PxP
+          6. PxP           B-Kt5ch
+
+        ---------------------------------------
+     8 | #R |    | #B | #Q | #K |    |    | #R |
+       |---------------------------------------|
+     7 | #P | #P | #P | #P |    | #P | #P | #P |
+       |---------------------------------------|
+     6 |    |    | #Kt|    |    | #Kt|    |    |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    | #B | ^B | ^P | ^P |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    | ^Kt|    |    |
+       |---------------------------------------|
+     2 | ^P | ^P |    |    |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R | ^Kt| ^B | ^Q | ^K |    |    | ^R |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 103
+
+          7. B-Q2
+
+The pawn sacrifice by 7. Kt-B3, KtxKP; 8. Castles! is much more
+interesting and more in keeping with the spirit of the opening.
+[Footnote: The following two short games will give an idea of the
+various lines of attack which are to be found in this opening:
+
+a. Howell-Michell (cable match, England--America, 1907): 8. ...
+BxKt; 9. P-Q5 (Moller attack), B-B3; 10. R-K1, Kt-K2; 11. RxKt,
+P-Q3; 12. B-Kt5, BxB; 13. KtxB, B-B4 (the only chance of a draw
+would be this: Castles; 14. KtxRP, KxKt; 15. QR5ch, K-Kt1; 16. R-
+R4, P-KB4!; 17. B-K2, Kt-Kt3!; 18. Q-R7ch, K-B2; 19. R-R6, Kt-B5;
+20.  B-R5ch, KtxB; 21. Q-Kt6 with perpetual check); 14. Q-B3,Q-Q2
+(BxR; 15. QxPch followed by Q-K6ch and QxB); 15. B-Kt5!, QxB; 16.
+QxB, P-KB3; 17. QR-K1, PxKt; 18. RxKtch and mate in a few moves.
+
+b. X v. Y, first 10 moves as before: 11. RxKt, Castles; 12. P-Q6,
+PxP 13. B-KKt5, Kt-B4; 14. Q-Q5!, BxB; 15. KtxB, Kt-R3 (QxKt; 16.
+QxPch); 16. Q R-K1, resigns.] White obtains a quick development
+and prevents Black from freeing his game by playing P-Q4. After
+8. ... BxKt; 9. P-Q5 follows (Moller attack), and after 9. ... B-
+B3, White wins back his piece by R-K1 (10. PxKt would not be
+good, as Black could free his game by KtPxP and P-Q4). On the
+other hand, after 8. ... KtxKt; PxKt, White in addition gains a
+move, as BxP is countered by Q-Kt3.
+
+As played here, Black succeeds in playing P-Q4, and the game is
+even. Indeed the isolated QP is a weakness in the White position.
+
+          7. ...             BxBch
+          8. QKtxB           P-Q4!
+          9. PxP             KKtxP
+         10. Q-Kt3           QKt-K2
+         11. Castles KR      Castles
+         12. KR-K1           P-QB3
+
+Now the Knight is securely posted in the centre, and Black can
+accumulate forces for the attack on the White QP, possibly by Q-
+Kt3, R-Q1 and Kt-B4.
+
+         13. P-QR4
+
+in order to drive the Queen from her Kt3, but this advance is
+“three-edged,” as Master Gregory would say, and the pawn is sure
+to prove weak in the end-game.
+
+         13. ...             Q-Kt3
+         14. Q-R3            B-K3
+         15. P-R5            Q-B2
+         16. Kt-K4
+
+Kt-KKt5 would seem to be stronger here. B-B4 would then be
+answered by 17. B-Q3. After BxB, 18. QxB, White obtains
+opportunities for a King’s side attack, in which the Rook could
+co-operate via K4 and Kt4 or R4.
+
+         16. ...             QR-Q1
+         17. Kt-B5           B-B1
+         18. P-KKt3?
+
+This produces weak points at KB3 and KR3, and there being as yet
+no definite threat in Black’s Kt-B5, should have been avoided. It
+is of course difficult to formulate a plan of attack, for there
+is no weak place in Black’s armour. In any case White could
+safely have played QR-Q1 and Q2 in order to double the Rooks on
+the King’s file or Queen’s file according to circumstances. But
+now as soon as a Rook moves to Q1--and that will have to be done
+in the end, to support the weak QP--Black’s B-Kt5 might become
+awkward.
+
+          18. ...            Kt-B4
+          19. QR-Q1          Kt-Q3!
+          20. BxKt           Kt-Kt4
+
+avoiding an isolated pawn in a subtle manner.
+
+        ---------------------------------------
+     8 |    |    | #B | #R |    | #R | #K |    |
+       |---------------------------------------|
+     7 | #P | #P | #Q |    |    | #P | #P | #P |
+       |---------------------------------------|
+     6 |    |    | #P |    |    |    |    |    |
+       |---------------------------------------|
+     5 | ^P | #Kt| ^Kt| ^B |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    | ^P |    |    |    |    |
+       |---------------------------------------|
+     3 | ^Q |    |    |    |    | ^Kt| ^P |    |
+       |---------------------------------------|
+     2 |    | ^P |    |    |    | ^P |    | ^P |
+       |---------------------------------------|
+     1 |    |    |    | ^R | ^R |    | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 104
+
+          21. Q-Kt4           RxB
+          22. Kt-Q3           B-Kt5
+          23. QKt-K5          P-R4
+          24. KtxB            PxKt
+          25. Kt-R4
+
+Kt-K5 would be answered by KR-Q1; 26. KtxP, KtxP threatening both
+Kt-B6ch and Kt-B7. If White stops both threats with Q-B3, Kt-K7ch
+wins.
+
+          25. ...             KR-Q1
+          26. R-K7            Q-Q3
+
+Now Black foregoes his well-earned advantage. He overlooks
+White’s subtle move 28. P-R6. 26 Q-B1 was indicated.  White’s
+Queen’s Pawn could not escape, and there was time to dislodge the
+White Rook from the seventh by R-Q2, e g. 26. ... Q-B1; 27. Q-
+Kt3!, QR-Q2; 28. Q-K3, RxR; 29. QxR, KtxP.
+
+          27. QxQ          KtxQ
+          28. P-R6!        PxP
+          29. RxRP         Kt-Kt4
+          30. RxRP         KtxP
+          31. K-B1         P-Kt4
+          32. Kt-Kt2       Kt-B6
+          33. RxR          PxR!
+
+The pawn threatens to queen. Taking the Rook’s pawn would not be
+so good, as it would displace the Knight. White would not only
+regain the pawn easily with Kt-K3, but would also get his King
+into play.
+
+          34. Kt-K1        R-K1
+
+Here R-QB1 affords winning possibilities for Black.  On account
+of the threat of R-B8, the exchange of Knights by White would be
+forced, and his game would have been badly cramped by the Black
+KBP, e.g. 34. ... R-QB1; 35. KtxKt, PxKt; 36. R-R1 (K-K1?, R-B7;
+37. R-Q6, R-K7ch; 38. K-B1, RxP; 39. K-K1, R-K7ch; 40. K-B1, R-
+K4), R-Kt1; 37. R-Kt1, R-Kt6. After the move in the text the game
+is drawn.
+
+          35. KtxKt          PxKt
+          36. R-Q6           R-QB1
+
+There is nothing in this move, as the Black passed pawn is now
+attacked.
+
+          37. K-K1           R-K1ch
+          38. K-B1           R-QB1
+                    Drawn.

@@ -1,0 +1,191 @@
+GAME NO. 27
+
+White: Niemzowitsch. Black: Tarrasch.  French Defence.
+
+          1. P-K4           P-QB4
+
+This opening is called the Sicilian Defence. White, however,
+adopts a continuation which leads into a variation of the French
+Defence.
+
+          2. P-QB3          P-K3
+          3. P-Q4           P-Q4
+          4. P-K5           Kt-QB3
+          5. Kt-B3          Q-Kt3
+          6. B-Q3           PxP
+
+Black seeks to demonstrate that White’s QP is weak. The present
+game, however, seems to prove that White is able to guard it
+adequately, thus permanently supporting the KP too.  It would
+therefore appear to be better to attack the KP itself, and to
+play P-B3 on the fifth move. Now B-Q2 would be better than the
+text move. As White cannot give further support to his Q4, he
+would have to play PxP, and the protection of the K5 would have
+to be undertaken by pieces, which is not desirable.
+
+          7. PxP           B-Q2
+
+Not KtxP, 8. KtxKt, QxKt, because of B-Kt5ch.
+
+          8. B-K2
+
+The B cannot go to B2 on account of Kt-Kt5 and B-Kt4.
+
+          8. ...           KKt-K2
+          9. P-QKt3        Kt-B4
+         10. B-Kt2
+
+Now White’s centre is safe from further attacks. True, White has
+forfeited castling, but as he dominates the King’s side, where
+Black cannot undertake anything, there is no harm in P-Kt3,
+preparatory to “artificial castling.”
+
+         10. ...           B-Kt5ch
+         11. K-B1          B-K2
+
+Directed against 12. P-Kt4, driving off the Kt. Now Kt-R5 would
+follow.
+
+         12. P-Kt3         P-QR4
+
+        ---------------------------------------
+     8 | #R |    |    |    | #K |    |    | #R |
+       |---------------------------------------|
+     7 |    | #P |    | #B | #B | #P | #P | #P |
+       |---------------------------------------|
+     6 |    | #Q | #Kt|    | #P |    |    |    |
+       |---------------------------------------|
+     5 | #P |    |    | #P | ^P | #Kt|    |    |
+       |---------------------------------------|
+     4 |    |    |    | ^P |    |    |    |    |
+       |---------------------------------------|
+     3 |    | ^P |    |    |    | ^Kt| ^P |    |
+       |---------------------------------------|
+     2 | ^P | ^B |    |    | ^B | ^P |    | ^P |
+       |---------------------------------------|
+     1 | ^R | ^Kt|    | ^Q |    | ^K |    | ^R |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 139
+
+This manœuvre is unwise; White counters with 13. P-QR4, a move
+which was necessary in any case, in order to develop the QKt via
+R3, this being the Knight’s only chance of getting into play,
+because, as long as the QP is attacked three times the lines of B
+and Q must not be interrupted. That is a weakness in White’s
+game, and it was necessary for Black to prevent his Kt being
+driven off by P-KKt4. P-KR4 was the correct move. Then White also
+had to play P-KR4 to prevent P-KKt4-5, in which case Black could
+have played l3. ... P-KKt3, and have brought his Rooks into
+concerted action. P-KKt3 would have been necessary before
+castling, because White’s B-Q3 would have attacked the KKt. The
+latter could not then capture the Queen’s Pawn on account of a
+discovered check, e.g. l2. ... Castles; 13 B-Q3, KtxP?; 14 KtxKt,
+KtxKt; 15 BxKt, QxB?; 16 B-R7ch, and QxQ.
+
+In Diagram 139 Black’s P-QR4 is not only a lost move, but
+moreover allows a White piece to settle permanently at QKt5. It
+also prevents the Knight from playing to QR4, from where White’s
+P-QR4 could be answered by Kt-Kt6 eventually.
+
+          13. P-QR4         R-QB1
+          14. B-Kt5         Kt-Kt5
+
+All these skirmishes only result in the exchange of pieces, and
+as long as Black’s KRis out of play this can only be of advantage
+to White.
+
+          15. Kt-B3         Kt-QR3
+
+This is in order to drive off the B. Black should have exchanged
+his own inactive QB, as the White B might become effective on the
+Diagonal QKt1-KR7, whilst Black’s QB has no future.
+
+          16. K-Kt2         Kt-B2
+          17. B-K2          B-Kt5
+
+Black cannot yet castle, because of 18. B-Q3 Kt-KR3, 19. B-QB1).
+
+          18. Kt-R2          Kt-QR3
+          19. B-Q3           Kt-K2
+          20. R-QB1          Kt-B3
+          21. KtxB           QKtxKt
+          22. B-Kt1
+
+White’s last eight moves completed his development, and his
+Bishops lie in wait for the attack on the Black King.  Meanwhile
+Black has effected nothing. On the contrary, he
+
+        ---------------------------------------
+     8 |    |    | #R |    | #K |    |    | #R |
+       |---------------------------------------|
+     7 |    | #P |    | #B |    | #P | #P | #P |
+       |---------------------------------------|
+     6 |    | #Q | #Kt|    | #P |    |    |    |
+       |---------------------------------------|
+     5 | #P |    |    | #P | ^P |    |    |    |
+       |---------------------------------------|
+     4 | ^P | #Kt|    | ^P |    |    |    |    |
+       |---------------------------------------|
+     3 |    | ^P |    |    |    | ^Kt| ^P |    |
+       |---------------------------------------|
+     2 |    | ^B |    |    |    | ^P | ^K | ^P |
+       |---------------------------------------|
+     1 |    | ^B | ^R | ^Q |    |    |    | ^R |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 140
+
+has exchanged his valuable KB, and also allowed his KKt to be
+driven off. His King’s side is bare, and castling would be
+fraught with danger. If Black castles now, White plays Kt-Kt5,
+and Black must weaken his position by P-R3 or P-Kt3, and White
+would advance his KtP or RP and force an exchange, opening a file
+for his Rook. In consequence Black decides to forfeit castling
+and to bring his KR to bear on the KB file. For this also Black
+must first play P-R3, and White obtains an open file by P-Kt4-
+Kt5. The sequel is shown here.
+
+          22. ...            P-R3
+          23. P-Kt4          Kt-K2
+          24. RxRch          BxR
+          25. Kt-K1
+
+White waits first, to see whether Black is going to castle, and
+meanwhile tries to exchange Black’s QKt, which commands his QB2
+and Q3.
+
+          25. ...           R-B1
+          26. Kt-Q3         P-B3
+          27. KtxKt         QxKt
+          28. PxP           RxP
+          29. B-B1          Kt-B3
+          30. P-Kt5         PxP
+          31. BxP           R-B1
+          32. B-K3          Q-K2
+          33. Q-Kt4
+
+This provides against Black attempting to free his Bishop by P-
+K4. Black’s B-Q2 is countered by B-Kt6ch. White new wins
+surprisingly quickly, through the greater mobility of his pieces.
+
+          33. ...           Q-B3
+          34. R-Kt1         R-R1
+          35. K-R1          R-R5
+
+Here Black could have held out a little longer by defending his
+KtP: 35. ... K-B1; 36. R-Kt3, R-R5; 37. Q-Q1, K-Kt1; 38. B-Kt5,
+QxP (RxP, 39. Q-R5); 39. R-Q3, QxP; 40. BxR, QxB.
+
+          36. Q-Kt3          RxP
+
+Compulsory. B-Kt5 was threatened, and after R-R1, QxP, QxQ, RxQ,
+the RP wins easily.
+
+          37. BxR           KtxB
+          38. QxP           Q-B6ch
+          39. Q-Kt2         QxQch
+          40. RxQ           KtxP
+          41. P-R4          Resigns.

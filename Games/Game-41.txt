@@ -1,0 +1,137 @@
+                  GAME NO. 41
+
+    White: Niemzowitsch.   Black: Tarrasch.
+
+            Queen’s Gambit Declined.
+
+          1. P-Q4                P-Q4
+          2. Kt-KB3              P-QB4
+          3. P-B4                P-K3
+          4. P-K3                Kt-KB3
+          5. B-Q3                Kt-B3
+          6. Castles             B-Q3
+          7. P-QKt3              Castles
+          8. B-Kt2               P-QKt3
+          9. QKt-Q2              B-Kt2
+         10. R-B1                Q-K2
+         11. PxQP
+
+The most natural move to which the development of the QKt at Q2
+instead of B3 would seem to lead is Kt-K5 followed by P-B4. After
+11. Kt-K5 Black could not yet attempt 11. ... PxQP; 12. KPxP, B-
+R6, weakening the QP, because of 13. BxB, QxB; 14. PxP, KtxKt;
+15.  PxKt, KtxP; 16. Kt-B4 and Kt-Q6.
+
+         11. ...             KPxP
+         12. Kt-R4
+
+In order to provoke Black’s weakening move: P-Kt3, which might
+give White chances of attack on the long diagonal QR1-KR8, White
+gives up two clear moves. Black is able to get considerably ahead
+in his development, much to White’s disadvantage.
+
+         12. ...             P-Kt3
+         13. KKt-B3          QR-Q sq
+
+Not Kt-K5 yet, on account of 14. PxP, PxP?; 15. BxKt, PxB; 16.
+KtxP.
+
+         14. PxP
+
+White’s position is uncomfortable, and a satisfactory
+continuation is hard to find. Possibly passive resistance might
+have been the best plan, thus: Q-K2, KR-Q1, Kt-B1-Kt3.   The text
+move is a preliminary to operations on the Queen’s side, but
+allows Black too much scope in the centre.
+
+         14. ...             PxP
+         15. B-Kt5
+
+White wishes to get rid of the Black Knight which supports the
+advance of P-Q5.
+
+          15. ...           Kt-K5
+          16. BxKt          BxB
+          17. Q-B2
+
+White has no idea of the threatened disaster, or he would have
+played P-KKt3. Even then, however, Black has the better game with
+two Bishops, and the Q and Kt better placed.
+
+          17. ...           KtxKt
+
+The beginning of a brilliant mating combination.
+
+          18. KtxKt          P-Q5!
+
+Black would have played the same move if White had retaken with
+the Queen.
+
+          19. PxP
+
+P-K4 was comparatively the best move, although Black’s attack
+would have become overwhelming after P-B4, e.g. 20. P-B3, B-B5,
+etc.
+
+        ---------------------------------------
+     8 |    |    |    | #R |    | #R | #K |    |
+       |---------------------------------------|
+     7 | #P |    |    |    | #Q | #P |    | #P |
+       |---------------------------------------|
+     6 |    |    | #B | #B |    |    | #P |    |
+       |---------------------------------------|
+     5 |    |    | #P |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    | ^P |    |    |    |    |
+       |---------------------------------------|
+     3 |    | ^P |    |    |    |    |    |    |
+       |---------------------------------------|
+     2 | ^P | ^B | ^Q | ^Kt|    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 |    |    | ^R |    |    | ^R | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 159
+
+          19. ...         BxPch!!
+          20. KxB         Q-R5ch
+          21. K-Kt1       BxP!
+
+Emanuel Lasker won a celebrated game from Bauer   (Amsterdam,
+1889) with a similar sacrifice of two Bishops, and very likely
+this is the reason why Tarrasch’s beautiful game only earned him
+the second brilliancy prize at Petrograd (1914).
+
+          22. P-B3
+
+If KxB, then Q-Kt5ch; 23. K-R1, R-Q4; 24. QxP, R-R4ch; 25. QxR,
+QxQch; 26. K-Kt2, Q-Kt4ch and QxKt.
+
+          22. ...           KR-K1
+
+Not Q-Kt6, because of Kt-K4.
+
+          23. Kt-K4         Q-R8ch
+          24. K-B2          BxR
+          25. P-Q5          P-B4
+          26. Q-B3          Q-Kt7ch
+          27. K-K3          RxKtch!
+          28. PxR           P-B5ch
+
+With Q-Kt6ch Black mates two moves earlier.
+
+          29. KxP           R-B1ch
+          30. K-K5          Q-R7ch
+          31. K-K6          R-K1ch
+              Resigns.
+
+If K-Q7, B-Kt4 mate, if K-B6, Q-R5 mate.
+
+[FOOTNOTE: Emanuel Lasker-Bauer: 1. P-KB4, P-Q4; 2. P-K3, Kt-KB3;
+3. P-QKt3, P-K3; 4. B-Kt2, B-K2; 5. B-Q3, P-QKt3; 6. Kt-QB3, B-
+Kt2; 7. Kt-B3, QKt-Q2; 8. Castles, Castles; 9. Kt-K2, P-B4; 10.
+Kt-Kt3, Q-B2; 11. Kt-K5, KtxKt; 12. BxKt, Q-B3; 13. Q-K2, P-QR3;
+14. Kt-R5, KtxKt; 15. BxPch!!, KxB; 16. QxKtch, K-Kt1; 17. BxP!,
+KxB; 18. Q-Kt4ch, K-R2; 19. R-B3, P-K4; 20. R-R3ch, Q-R3; 21.
+RxQ, KxR; 22. Q-Q7, and White won.]

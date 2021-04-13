@@ -1,0 +1,147 @@
+               GAME No. 15
+
+  White: Aljechin.    Black: Niemzowitsch.
+
+        Ruy Lopez (see p. 41).
+
+          1. P-K4          P-K4
+          2. Kt-KB3        Kt-QB3
+          3. B-Kt5         P-QR3
+          4. B-R4          Kt-B3
+          5. Castles       KtxP
+          6. P-Q4          P-QKt4
+          7. B-Kt3         P-Q4
+          8. PxP           B-K3
+          9. P-B3          B-K2
+         10. R-K1
+
+        ---------------------------------------
+     8 | #R |    |    | #Q | #K |    |    | #R |
+       |---------------------------------------|
+     7 |    |    | #P |    | #B | #P | #P | #P |
+       |---------------------------------------|
+     6 | #P |    | #Kt|    | #B |    |    |    |
+       |---------------------------------------|
+     5 |    | #P |    | #P | ^P |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    | #Kt|    |    |    |
+       |---------------------------------------|
+     3 |    | ^B | ^P |    |    | ^Kt|    |    |
+       |---------------------------------------|
+     2 | ^P | ^P |    |    |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R | ^Kt| ^B | ^Q | ^R |    | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 122
+
+This is one of the most important positions in the Ruy Lopez.
+Black has the better development, but his centre is less secure.
+Whilst White has a pawn secured in the centre, Black has a Knight
+there which will soon be driven away.  White’s Q4, the basis of
+his centre, is entirely in his hands, while Black’s Q4 is exposed
+to a steady pressure by the White pieces. Finally Black’s Q Kt is
+unfavourably placed, obstructing as it does the QBP and
+preventing it from falling into line with its fellows. In
+Petrograd, 1909, Lasker tried the following new defence: Kt-B4
+followed by B-Kt5, giving up the moves gained before in order to
+relieve the pressure on the Black QP and to exchange the same
+ultimately at Q5.  The various possibilities of the position have
+been discussed in connection with Diag. 22. It may be added that
+after 10. ... Castles; QKt-Q2 is surely a better move than the
+usual Kt-Q4, as the Queen’s side should be developed before
+undertaking an attack (11. ... Q-Q2?; 12. KtxB, followed by
+RxKt). For a long time it was thought that after Kt-Q4 Black had
+to exchange Knights, which enables White to make the pawn at QB7
+“backward” by B-K3.  For Black must first play P-KR3 to guard his
+Kt against the threat of P-B3 and P-KR4. However, a sensational
+innovation which refutes the Kt’s move was introduced in Breslau
+in 1912. It is the following sacrifice:  10. ... Castles; 11. Kt-
+Q4, KtxKP!; 12. P-B3, B-Q3!!; 13. PxKt, B-Kt5!!; 14. Q-Q2, Q-R5
+with an overpowering attack.
+
+         10. ...            Kt-B4
+         11. B-B2           B-Kt5
+         12. Q Kt-Q2        Castles
+         13. Kt-Kt3         Kt-K5
+
+Here Lasker played Kt-K3 against Janowski (Paris, 1912), but it
+proved to be inferior, because 14. Q-Q3 disorganises Black’s
+King’s side forcibly.
+
+The move in the text is not really a pawn sacrifice. After 14.
+BxKt, PxB; 15. QxQ, QRxQ; 16. KKt-Q4, KtxKt; 17. KtxKt, R-Q4,
+White cannot play 18. RxP, because of P-QB4; 19. Kt-B2, B-B4 or
+19. Kt-B3, R-Q8ch; 20. Kt-K1, B-B4; 21. R-K2, B-Q6; 22. R-K3, B-
+Kt4.
+
+         14. B-B4           P-B4
+         15. PxP e.p.       KtxP(B3)
+         16. Q-Q3           Kt-K5?
+
+This loses the QBP, and weakens the QP. Black might have tried
+BxKt; 17. QxB, B-Q3. It would then have been possible to support
+the QP by P-B3 after moving the Kt away. If Black was anxious to
+preserve his two Bishops he would even have risked P-Kt3. After
+17. B-R6, R-B2, the Bishop could have been driven away again by
+the KKt from Kt1 or Kt5. The open file offered some compensation
+and chances of counter attack.
+
+          17. BxP           Q-Q2
+
+Not QxB because of QxPch.
+
+          18. Kt-K5         KtxKt
+          19. BxKt          B-R5
+
+RxP is bad because of 20. RxKt, B-KB4; 21. Q-Kt3.
+
+          20. B-Kt3         BxB
+          21. RPxB          B-B4
+
+Now RxP! was feasible with a level game after: 22. RxKt, B-B4!
+23. KxR, BxR; 24. Q any, Q-B4ch, followed by BxB. After missing
+this chance, Black soon loses the game.
+
+          22. Q-Q4          KR-Q1
+          23. QR-Q1         Q-QB2
+          24. Kt-Q2         KtxKBP
+
+A last and desperate attempt. Black obtains Rook and pawn against
+two minor pieces, but has no time to initiate an attack with the
+Rooks. The wisest plan was to give up the P, with a view to
+effecting the exchange of the minor pieces, because an ending
+with Queen and Rooks generally produces a draw. Black could not
+play KtxKtP instead of the move in the text because of 25. B-
+Kt3!.
+
+         25. BxB            KtxR
+         26. RxKt           QxKtP
+         27. B-K6ch         K-R1
+         28. BxP            QR-B1
+         29. Kt-K4          Q-R5
+         30. P-QKt3         R-B3
+
+White now obtains a passed pawn, and a speedy win.
+
+          31. Q-B2          Q-R4
+          32. Q-B3          QxQ
+          33. PxQ           P-Kt3
+          34. R-Q2          R-Kt3
+          35. P-QB4         PxP
+          36. PxP           R-Kt8ch
+          37. K-B2          P-QR4
+          38. P-B5          R-QB8
+          39. P-B6          K-Kt2
+          40. B-B4!         RxB
+          41. RxR           RxP
+          42. R-Q7ch        K-R3
+          43. K-Kt3         R-B5
+          44. Kt-B2         K-Kt4
+
+Mate was threatened by: 45. Kt-Kt4ch, K-R4; 46. R-Q5ch, P-Kt4;
+47. R-Q6 and R-R6 mate (or if RxKtch, PxR mate).
+
+          45. R-Q5ch        K-B3
+          46. RxP           Resigns

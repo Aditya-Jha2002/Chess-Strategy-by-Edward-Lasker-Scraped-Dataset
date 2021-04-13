@@ -1,0 +1,151 @@
+               GAME No. 43
+
+  White: Capablanca.   Black: Bernstein.
+
+      Queen’s Gambit Declined.
+
+          1. P-Q4      P-Q4
+          2. Kt-KB3    Kt-KB3
+          3. P-B4      P-K3
+          4. Kt-B3     QKt-Q2
+          5. B-Kt5     B-K2
+          6. P-K3      P-B3
+          7. B-Q3      PxP
+
+Before initiating this manœuvre, which aims at the development
+of the Queen’s wing, Black should castle, as otherwise the King
+is exposed to dangerous and immediate attacks in the centre.
+
+          8. BxBP      P-Kt4
+          9. B-Q3      P-QR3
+
+The system of opening chosen by Black has been tried frequently
+of late. It seems to be somewhat artificial, as the QB Pawn takes
+two moves to get to his fourth. On the other hand the pawn
+formation at QR3, QKt4, and QB4 is attained, whilst it can be
+prevented in other variations, e.g. 6. ... Castles; 7. B-Q3, PxP;
+8. BxP, P-QR3; 9 P-QR4.
+
+          10. P-K4     P-K4
+
+        ---------------------------------------
+     8 | #R |    | #B | #Q | #K |    |    | #R |
+       |---------------------------------------|
+     7 |    |    |    | #Kt| #B | #P | #P | #P |
+       |---------------------------------------|
+     6 | #P |    | #P |    |    | #Kt|    |    |
+       |---------------------------------------|
+     5 |    | #P |    |    | #P |    | ^B |    |
+       |---------------------------------------|
+     4 |    |    |    | ^P | ^P |    |    |    |
+       |---------------------------------------|
+     3 |    |    | ^Kt| ^B |    | ^Kt|    |    |
+       |---------------------------------------|
+     2 | ^P | ^P |    |    |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R |    |    | ^Q | ^K |    |    | ^R |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 161
+
+Black’s only plausible move here seems to be P-B4, and many
+critics have remarked that after 11. P-K5, PxP!; 12. Kt-K4 (if
+PxKt, PxKt) KtxKt; 13. BxKt, R-QKt1; 14. BxB, QxB; 15. QxP, Q-B4;
+the game would have been even. However, this is not the case, for
+on the 15th move White does not capture the pawn with the Q but
+with the Kt and Black has no satisfactory continuation. If he had
+castled he could play l5. ... B-Kt2 which now is not available
+because of: 16. Kt-B6, BxKt; 17. BxB, with an overwhelming
+advantage in position for White. White’s refutation of the text
+move is above criticism.
+
+          11. PxP       Kt-Kt5
+          12. B-KB4     B-B4
+
+If Q-B2, White would play R-B1, after which Black could not
+recapture the KP yet, as the QBP is en prise.  13. ... KKtxP; 14.
+KtxKt, KtxKt; 15. Kt-Q5, Q-Q3; 16. BxKt, QxB; 19. RxP, etc.
+
+          13. Castles   Q-B2
+          14. R-B1      P-B3
+
+Again KtxP is not feasible on account of the loss of the QBP, as
+can be easily seen.
+
+          15. B-Kt3     PxP
+
+Black’s game cannot be saved. If l5. ... Kt(Kt5)xKP there follows
+16. KtxKt, KtxKt; 17. Kt-Q5, Q-Q3; 18. BxKt, PxB; 19. RxB, or 16.
+... PxKt; 17. Q-R5ch, P-Kt3, 18. Q-R6.
+
+          16. P-Kt4!
+
+Now White initiates a brilliant attack, driving it home without
+giving Black a moment’s rest. If Black takes the pawn, White
+plays Kt-Q4, with many threats, e.g. P-B4; 18. Kt-Q5, Q-Q3; 19.
+Kt-K6, or l7. ... Kt(Kt5)-B3; 18. Kt-K6, etc.
+
+          16. ...       B-R2
+          17. BxKtP
+
+The sacrifice is fairly obvious, as White obtains three pawns for
+the piece, and moreover drives the King into the field of battle.
+However, this does not detract from the beauty of the game, which
+is full of brilliant phases.
+
+          17. ...        RPxB
+          18. KtxKtP     Q-Q1
+
+Or Q-Kt3; 19. Kt-Q6ch, K-K2; 20. Kt-B5ch, followed by Q-Q6.
+
+          19. Kt-Q6ch    K-B1
+          20. RxP        Kt-Kt3
+
+The threat was: 21. Q-Q5, Kt-R3; 22. KtxB, RxKt; 23. R-Q6, etc.
+20. ... Kt(Q2)-B3 is of no avail because of 21. Q-Kt3, Kt-R3; 22.
+KtxP, or 21. ... Q-Q2; 22. KR-B1, etc.
+
+          21. B-R4       Q-Q2
+          22. KtxB!      QxR
+
+Not RxKt because of 23. QxQ. Now Black is a whole Rook ahead. But
+it is as much out of play as his Queen’s side pieces. The King is
+driven into a mating net by the concentration of superior White
+forces, and only escapes by giving up the extra piece.
+
+          23. Q-Q8ch     Q-K1
+          24. B-K7ch     K-B2
+          25. Kt-Q6ch    K-Kt3
+          26. Kt-R4ch    K-R4
+
+If K-R3 there follows mate in three by 27. Kt(Q6)-B5ch; 28. Kt-
+Kt3ch; 29. B-Kt5 mate.
+
+          27. KtxQ          RxQ
+          28. KtxPch        K-R3
+          29. Kt(Kt7)-B5ch  K-R4
+          30. P-KR3!
+
+This threatens 31. PxKtch, KxP; 32. P-B3ch, followed by P-Kt3 or
+Kt4 mate. If Black plays 30. QR-KKt1, White wins as follows: 31.
+PxKtch, RxP; 32. P-B3, Kt-B1ch; 33. K-R2, KtxB; 34. PxRch, KxP;
+35. KtxKt, K x Kt; 36. R-B7. If 30. ... Kt-R3; 31. Kt-Kt7 mate.
+
+          30. ...        Kt-B1
+          31. PxKtch     KxP
+          32. BxR        RxB
+          33. P-Kt3      R-Q7
+          34. K-Kt2      R-K7
+          35. P-R4       Kt-Kt3
+          36. Kt-K3ch    K-R4
+          37. P-R5       Kt-Q2
+          38. Kt(R4)-B5  Kt-B3
+          39. P-Kt5      B-Q5
+          40. K-B3       R-R7
+          41. P-R6       B-R2
+          42. R-B1       R-Kt7
+          43. P-Kt4ch    K-Kt4
+          44. R-B7       RxPch
+          45. KxR        KtxKtPch
+          46. K-B3       Resigns.

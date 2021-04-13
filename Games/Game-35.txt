@@ -1,0 +1,165 @@
+                GAME NO. 35
+
+        White: Reti.      Black: Tartakower.
+
+             Caro-Kann Defence.
+
+          1. P-K4            P-QB3
+          2. P-Q4            P-Q4
+          3. Kt-QB3          PxP
+          4. KtxP            Kt-KB3
+          5. Q-Q3
+
+White wishes to castle as soon as possible on the Queen’s side,
+in order to operate on the Queen’s file with the help of the
+Rook.
+
+          5. ...             P-K4
+
+Here Black loses two moves in bringing White’s centre pawn away.
+The manœuvre therefore is not sound. QKt-Q2, KtxKt, and Kt-B3,
+or any other developing moves would be preferable.
+
+          6. PxP             Q-R4ch
+          7. B-Q2            QxP
+          8. Castles!
+
+        ---------------------------------------
+     8 | #R | #Kt| #B |    | #K | #B |    | #R |
+       |---------------------------------------|
+     7 | #P | #P |    |    |    | #P | #P | #P |
+       |---------------------------------------|
+     6 |    |    | #P |    |    | #Kt|    |    |
+       |---------------------------------------|
+     5 |    |    |    |    | #Q |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    | ^Kt|    |    |    |
+       |---------------------------------------|
+     3 |    |    |    | ^Q |    |    |    |    |
+       |---------------------------------------|
+     2 | ^P | ^P | ^P | ^B |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 |    |    | ^K | ^R |    | ^B | ^Kt| ^R |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 148
+
+White prepares a magnificent mating combination, which can only
+be made possible at such an early stage, when the opponent has
+utterly neglected his development.
+
+          8. ...               KtxKt
+          9. Q-Q8ch!!          KxQ
+         10. B-Kt5 double ch   K-B2
+         11. B-Q8 mate
+
+A beautiful mate. If 11. ... K-K1, 11. R-Q8 mate.
+
+
+              GAME NO. 36
+
+    White: Forgacz.    Black: E. Cohn.
+
+            Queen’s Gambit.
+
+
+          1. P-Q4          P-Q4
+          2. Kt-KB3        P-K3
+          3. P-B4          PxP
+          4. Kt-B3         Kt-KB3
+          5. B-Kt5         B-K2
+          6. P-K4          P-KR3
+
+Through 3. ... PxP Black’s development is one move behind, and
+such pawn moves should at any cost be avoided as do not
+contribute to the mobilisation of the pieces. Castles, P-QKt3, B-
+Kt2, and QKt-Q 2 was the proper course.
+
+          7. BxKt
+
+This is better than to withdraw the Bishop; Black’s last move was
+clearly loss of time.
+
+          7.. ...          BxB
+          8. BxP           Kt-Q2
+          9. Castles       Castles
+
+        ---------------------------------------
+     8 | #R |    | #B | #Q |    | #R | #K |    |
+       |---------------------------------------|
+     7 | #P | #P | #P | #Kt|    | #P | #P |    |
+       |---------------------------------------|
+     6 |    |    |    |    | #P | #B |    | #P |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    | ^B | ^P | ^P |    |    |    |
+       |---------------------------------------|
+     3 |    |    | ^Kt|    |    | ^Kt|    |    |
+       |---------------------------------------|
+     2 | ^P | ^P |    |    |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R |    |    | ^Q |    | ^R | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 149
+
+There seems to be nothing alarming about the position, yet on
+closer investigation a number of vital failings can be discerned
+in Black’s camp. The absence of a pawn in the centre and the
+unsatisfactory development have a far-reaching influence.  White
+will be able to bring his forces to the King’s side by way of K4,
+which is made accessible by the disappearance of Black’s QP,
+before Black has time to bring his QB to bear on White’s K4 by P-
+QKt3 and B-Kt2. White’s immediate threat (after P-K5) is Q-K2-K4
+and B-Q3.  If Black does not wish to risk P-KKt3, he must defend
+himself with R-K1, Kt-B1. In the meantime White can play R-Q1 and
+threaten P-Q5, opening the Queen’s file. This again necessitates
+P-B3, which postpones the efficiency of the QB at Kt2 until
+White’s QKt and QR have been brought up for the attack. The game
+develops on these lines, and provides an excellent example of the
+advantage of the command of the centre.
+
+         10. P-K5           B-K2
+         11. Q-K2           R-K1
+         12. QR-Q1          P-QB3
+         13. Q-K4           Q-B2
+
+preparing P-QKt3.
+
+         14. KR-K1          Kt-B1
+         15. Q-Kt4          P-QKt3
+         16. Q-R5           B-Kt2
+         17. R-K4           B-Kt5
+
+Black cannot yet play P-QB4, as R-B4 is threatened with an attack
+on KB7. The Bishop which obstructs the Q would have no move, save
+the sorry retreat to Q1, and White would win speedily: 17. ... P-
+QB4; 18. R-B4, B-Q1; 19. P-Q5, PxP; 20. KtxP, BxKt; 21. BxB,
+attacking R and P.
+
+         18. R-Kt4          BxKt
+         19. PxB            K-R1
+
+QxP was threatened.
+
+         20. Kt-Kt5         R-K2
+         21. Kt-K4
+
+Even the Knight is brought in via K4.
+
+         21. ...            R-Q1
+         22. R-Q3           P-QB4
+         23. Kt-B6
+
+threatening QxPch and R-Kt8 mate. Black cannot capture the Kt
+because of QxPch and mate at Kt7. But the mate cannot be delayed
+much longer in view of the concentration of superior forces for
+the attack.
+
+         23. ...              Kt-Kt3
+         24. R-R3             Resigns
+
+There is no answer to Q-Kt5 and RxP.

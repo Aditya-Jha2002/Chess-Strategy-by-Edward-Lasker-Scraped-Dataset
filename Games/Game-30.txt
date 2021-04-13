@@ -1,0 +1,142 @@
+                  GAME No. 30
+
+       White: Tarrasch.    Black: Spielmann.
+
+                Sicilian Defence.
+
+          1. P-K4          P-QB4
+          2. Kt-QB3        Kt-QB3
+          3. P-KKt3
+
+Speedy development by Kt-B3 and P-Q4 is more desirable, as
+otherwise Black may have time to get a firm footing at his Q5.
+
+          3. ...           P-KKt3
+          4. B-Kt2         B-Kt2
+
+The Black Bishop is the more effective, as the line of the White
+Bishop is masked by the KP. Small as this advantage would seem,
+it becomes serious later on. It is another confirmation of the
+doctrine that the value of each manœuvre in the opening depends
+on the measure of mobility it affords for the pieces.
+
+          5. KKt-K2         Kt-B3
+          6. P-Q3
+
+Here White could still obtain a freer game with P-Q4.  Perhaps he
+was afraid of losing a pawn after 6. ... PxP; 7. KtxP, KtxP. But
+there is nothing in it, e.g. 8. KKtxKt, KtxKt; 9. KtxQ, KtxQ; 10.
+KtxBP! (KtxKtP?  BxKt; 11. BxB, R-QKt1), KxKt (KtxBP?; 11. KtxR,
+KtxR; 12. KtxP, KtxP; 13. KtxP), KxKt. There was nothing else to
+be feared after P-Q4.
+
+          6. ...              P-Q3
+          7. Castles          B-Q2
+
+in order to play Q-B1 and B-R6 and to exchange Bishops, after
+which there would be weak points at White’s KR3 and KB3.
+
+          8. P-KR3             Castles
+          9. B-K3              P-KR3
+
+Black also prevents an exchange of Bishops.
+
+         10. Q-Q2              K-R2
+         11. P-B4              Kt-K1
+
+The position has now become exceedingly difficult. In order to
+make the most of the favourable development of his KB, Black must
+advance on the Queen’s side. But in moving his King’s side pieces
+over to the Queen’s side, Black must proceed warily, as White
+might get chances of an attack with overwhelming forces on the
+King’s side.
+
+         12. P-KKt4            Kt-B2
+         13. Kt-Kt3
+
+Here it was necessary to play R-B2 in order to play the QR to KB1
+before Black could manage to drive the Kt to Q1 by P-QKt4-5.
+
+         13. ...               P-QKt4
+         14. Kt-Q1?
+
+It would still have been better to play QR-K1 and to leave the
+Queen’s side to itself as long as possible after P-Kt5, 15. Kt-
+Q1, in order to start an assault on the King’s side with P-B5, P-
+KR4 and P-Kt5. After the text move the Queen’s Rook remains shut
+in.
+
+         14. ...               QR-Kt1
+         15. Kt-K2
+
+in order to play P-B3 and P-Q4. The whole plan, however, is
+inconsequent, as he has started an attack on the King’s side. Now
+he suddenly opens up files on the Queen’s side where Black has
+assembled superior forces. The result is that White gets into
+trouble on both wings, for as soon as he gives up his King’s side
+attack, the advanced pawns there, as one knows, are only a source
+of weakness.
+
+          15. ...        P-Kt5
+          16. P-B3       PxP
+          17. PxP        Q-B1
+          18. P-Q4       PxP
+          19. PxP        Q-R3
+          20. R-B1       Kt-Kt4
+          21. P-Q5
+
+        ---------------------------------------
+     8 |    | #R |    |    |    | #R |    |    |
+       |---------------------------------------|
+     7 | #P |    |    | #B | #P | #P | #B | #K |
+       |---------------------------------------|
+     6 | #Q |    | #Kt| #P |    |    | #P | #P |
+       |---------------------------------------|
+     5 |    | #Kt|    | ^P |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    | ^P | ^P | ^P |    |
+       |---------------------------------------|
+     3 |    |    |    |    | ^B |    |    | ^P |
+       |---------------------------------------|
+     2 | ^P |    |    | ^Q | ^Kt|    | ^B |    |
+       |---------------------------------------|
+     1 |    |    | ^R | ^Kt|    | ^R | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 143
+
+This shuts in the White KB altogether, and at the same time opens
+the diagonal of Black’s KB. Therefore, on principle alone the
+move is questionable. In effect it gives Black an opportunity for
+a beautiful winning combination.  Only P-K5 was worth
+considering, as then the opposing Bishop would have been shut in
+and White’s own diagonal opened.
+
+          21. ...           Kt-Kt5!!
+          22. QxKt          Kt-Q5
+          23. QxKt          BxQ
+          24. KtxB
+
+Although three minor pieces are generally an equivalent for the
+Queen, in this case the White game collapses quickly.  The
+advanced pawns have produced too many weak points which afford an
+entry for the Black forces.
+
+
+          24. ...                 KR-B1
+          25. RxR                 RxR
+          26. R-B2                Q-R6
+          27. R-K2
+
+B-R5 was threatened. But the text move is of no avail either.
+Black winds up the game with another fine combination.
+
+          27. ...                 R-B8!
+          28. BxR                 QxB
+
+If R-K1, Q-B4.
+
+          29. Kt-B3               QxKtch
+          30. K-B2                B-Kt4
+              Resigns.

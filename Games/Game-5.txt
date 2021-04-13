@@ -1,0 +1,131 @@
+                  GAME No. 5
+
+  White: R. C. Griffith.    Black: W. H. Gunston.
+
+                 Giuoco Piano.
+
+          1. P-K4          P-K4
+          2. Kt-KB3        Kt-QB3
+          3. B-B4          B-B4
+          4. P-B3          Kt-B3
+          5. P-Q3
+
+P-Q4 would seem to be the logical consequence of P-B3, and
+therefore preferable. After the text move Black will sooner or
+later be able to enforce the advance of his own pawn to Q4, and
+his pieces will then have the greater mobility.
+
+          5. ...          P-Q3
+
+Here Black might have played P-Q4 at once. For if White takes the
+pawn, he leaves Black in possession of the pawn in the centre. If
+he does not do so but plays B-QKt5 instead, Black’s reply would
+be Q-K2 and the exchange of pawns at K 5 would follow. White’s P-
+B3 is then clearly a lost move.
+
+          6.  B-K3          B-Kt3
+          7.  QKt-Q2        Kt-K2
+          8.  Kt-B1         P-B3
+          9.  Q-K2          Castles
+          10. Kt-Kt3        P-Q4
+          11. PxP           PxP
+          12. B-Kt3         Kt-Kt3
+
+Black has now the superior position on account of his pawn
+centre.
+
+          13. Castles KR    B-B2
+          14. B-Kt5         P-KR3
+          15. BxKt          PxB
+
+There is nothing in the weakness at Black’s KB3 and KR3 caused by
+the disappearance of his KKt Pawn, as White has lost his KB. On
+the contrary the open file should be a distinct asset, for,
+having a strong centre, Black’s pieces are more mobile and he is
+more likely to get an attack.
+
+          16. Q-K3          K-R2
+          17. P-KR3
+
+in order to play Kt-R5, which otherwise would be answered by B-
+Kt5.
+
+          17. ...           KR-Kt1
+          18. K-R1          P-B4
+          19. Kt-R5         B-K3
+
+BxP was threatened.
+
+          20. R-KKt1          P-B5
+
+        ---------------------------------------
+     8 | #R |    |    | #Q |    |    | #R |    |
+       |---------------------------------------|
+     7 | #P | #P | #B |    |    | #P |    | #K |
+       |---------------------------------------|
+     6 |    |    |    |    | #B |    | #Kt| #P |
+       |---------------------------------------|
+     5 |    |    |    | #P | #P |    |    | ^Kt|
+       |---------------------------------------|
+     4 |    |    |    |    |    | #P |    |    |
+       |---------------------------------------|
+     3 |    | ^B | ^P | ^P | ^Q | ^Kt|    | ^P |
+       |---------------------------------------|
+     2 | ^P | ^P |    |    |    | ^P | ^P |    |
+       |---------------------------------------|
+     1 | ^R |    |    |    |    |    | ^R | ^K |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 105
+
+P-K5 would seem to be better, as it opens a diagonal for the KB,
+and a diagonal, too, for the QB, as White has to exchange the
+pawns. Indeed Black would soon have obtained a winning advantage,
+e.g. 20. ... P-K5; 21. PxP  (Kt-R2, Q-R5; 22. Q-K2, Kt-K4), BPxP;
+22. Kt-R2, Q-R5; 23. Q-K2 (P-KKt4 or B-Q1, P-B4), Kt-K4,
+threatening Kt-Kt5 and Kt-Q6. As it is, White gains a little
+time, although Black’s position still remains superior.
+
+          21. Q-K2          Q-K2
+          22. P-Kt4         P-B3
+
+to prevent P-Kt5.
+
+          23. R-Kt2         QR-K1
+          24. R-K1          Q-B2
+          25. Kt-Q2
+
+intending to play P-B3, thus retarding Black’s P-K5, which is
+still hanging over White like Damocles’ sword. The move, however,
+lets in the Knight.
+
+          25. ...           Kt-R5
+          26. R-R2          P-B4
+          27. P-B3          P-K5
+
+Now this move is no longer feasible, as White’s brilliant
+sacrifice demonstrates. To make the move possible, long
+preparations would have been necessary, such as: R-Kt3, B-Q2-B3,
+etc.
+
+          28. QPxP          QPxP
+          29. KtxKP         PxKt
+          30. QxPch         R-Kt3
+          31. R(R2)-K2
+
+The scene has changed with startling suddenness. White has open
+files and diagonals for all his forces, whilst Black’s pieces are
+immobilised. Whatever he plays, Black must lose the piece he has
+gained.
+
+          31. ...            B-Q3
+          32. Q-Q3           BxB
+          33. RxR            Q-B5
+
+He cannot play B-Q4 on account of Q-Q4.
+
+          34. Kt-B6ch        K-Kt2
+          35. QR-K7ch        BxR
+          36. RxBch          KxKt
+          37. Q-Q6ch         Resigns.

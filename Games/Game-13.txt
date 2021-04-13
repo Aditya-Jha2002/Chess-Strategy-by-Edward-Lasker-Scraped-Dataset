@@ -1,0 +1,119 @@
+                  GAME No. 13
+
+        White: Teichmann. Black: Schlechter.
+
+             Ruy Lopez (see p. 37).
+
+Move 1-8 as in Game No. 12.
+
+        ---------------------------------------
+     8 | #R |    | #B | #Q |    | #R | #K |    |
+       |---------------------------------------|
+     7 |    |    | #P |    | #B | #P | #P | #P |
+       |---------------------------------------|
+     6 | #P |    | #Kt| #P |    | #Kt|    |    |
+       |---------------------------------------|
+     5 |    | #P |    |    | #P |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    | ^P |    |    |    |
+       |---------------------------------------|
+     3 |    | ^B | ^P |    |    | ^Kt|    |    |
+       |---------------------------------------|
+     2 | ^P | ^P |    | ^P |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R | ^Kt| ^B | ^Q | ^R |    | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 118
+
+           9. P-Q3          Kt-QR4
+          10. B-B2          P-B4
+          11. QKt-Q2        Q-B2
+
+Supporting, as it does, the KP, this is not a lost move, although
+White has not played P-Q4. It prepares Black’s P-Q4 (after Kt-
+B3), the KP being fully protected against White’s double attack
+by PxP.
+
+          12. Kt-B1          Kt-B3
+          13. Kt-K3          B-Kt2
+
+The logical move would have been B-K3, to enforce P-Q4. Black is
+then very well developed, whilst White labours under a somewhat
+undeveloped Queen’s side. An attempt to exert pressure in the
+centre with P-Q4 in order to prevent Black’s P-Q4 would be
+belated. Black would gain the advantage by: l4. ... KPxP; 15.
+PxP, PxP; 16. KtxP, KtxKt; 17. QxKt, Kt-Kt5! Nor would B-Kt5
+before Kt-K3 be more successful; after B-K3; 14. Kt-K3, QR-Q1;
+15. P-Q4, BPxP; 16. PxP, PxP; 17. KtxP, KtxKt; 18. QxKt, Q-B4,
+Black has the better chances in the end-game. The move in the
+text is not good because, as we saw before, the Bishop is wanted
+on the other diagonal to cover the square at KB4.
+
+          14. Kt-B5          KR-K1
+          15. B-Kt5          Kt-Q2
+
+Even now it was desirable to aim at P-Q4, therefore QR-Q1 was
+preferable.
+
+          16. B-Kt3
+
+The position of the White pieces points to a dangerous menace to
+the opposing King’s side.
+
+          16. ...             Kt-B1
+          17. B-Q5!!
+
+The beginning of a brilliant combination. BxKt is threatened, and
+Black must first cover his B at K2.
+
+          17. ...           Kt-Kt3
+          18. BxB           KKtxB
+
+QKtxB is not feasible, because of BxB and KtxQP.
+
+          19. BxPch!!       KxB
+          20. Kt-Kt5ch
+
+        ---------------------------------------
+     8 | #R |    |    |    | #R |    |    |    |
+       |---------------------------------------|
+     7 |    | #B | #Q |    | #Kt| #K | #P | #P |
+       |---------------------------------------|
+     6 | #P |    | #Kt| #P |    |    |    |    |
+       |---------------------------------------|
+     5 |    | #P | #P |    | #P | ^Kt| ^Kt|    |
+       |---------------------------------------|
+     4 |    |    |    |    | ^P |    |    |    |
+       |---------------------------------------|
+     3 |    |    | ^P | ^P |    |    |    |    |
+       |---------------------------------------|
+     2 | ^P | ^P |    |    |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R |    |    | ^Q | ^R |    | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 119
+
+Quite a number of charming combinations are hidden in this
+position. If K-Kt3 or Kt1, then 21. KtxKtP! If K-B3 White can
+capture the RP first with check.
+
+          20. ...             K-Kt1
+          21. Q-R5            KtxKt
+          22. QxRPch         K-B1
+          23. QxKtch         K-Kt1
+          24. Q-Kt6!!!
+
+The point. This prevents P-Kt3, which would allow Black to bring
+up his Q for the defence at Kt2. Now nothing can be done against
+the threatening R-K3-B3 or R3.
+
+          24. ...             Q-Q2
+          25. R-K 3           Resigns
+
+A wonderful game in which Teichmann, the great judge of position,
+proves himself also a master in hand-to-hand fighting, in the
+wild chaos of sacrificial combinations.

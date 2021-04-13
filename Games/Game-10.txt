@@ -1,0 +1,220 @@
+                  GAME No. 10
+
+White: Teichmann.     Black: Amateurs in consultation.
+
+             Two Knights’ Defence.
+
+          1. P-K4             P-K4
+          2. Kt-KB3           Kt-QB3
+          3. B-B4             Kt-B3
+          4. Castles
+
+        ---------------------------------------
+     8 | #R |    | #B | #Q | #K | #B |    | #R |
+       |---------------------------------------|
+     7 | #P | #P | #P | #P |    | #P | #P | #P |
+       |---------------------------------------|
+     6 |    |    | #Kt|    |    | #Kt|    |    |
+       |---------------------------------------|
+     5 |    |    |    |    | #P |    |    |    |
+       |---------------------------------------|
+     4 |    |    | ^B |    | ^P |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    | ^Kt|    |    |
+       |---------------------------------------|
+     2 | ^P | ^P | ^P | ^P |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R | ^Kt| ^B | ^Q | ^K |    |    | ^R |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 111
+
+The idea underlying this pawn sacrifice is to open the K file for
+the Rook. It will be seen that, with correct play, Black manages
+to castle just in time, and White, though winning back his pawn,
+has no advantage in position. The opening is seldom played by
+modern masters.
+
+Instead of the move in the text, White can hardly defend the KP
+with Kt-B3, as Black simply captures the pawn and recovers his
+piece by P-Q4, with a satisfactory position.  It is even better
+for Black if White plays 6. BxPch in reply to 5. ... KtxP. The
+capture of White’s KP is far more important than that of the
+Black KBP, particularly as the White Bishop, which could be
+dangerous on the diagonal QR2-KKt8, is exchanged, e.g. 6. ...
+KxB; 7. KtxKt, P-Q4; 8. Kt-Kt5ch, K-Kt1! Black continues P-KR3,
+K-R2, R-B1 and has open lines for Rooks and Bishops.
+
+          4. ...             KtxP
+
+Black can, of course, develop his B-B4. Then he must either
+submit to the Max Lange attack (5. P-Q4, PxP) or play BxP, giving
+up the useful B, in which case he loses the pawn gained after 6.
+KtxB, KtxKt; 7. P-KB4, P-Q3; 8. PxP, PxP; 9. B-KKt5, and
+eventually Q-B3.
+
+          5. P-Q4
+
+R-K1 at once would lead to nothing.
+
+          5. ...                 PxP
+          6. R-K1                P-Q4
+          7. BxP!                QxB
+          8. Kt-B3
+
+        ---------------------------------------
+     8 | #R |    | #B |    | #K | #B |    | #R |
+       |---------------------------------------|
+     7 | #P | #P | #P |    |    | #P | #P | #P |
+       |---------------------------------------|
+     6 |    |    | #Kt|    |    |    |    |    |
+       |---------------------------------------|
+     5 |    |    |    | #Q |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    | #P | #Kt|    |    |    |
+       |---------------------------------------|
+     3 |    |    | ^Kt|    |    | ^Kt|    |    |
+       |---------------------------------------|
+     2 | ^P | ^P | ^P |    |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R |    | ^B | ^Q | ^R |    | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 112
+
+  This attack has been analysed extensively by Steinitz.  The
+only square where the Queen cannot be attacked at once by the
+minor pieces is at QI. After 8. ... Q-QI, Black obtains quite a
+satisfactory game: 9. RxKtch, B-K2; 10. KtxP, P-B4. This is
+Pillsbury’s move, intending to displace the Rook. Black has then
+open lines for his two Bishops as compensation for his shattered
+pawn position.  11. R-KB4, Castles; 12. KtxKt, QxQch; 13. KtxQ,
+PxKt. Now it is not easy to find a reasonable plan for White, as
+Black threatens to cramp White’s game with B-Q3 and P-B5. It is
+therefore necessary for White to take measures against that by
+playing R-B4 and B-B4. If Black still plays B-Q3, B-B4 follows,
+with the intention of exchanging and of provoking Black’s P-B4,
+which leaves the QP “backward.”
+
+          8. ...                 Q-KR4
+          9. KtxKt               B-K2
+         10. B-Kt5               B-K3
+         11. BxB                 KtxB
+         12. Kt-Kt3              Q-R3
+         13. QxP                 Castles KR
+         14. QR-Q1
+
+Now White is ahead with his development, having both Rooks in
+play and his Queen better placed. Nor can the latter be attacked
+by R-Q1, as White would simply play QxR.  On the Queen being
+driven away by the Black Knight, he exchanges the latter and
+plays the Queen back into the same dominating position,
+eventually producing a dislocation of the Black Queen’s side
+pawns.
+
+         14. ...                Kt-B3
+         15. Q-QR4              QR-Q1
+         16. Kt-Q4!             KtxKt
+         17. RxKt               RxR
+         18. QxR                P-QKt3
+         19. Q-K5               P-QB4
+
+It is instructive to watch how this very slight weakness created
+by Black’s advance of his pawns brings him into trouble. A White
+Knight settles down at his Q6, which is no longer guarded by the
+Black QBP, and paralyses the whole of Black’s game. Another
+factor in White’s superiority of position is the possession of
+the King’s file. The Black Rook cannot move until the King gets a
+loophole by a pawn move.  As we have seen, such a pawn move often
+affords an entry to the opposing pieces.
+
+         20. P-KB4              B-B1
+
+Not BxP, of course, because of P-QKt3 and Q-Kt2.  The Bishop
+which cannot remain at K3 is to go to Kt2, so that the threat of
+mate after Q-QB3 may also hold up a White piece.
+
+         21. P-B5               B-Kt2
+         22. Q-K7               Q-QB3
+         23. R-K2               P-B3
+
+Compulsory, as otherwise P-B6 forces the KtP to advance, which is
+fatal in any case. After P-Kt3, White would cover his BP and play
+his Q to KR6. On the other hand, after PxP there is Kt-R5-B6, and
+Black is in a mating net.
+
+         24. Kt-K4              Q-Q4
+         25. Kt-Q6              B-B3
+
+The threat was QxRch and R-K8 mate.
+
+          26. P-KR3
+
+in order to retreat to R2 in case of Q-Q8ch. In a way P-KR3
+creates a certain weakness, as the square at Kt3 is now
+defenceless, but Black has no pieces with which to take advantage
+of it: his Rook cannot move, his Bishop is on the White squares.
+If Black had a KB instead, the move would be very doubtful,
+because then Black might break in through White’s KKt3.
+
+          26. ...                P-B5
+
+White’s threat was to repel the Black Queen by P-B4 and to mate
+in five moves, beginning with Q-K6ch.
+
+          27. P-B3               P-KR3
+
+
+
+        ---------------------------------------
+     8 |    |    |    |    |    | #R | #K |    |
+       |---------------------------------------|
+     7 | #P |    |    |    | ^Q |    | #P |    |
+       |---------------------------------------|
+     6 |    | #P | #B | ^Kt|    | #P |    | #P |
+       |---------------------------------------|
+     5 |    |    |    | #Q |    | ^P |    |    |
+       |---------------------------------------|
+     4 |    |    | #P |    |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    | ^P |    |    |    |    | ^P |
+       |---------------------------------------|
+     2 | ^P | ^P |    |    | ^R |    | ^P |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 113
+
+This disposes of the winning of the Queen by the threatened mate.
+But it creates a weakness at Black’s Kt3, which White exploits in
+grand style. He decides to play the King himself to Kt6,
+threatening mate at Kt7. In spite of several raids by the Black
+Queen, this quaint device is crowned with success. The weakness
+created by P-KR3 could not be demonstrated more drastically.
+
+          28. K-R2          P-QKt4
+          29. K-Kt3         P-QR4
+          30. K-R4          P-Kt3
+
+If White were to play PxP now, Black would mate him one move
+earlier (Q-Kt4). Of course he parries the threat first, and Black
+is helpless.
+
+          31. R-K3           QxKtP
+          32. R-Kt3          Q-B7
+
+After P-Kt4ch White could not play 33. K-Kt4 on account of the
+pretty mate by B-B6. He would play K-R5-Kt6.
+
+          33. PxP            Q-B5ch
+          34. R-Kt4          Q-B7ch
+          35. K-R5           Resigns.
+
+A most instructive game, showing how the superior position of the
+pieces can lead indirectly to a win, by reducing the opponent’s
+pieces gradually to impotence and compelling him to move pawns,
+thereby affording opportunities for a decisive entry.

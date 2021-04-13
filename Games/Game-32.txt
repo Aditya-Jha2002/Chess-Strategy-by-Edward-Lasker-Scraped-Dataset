@@ -1,0 +1,96 @@
+                 GAME No. 32
+
+    White: Ed. Lasker. Black: Mieses.
+
+           Centre Counter Defence.
+
+           1. P-K4             P-Q4
+           2. PxP              Kt-KB3
+
+This is to tempt White to play P-QB4, a weak move  (see p. 35).
+By playing P-QB3 Black would obtain by far the better game in
+exchange for the pawn.
+
+           3. P-Q4             QxP
+
+KtxP can also be played. In either case White wins a move by
+driving off the Black piece by Kt-QB3 or P-QB4.  Furthermore,
+White has a pawn in the centre. Black’s plan in retaking with the
+Queen might be to castle early on the Queen’s side and attack
+White’s centre pawn by P-K4, and White must be on the alert
+against this plan, though it will not be easy for Black to put
+the same into execution, because of the exposed position of his
+Queen. After 4. Kt-QB3, Q-QR4 is the only move which brings the
+Queen into momentary security, and even then Black must provide
+for a retreat, as after White’s B-Q2 there would be a threat of
+an advantageous “discovery” by the Kt. P-QB3 provides such a
+retreat, but it bars the QKt from its natural development at B3,
+where the Kt could exert further pressure on White’s Q4. The QB,
+too, is difficult to get into play and easily becomes an object
+of attack, as in the present game.
+
+          4. Kt-QB3          Q-QR4
+          5. Kt-B3           B-B4
+
+B-Kt5 would only help White’s intentions to attack on the King’s
+side in the absence of Black’s Queen, e.g. 6. P-KR3, B-R4; 7. P-
+KKt4, B-Kt3; 8. Kt-K5 (threatening Kt-B4), P-B3; 9. P-KR4, Q Kt-
+Q2; 10. Kt-B4, Q-B2; 11. P-R5, B-K5; 12. KtxB, KtxKt; 13. Q-B3
+and B-B4 with the superior game.
+
+        ---------------------------------------
+     8 | #R | #Kt|    |    | #K | #B |    | #R |
+       |---------------------------------------|
+     7 | #P | #P | #P |    | #P | #P | #P | #P |
+       |---------------------------------------|
+     6 |    |    |    |    |    | #Kt|    |    |
+       |---------------------------------------|
+     5 | #Q |    |    |    |    | #B |    |    |
+       |---------------------------------------|
+     4 |    |    |    | ^P |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    | ^Kt|    |    | ^Kt|    |    |
+       |---------------------------------------|
+     2 | ^P | ^P | ^P |    |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R |    | ^B | ^Q | ^K | ^B |    | ^R |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 145
+
+          6. Kt-K5!          Kt-K5
+
+P-B3 was urgent here, to provide against Kt-B4 and Q-B3. Now the
+game is as good as lost. White obtains a violent attack with
+superior forces, and brings it home before Black has time to
+complete his development.
+
+          7. Q-B3           Kt-Q3
+
+If KtxKt, B-Q2.
+
+          8. B-Q2           P-K3
+          9. P-KKt4         B-Kt3
+
+Black had to guard his KB2 because of Kt-Kt5, KtxKt, QxPch.
+
+         10. P-KR4          Q-Kt3
+         11. Castles        P-KB3
+
+Compulsory. Kt-B3 is refuted by 12. KtxKt, QxKt; 13. QxQ, PxQ;
+14. B-Kt2 and P-R5. On the other hand, the answer to 11. ... QxP
+would be 12. B-KB4, Q-B4; 13. P-R5, P-B3; 14. PxB, PxKt; 15. B-
+KKt5 followed by RxKt and R-Q8 or Q-B7 mate.
+
+         12. KtxB           PxKt
+         13. B-Q3           QxP
+
+K-B2 or P-KB4 were also unavailing in consequence of Black’s poor
+development.
+
+         14. BxPch          K-Q2
+         15. B-K3           Q-Kt5
+         16. P-R3           Q-B5
+         17. QxKtP          Q-B3
+         18. B-K4           Resigns.

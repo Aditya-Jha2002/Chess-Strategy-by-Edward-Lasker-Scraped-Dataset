@@ -1,0 +1,98 @@
+                 GAME No. 22
+
+     White: Forgacz.      Black: Tartakower.
+
+          French Defence (see p. 48).
+
+          1. P-K4                P-K3
+          2. P-Q4                P-Q4
+          3. Kt-QB3              Kt-KB3
+          4. B-Kt5               B-K2
+          5. P-K5                Kt-K5
+
+KKt-Q2 is better, because it would support the advance of P-QB4
+and also be of use eventually in an attack on White’s centre by
+P-KB3. The text move allows the exchange of two minor pieces,
+which can only be to White’s advantage, as Black cannot get his
+QB into play, and is for a long time practically a piece down.
+
+          6. KtxKt           BxB
+
+After PxKt the pawn would be very weak, and could hardly be held
+for long.
+
+          7. KtxB            QxKt
+          8. P-KKt3
+
+To be able to play P-KB4 before developing the Kt (see p. 49).
+
+          8. ...             P-QB4
+          9. P-QB3           Kt-B3
+         10. P-KB4           Q-K2
+         11. Q-Q2            B-Q2
+         12. Kt-B3           Castles KR
+         13. B-Q3            P-B5
+         14. B-B2            P-QKt4
+         15. Castles KR      P-Kt2
+         16. Q R-K1          P-QR4
+
+        ---------------------------------------
+     8 | #R |    |    |    |    | #R | #Q |    |
+       |---------------------------------------|
+     7 |    |    |    | #B | #Q | #P | #P | #P |
+       |---------------------------------------|
+     6 |    |    | #Kt|    | #P |    |    |    |
+       |---------------------------------------|
+     5 | #P |    |    | #P | ^P |    |    |    |
+       |---------------------------------------|
+     4 |    | #P | #P | ^P |    | ^P |    |    |
+       |---------------------------------------|
+     3 |    |    | ^P |    |    | ^Kt| ^P |    |
+       |---------------------------------------|
+     2 | ^P | ^P | ^B | ^Q |    |    |    | ^P |
+       |---------------------------------------|
+     1 |    |    |    |    | ^R | ^R | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 133
+
+So far the game is easy to understand in the light of the remarks
+made on page 44, when treating of the openings.  The continuation
+shows in an instructive fashion that White’s attack is the more
+effective, being directed against the King’s side.
+
+          17. P-B5!         KPxP
+
+This sacrifice of a pawn in conjunction with a second sacrifice
+on the next move, produces a combination of rare beauty.
+
+          18. P-Kt4!!       PxP
+
+If Black did not capture White would. In either case the storming
+of the position by pawns achieves its object and the lines of
+attack are free for the pieces.
+
+          19. Kt-Kt5        P-Kt3
+
+Now that White has made an opening for himself at KB6, the rest
+is easy. 19. ... P-R3 is of no avail. The sequel might have been:
+20 Kt-R 7, KR-Q1; 21 Kt-B6ch, after which White wins after either
+PxKt; 22 QxP, or K-R1 KtxP.
+
+          20. R-B6          K-Kt2
+
+Black gets no breathing space. If P-R3, then 21 BxP.
+
+          21. QR-KB1        B-K1
+          22. Q-B4          Kt-Q1
+          23. P-K6          R-R3
+          24. Q-K5          K-R3
+          25. QR-B5
+
+Help!
+
+          25. ...           BPxP
+          26. Kt-B7ch       QxKt
+          27. R-R5ch        K-Kt2
+          28. RxKtP mate

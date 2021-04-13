@@ -1,0 +1,95 @@
+                 GAME No. 29
+
+     White: Teichmann.     Black: Spielmann.
+
+         Sicilian Defence (see p. 215).
+
+          1. P-K4          P-QB4
+          2. Kt-QB3        P-K3
+          3. KKt-K2
+
+This comes to the same as Kt-B3, as after P-Q4, PxP the Knight
+recaptures. If, however, Black plays P-Q4 there is a certain
+advantage for White to have the Kt at K2, e.g. 3. ... P-Q4; 4.
+PxP, PxP; 5. P-Q4. If now Black does not exchange pawns, White is
+able to bring his KB to bear on the centre after P-KKt3 and B-
+Kt2.
+
+          3. ...          Kt-QB3
+
+White can exchange this Knight later on, and thus make P-K5
+possible as soon as he should deem it advisable to drive the
+Black Knight from his KB3, where the same is bound to develop
+sooner or later. It is perhaps wise to prevent P-K5 by Q-B2
+instead of the move in the text. This is an old defence,
+introduced by Paulsen. Though it retards the development of
+Black’s minor pieces, it produces a strong defensive position,
+and the opening of the QB file gives attacking chances on the
+Queen’s side. The defence might run like this: 3. ... P-QR3; 4.
+P-Q4, PxP; 5. KtxP, Q-B2; 6. B-K3, Kt-KB3; 7. B-K2, B-K2; 8.
+Castles, P-QKt4 followed by B-Kt2, P-Q3, QKt-Q2, etc.
+
+          4. P-Q4           PxP
+          5. KtxP           P-QR3
+          6. KtxKt          KtPxKt
+          7. B-Q3           P-Q4
+          8. Castles        Kt-B3
+          9. B-KB4          B-Kt5
+
+        ---------------------------------------
+     8 | #R |    | #B | #Q | #K |    |    | #R |
+       |---------------------------------------|
+     7 |    |    |    |    |    | #P | #P | #P |
+       |---------------------------------------|
+     6 | #P |    | #P |    | #P |#Kt |    |    |
+       |---------------------------------------|
+     5 |    |    |    | #P |    |    |    |    |
+       |---------------------------------------|
+     4 |    | #B |    |    | ^P | ^B |    |    |
+       |---------------------------------------|
+     3 |    |    |^Kt | ^B |    |    |    |    |
+       |---------------------------------------|
+     2 | ^P | ^P | ^P |    |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R |    |    | ^Q |    | ^R | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag.  #142
+
+As White can force Black to play P-Kt3, a weakening move, by P-K5
+and Q-Kt4, Black should have played P-Kt3 at once, so as to have
+Kt-R4 in answer to P-K5, thus keeping one piece for the defence
+of the King’s side.  The latter is in jeopardy after the move in
+the text, and White’s attack succeeds.
+
+          10. P-K5          Kt-Q2
+          11. Q-Kt4         P-Kt3
+          12. KR-K1         P-QB4
+
+Of course Black must not accept the sacrifice of the exchange by
+playing P-Q5. After 13 Kt-K4, BxR; 14 Kt-Q6ch, K-B1; 15 R x B,
+Black is in a mating net, from which there is no escape, as he
+has no time to collect sufficient forces for the defence. The
+move in the text does not stem the tide either, and White quickly
+forces the win by a beautiful combination.
+
+          13. P-QR3          B-R4
+          14. B-KKt5         Q-Kt3
+
+Q-B2 leads to the same conclusion.
+
+          15. P-Kt4!         PxP
+          16. KtxP           PxKt
+          17. P-K6
+
+The object of White’s fifteenth move is revealed. Without it the
+R at K1 would now be attacked.
+
+          17. ...            P-B4
+
+Kt-B4 fails on account of 18. PxPch, KxP; 19. R-K7ch, followed by
+Q-KB4.
+
+          18. PxKt double ch    KxP
+          19. BxPch             Resigns.

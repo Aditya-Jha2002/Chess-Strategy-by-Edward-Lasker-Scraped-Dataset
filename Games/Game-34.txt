@@ -1,0 +1,138 @@
+                   GAME NO. 34
+
+     White: Em. Lasker.    Black: Niemzowitsch.
+
+        Caro-Kann Defence (compare p. 50).
+
+          1. P-K4                 P-QB3
+          2. P-Q4                 P-Q4
+          3. Kt-QB3               PxP
+          4. KtxP                 Kt-B3
+          5. KtxKt                KtPxKt
+          6. B-K2                 B-B4
+          7. B-B3                 Q-R4ch
+          8. P-B3                 P-KR4!
+
+A deep conception. If White accepts the proffered sacrifice of a
+pawn, he loses time, as he must retire his B before bringing out
+his Kt, and, moreover, the KR file being open, he can only castle
+on the Q side. But there the Black Queen is ready for the attack.
+If he refuses the sacrifice, the text move is still of value, as
+even then it is hardly advisable for White to castle on the K
+side, whilst Black can play B-R3 as soon as it might be desirable
+to exchange White’s QB.
+
+          9. BxP              Kt-Q2
+         10. B-Kt4            BxB
+         11. QxB              Castles
+         12. Kt-K2            P-K3
+         13. B-B4             Q-QKt4!
+
+Black is the first to complete his development, and he assumes
+the offensive.
+
+         14. Castles QR!
+
+This is much stronger than the alternative P-QKt3, which would
+fatally disturb the pawn skeleton, particularly as castling is
+only possible on the Q side. Although Black can now gain two
+pawns, White obtains an attack and Black only just manages to
+escape with a draw.
+
+         14. ...              Kt-Kt3
+         15. Kt-Kt3
+
+intending Q-K2 in answer to Kt-B5. Again P-QKt3 is not to be
+thought of, and R-Q2 also fails because of Kt-B5; 16. R-B2, KtxP.
+
+         15. ...              Q-Q4
+         16. K-Kt1            QxKtP
+         17. QR-Kt1           QxBP
+         18. Kt-K4            Q-R5
+         19. Q-B3             Kt-B5!
+
+        ---------------------------------------
+     8 |    |    | #K | #R |    | #B |    | #R |
+       |---------------------------------------|
+     7 | #P | #P |    |    |    | #P |    |    |
+       |---------------------------------------|
+     6 |    |    | #P |    | #P | #P |    |    |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    | #Kt| ^P | ^Kt| ^B |    | #Q |
+       |---------------------------------------|
+     3 |    |    | ^P |    |    | ^Q |    |    |
+       |---------------------------------------|
+     2 | ^P | ^P |    |    |    |    |    | ^P |
+       |---------------------------------------|
+     1 |    | ^K |    |    |    |    | ^R | ^R |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 147
+
+Whilst Black was busy capturing two pawns by moving the Queen
+four times, White was concentrating the whole of his forces, and
+now threatens to win back the pawn with R-Kt4. The move in the
+text anticipates the threat, for now the answer to 20. R-Kt4
+would be Q-R4; 21. KtxP?, Q-B4ch; 22. Kt-K4?? Kt-Q7ch, winning
+the Q.
+
+         20. K-R1           P-KB4
+         21. Kt-Kt5         B-Q3
+         22. B-B1           R-Q2
+         23. R-Kt2          B-B2
+
+intending to get rid of the awkward White Knight by Kt-Q3-K5.
+
+         24. KR-Kt          Kt-Q3
+         25. Q-K2           Kt-K5
+         26. Kt-B3          Q-R6
+         27. P-R3
+
+White appears to be in “time” difficulties, or else he remains
+passive, in order to give Black an opportunity for making the
+risky attempt to hold the extra pawn by P-B3 and P-K4.
+
+         27. ...            P-R3
+         28. B-K3           KR-Q1
+         29. K-R2           R-R1
+
+If Black wants to play for a win, he must play P-B3.  In view of
+the favourable position of the White pieces, he prefers to risk
+nothing and to avoid the weakening of position which follows upon
+practically every pawn move.
+
+         30. K-R1           KR-Q1
+         31. K-R2           R-K1
+         32. R-Kt8          RxR
+         33. RxRch          R-Q1
+         34. R-Kt7          R-Q2
+         35. R-Kt8ch
+
+As long as Black plays steadily, White cannot hope for more than
+a draw.
+
+         35. ...            R-Q1
+         36. R-Kt7          R-B1
+         37. P-B4           Kt-B3
+
+In order to drive off the Rook; White now enforces the draw by a
+fine combination.
+
+         38. B-Kt5!         Kt-R4
+         39. RxP!           RxR
+         40. QxPch          R-Q2
+
+Not K-Kt1 on account of 41. Q-K8ch, K-R2; 42. QxR, QxKt; 43. QxB,
+threatening B-K7.
+
+         41. Kt-K5!         Draw.
+
+For after BxKt there follows 42. Q-K8ch, K-B2; 43. QxBch, with
+perpetual check.
+
+Both players have shown a deep positional insight, and the game
+shows in an interesting manner how a preponderance of material
+can be counterbalanced by the greater mobility of the pieces.

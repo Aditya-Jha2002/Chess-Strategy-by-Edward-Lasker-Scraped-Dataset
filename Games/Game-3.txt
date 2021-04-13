@@ -1,0 +1,108 @@
+                GAME No. 3
+
+     White: Spielmann. Black: Prokes.
+
+      Vienna Game (compare p. 35).
+
+          1. P-K4         P-K4
+          2. Kt-QB3       Kt-KB3
+          3. P-B4         P-Q4
+          4. PxKP         KtxP
+          5. Q-B3
+
+It is contrary to the principles governing sound play to bring
+out the Queen early in the game. The opponent frequently has an
+opportunity of gaining a move by driving off the Queen,
+developing a minor piece at the same time. In the present case
+Black might have gained the advantage in the following way: 5.
+... Q Kt-B3. Now if: 6 KtxKt then Kt-Q5!; 7 Q-Q3?, PxKt; 8 QxP?,
+B-KB4. If, however, 6 B-Kt5, Black obtains the better game by
+playing 6. ... KtxKt; 7 KtPxKt, Q-R5ch; 8 P-Kt3, Q-K5ch; 9 QxQ,
+PxQ; 10 BxKtch, PxB, with two Bishops on open diagonals. There is
+no harm in the doubled pawn, as White cannot attack it. Black’s
+immediate threat is B-R3 or KB4, which exerts pressure at Q6, and
+White will find it difficult to advance his QP.
+
+          5. ...           P-KB4
+
+This move is open to discussion, as the Kt which it means to
+support can be driven away by P-Q3. On the other hand, if White
+does play his QP to Q3, Black can prevent its further advance by
+P-Q5, after which the White KP is insecure and the KB somewhat
+shut in.
+
+          6. P-Q3          KtxKt
+          7. PxKt          P-Q5
+          8. Q-B2!
+
+White offers his QBP in order to be able to strengthen his centre
+by P-Q4, and to free his pieces. To protect his QBP would be
+inferior, e.g. 8 Kt-K2, Kt-B3 or 8 B-Kt2?, PxP; 9 BxP, B-Kt5!; 10
+BxB, QxR5ch; 11 Q-B2, QxBch; 12 Q-Q2, Q-Q5.
+
+          8. ...           PxP?
+
+It would have been better, of course, to continue developing with
+Kt-B3, which at the same time maintains the pressure on Q5.
+
+           9. P-Q4         B-K3
+          10. Kt-R3
+
+Intending Kt-B4 with a view to exchanging the Bishop.  After
+that, Black’s position on White squares is weak specially on the
+diagonal QR7, KKt1, which was opened by Black’s fifth move, and
+on which the White Bishop can soon operate.  The game is
+instructive in showing the development of that idea.
+
+          10. ...          B-K2
+          11. Kt-B4        Q-Q2
+          12. KtxB         QxKt
+          13. B-Q3         P-KKt3
+
+Black cannot prevent White’s threat of Q-K2 and B-B4.
+
+          14. Q-K2         Q-Q4
+
+        ---------------------------------------
+     8 | #R |#Kt |    |    | #K |    |    | #R |
+       |---------------------------------------|
+     7 | #P |#P  | #P |    | #B |    |    | #P |
+       |---------------------------------------|
+     6 |    |    |    |    |    |    | #P |    |
+       |---------------------------------------|
+     5 |    |    |    | #Q | ^P | #P |    |    |
+       |---------------------------------------|
+     4 |    |    |    | ^P |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    | #P | ^B |    |    |    |    |
+       |---------------------------------------|
+     2 | ^P |    | ^P |    | ^Q |    | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R |    | ^B |    | ^K |    |    | ^R |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag.  102.
+
+          15. Castles      QxQPch
+
+Black is obliging. The opening of files in the centre is
+favourable for White, as he can make use of his Rooks in the
+combined attack. Instead of the move in the text, development
+with Kt-B3 and Castles QR was the last, though slender, chance of
+saving the game.
+
+          16. B-K3         Q-Q4
+
+If QxP, Q-B2 followed by B-Q4, B-K4, KR-K1 and QR-Q1. Black has
+no sufficient means of defence to oppose this massing of forces.
+
+          17. QR-Q1        Q-R4
+          18. BxBP
+
+The end is swift, and easy to understand.
+
+          18. ...          R-B1
+          19. Q-Kt4        PxB
+          20. Q-R5ch      R-B2
+          21. P-K6         Resigns.

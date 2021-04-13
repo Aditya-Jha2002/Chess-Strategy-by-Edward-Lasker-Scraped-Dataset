@@ -1,0 +1,130 @@
+              GAME NO. 39.
+
+   White: Rotlewi.   Black: Rubinstein
+
+         Queen’s Gambit Declined.
+
+         1. P-Q4           P-Q4
+         2. Kt-KB3         P-K3
+         3. P-K3           P-QB4
+         4. P-B4           Kt-QB3
+         5. Kt-B3          Kt-B3
+         6. QPxP           BxP
+         7. P-QR3          P-QR3
+         8. P-QKt4         B-Q3
+         9. B-Kt2          Castles
+
+
+        ---------------------------------------
+     8 | #R |    | #B | #Q |    | #R | #K |    |
+       |---------------------------------------|
+     7 |    | #P |    |    |    | #P | #P | #P |
+       |---------------------------------------|
+     6 | #P |    | #Kt| #B | #P | #Kt|    |    |
+       |---------------------------------------|
+     5 |    |    |    | #P |    |    |    |    |
+       |---------------------------------------|
+     4 |    | ^P | ^P |    |    |    |    |    |
+       |---------------------------------------|
+     3 | ^P |    | ^Kt|    | ^P | ^Kt|    |    |
+       |---------------------------------------|
+     2 |    | ^B |    |    |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R |    |    | ^Q | ^K | ^B |    | ^R |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 155
+
+         10. Q-Q2
+
+White cannot win the QP by 10. PxP, PxP; 11. KtxP, KtxKt; 12.
+QxKt, because BxPch wins the Queen.  The text move is played with
+the intention of bringing up the QR for the attack on the QP.
+However, it would have been more correct to fix the object of
+attack first by PxP, as Black could now cross White’s intentions
+by playing PxP, after which he would sooner or later gain a move
+by occupying the Q file with a Rook, and forcing the White Queen
+to retreat.
+
+         10. ...                 Q-K2!
+
+Black offers to give up his Queen’s Pawn. If White accepts the
+sacrifice, Black’s attack on the Queen’s file will become deadly,
+as White must lose a move in bringing his Queen out of the line
+of action of the hostile Rook. The White King has then no time to
+get into safety, e.g. 11. PxP, PxP; 12. KtxP, KtxKt; 13. QxKt, R-
+Q1; 14. Q-Kt3, B-K3 followed by KtxP, etc.
+
+         11. B-Q3?
+
+Here again PxP (followed by B-K2, R-Q1, Castles)  would have
+avoided the loss of a move, as indicated in my note to move 10.
+Now White loses yet another move, as Black exchanges pawns and
+the Bishop has taken two moves to reach B4, as against one only
+in the case of the Black KB.  The loss of two moves in the
+opening stages should be fatal, and of this Rubinstein gives a
+striking example in the present game.
+
+         11. ...                 PxP
+         12. BxP                 P-QKt4
+         13. B-Q3                R-Q1
+         14. Q-K2                B-Kt2
+         15. Castles KR          Kt-K4
+
+The advantage which Black obtains by his last move is generally
+gained by White in this opening (compare Diag. 36).  But in the
+game White has lost two moves and Black has assumed the
+offensive, having moreover a Rook acting on the Q file.
+
+         16. KtxKt               BxKt
+         17. P-B4
+
+Black’s threat was: BxPch followed by Q-Q3ch and QxB. If White
+replies: 17. KR-Q1 the answer is Q-B2 attacking both the RP and
+the Kt. The text move is unsatisfactory, as it will be necessary
+to advance the KP to K4 or K5, where it will block the diagonal
+of one of the Bishops.
+
+         17. ...                B-B2
+         18. P-K4               QR-B1
+         19. P-K5               B-Kt3ch
+         20. K-R1               Kt-Kt5!!
+
+        ---------------------------------------
+     8 |    |    | #R | #R |    |    | #K |    |
+       |---------------------------------------|
+     7 |    | #B |    |    | #Q | #P | #P | #P |
+       |---------------------------------------|
+     6 | #P | #B |    |    | #P |    |    |    |
+       |---------------------------------------|
+     5 |    | #P |    |    | ^P |    |    |    |
+       |---------------------------------------|
+     4 |    | ^P |    |    |    | ^P | #Kt|    |
+       |---------------------------------------|
+     3 | ^P |    | ^Kt| ^B |    |    |    |    |
+       |---------------------------------------|
+     2 |    | ^B |    |    | ^Q |    | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R |    |    |    |    | ^R |    | ^K |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 156
+
+The beginning of magnificent sacrifices. 21. QxKt cannot be
+played because of RxB and R-Q7, etc.
+
+         21. B-K4               Q-R5
+         22. P-Kt3
+
+After P-R3 Black wins also in fine style: RxKt!!; 23. QxKt, QxQ;
+24. PxQ, BxB; 25. BxR, R-Q6 threatening R-R 6 mate; or, 23. BxR,
+BxB; 24. QxB, Q-Kt6; 25. PxKt, Q-R5 mate.
+
+         22. ...                RxKt!!
+         23. PxQ                R-Q7!!
+         24. QxR                BxBch
+         25. Q-Kt2              R-R6
+
+and mate at R7. 

@@ -1,0 +1,187 @@
+                    GAME No. 9
+
+            White: Salwe. Black: Marshall.
+
+                Two Knights’ Defence
+
+          1. P-K4          P-K4
+          2. Kt-KB3        Kt-QB3
+          3. B-B4          Kt-B3
+          4. Kt-Kt5
+
+This attack may be tempting, as the BP cannot be protected, but
+it is against that elementary principle which says that no attack
+should be undertaken in the opening until the minor pieces are
+mobilised, provided of course that Black also has made sound
+opening moves. There is every likelihood that the attack in the
+present instance will lead to nothing.  It has taken many years
+to find the correct reply, but now that it is known, the opening
+has practically disappeared from master practice. Instead of the
+move in the text, White can play either P-Q3, leading almost
+unavoidably to a drawing variation of the Giuoco piano, or
+Castles which might bring about the Max Lange attack after 4. ...
+B-B4; 5. P-Q4, PxP.
+
+           4. ...          P-Q4
+           5. PxP          Kt-QR4!
+
+This is a typical position in the Two Knights’ defence. The
+former continuation 5. ... KtxQP has long been abandoned, as the
+attack that White can initiate by 6. KtxBP, KxKt; 7. Q-B3ch,
+forcing the Black King to K3, is dangerous though the result is
+uncertain. The move in the text breaks the attack from the very
+first, and Black gets the advantage
+
+        ---------------------------------------
+     8 | #R |    | #B | #Q | #K | #B |    | #R |
+       |---------------------------------------|
+     7 | #P | #P | #P |    |    | #P | #P | #P |
+       |---------------------------------------|
+     6 |    |    |    |    |    | #Kt|    |    |
+       |---------------------------------------|
+     5 | #Kt|    |    | ^P | #P |    | ^Kt|    |
+       |---------------------------------------|
+     4 |    |    | ^B |    |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     2 | ^P | ^P | ^P | ^P |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R | ^Kt| ^B | ^Q | ^K |    |    | ^R |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag.  109
+
+as he can gain time by attacking the two minor pieces which it
+should be noted, are unsupported, and in addition obtain a speedy
+development, worth more than the pawn given up for it.
+
+          6. P-Q3
+
+B-Kt5ch is an alternative. The advantage is Black’s in this case
+also--e.g. P-B3; 7. PxP, PxP; 8. B-K2, P-KR3; 9. Kt-KB3, P-K5;
+10. Kt-K5, Q-B2; 11. P-Q4, B-Q3 (or PxP e.p. followed by B-Q3);
+12. P-KB4, PxP e.p.; 13. KtxP, Kt-Kt5 or 11. P-B4, B-Q3; 12. P-
+Q4, PxP e.p.; 13 KtxP, Castles. Black has an easy game and open
+lines.
+
+           6. ...          P-KR3
+           7. Kt-KB3       P-K5
+           8. Q-K2         KtxB
+           9. PxKt         B-QB4
+          10. KKt-Q2
+
+The Knight must move sooner or later.
+
+          10. ...          Castles
+          11. Kt-Kt3       B-KKt5
+          12. Q-B1
+
+A sorry retreat, but the plausible Q-Q2 would be disastrous, e.g.
+P-K6!; 13. PxP, Kt-K5 and Q-R5ch
+
+          12.  ...          B-Kt5ch
+
+Black’s superior development begins to tell in no uncertain
+fashion. Now White can neither play 13. B-Q2 on account of BxBch;
+14. QKtxB, R-K1, followed by P-K6, nor 13. Kt-B3 on account of
+BxKt; 14. PXB, P-B3 regaining the pawn and maintaining positional
+advantage. White has therefore no alternative but P-B3, which
+weakens his Q3, where a Black Knight soon settles down.
+
+           13. P-B3          B-K2
+           14. P-KR3         B-R4
+           15. P-Kt4         B-Kt3
+
+At last White can castle. He can, of course, only castle on the
+Queen’s side, because his King’s side pawns are shattered.  Now
+games in which the Kings castle on different wings are more or
+less beyond calculation, as pointed out before. On the whole, the
+player who first attacks wins. But experience has shown that the
+Queen’s side is more difficult to defend on account of its
+greater expanse, and this theory is supported by the present
+game. In addition, White’s development is not completed yet,
+whilst all the Black forces are ready to strike.
+
+          16. B-K3            Kt-Q2
+          17. QKt-Q2          Kt-K4
+          18. Castles         P-Kt4
+
+Storming the position with pawns is peculiar to this kind of
+game. The intention is to break up the opposing pawn position,
+and to open files for the Rooks. Pawns are cheap in such cases.
+Open lines for the pieces are the things that matter, and the
+fewer pawns there are left, the more open lines are available for
+the attack.
+
+          19. PxP             Kt-Q6ch
+          20. K-Kt1           QxP
+          21. K-R1
+
+The King was not safe on the diagonal. White wishes to push on
+his King’s side pawns (P-B4-B5, and so on). But after PxP e.p.
+there would be a fatal discovered check by the Black Knight.
+
+          22. ...             QxP
+
+Black’s advantage becomes more marked. He has recovered his pawn,
+and for the ensuing attacks on both sides he is better placed,
+having already two open files for his Rooks.
+
+          22. P-KB4           P-QR4
+          23. QR-Kt1          P-KB4
+          24. Kt-Q4           Q-R5!
+
+        ---------------------------------------
+     8 | #R |    |    |    |    | #R | #K |    |
+       |---------------------------------------|
+     7 |    |    | #P |    | #B |    | #P |    |
+       |---------------------------------------|
+     6 |    |    |    |    |    |    | #B | #P |
+       |---------------------------------------|
+     5 | #P |    |    |    |    | #P |    |    |
+       |---------------------------------------|
+     4 | #Q |    |    | ^Kt| #P | ^P | ^P |    |
+       |---------------------------------------|
+     3 |    |    | ^P | #Kt| ^B |    |    | ^P |
+       |---------------------------------------|
+     2 | ^P | ^P |    | ^Kt|    |    |    |    |
+       |---------------------------------------|
+     1 | ^K | ^R |    |    |    | ^Q |    | ^R |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 110
+
+The position bristles with chances for daring sacrifices.  After
+25. KtxBP, for instance, Black could play RxKt!; 26. PxR, Kt-Kt5;
+27. PxKt, PxP; 28. P-R3 (Q-B4ch?, B-B2), B-B3; 29. K-R2, QxPch;
+30. PxQ, RxP mate.
+
+
+          25. P-Kt3           Q-Q2
+          26. PxP             BxP
+          27. Q-Kt2           P-B4
+
+White’s compulsory 25. P-Kt3 has weakened his QB3, and the move
+in the text is intended to open the diagonal KB3-QB6 for the
+Black Bishop.
+
+          28. KtxB            QxKt
+          29. QxP             B-B3
+          30. Q-B4ch          K-R1
+          31. Kt-K4           QR-K1
+
+White cannot parry all the threats at once. Though he gets rid of
+the threatening B, he lets in the hostile R on the K file and the
+end cannot long be delayed.
+
+          32. KtxB            RxKt
+          33. B-B1            KR-K3
+          34. B-R3            R-K7
+          35. KR-Q1           Kt-K8
+          36. BxP             Kt-B7ch
+          37. K-Kt2           Kt-Kt5ch
+
+and mate at R7 or B7.

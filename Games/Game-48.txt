@@ -1,0 +1,163 @@
+             GAME No. 48
+
+  White: Blackburne.    Black: Niemzowitsch.
+
+           Irregular Opening.
+
+          1. P-K3           P-Q3
+
+It is due to this reply of Black’s that the opening is irregular.
+For had he played P-Q4 a peaceful QP game would have resulted, or
+after White’s 2. P-KB4 a Dutch opening.
+
+          2. P-KB4          P-K4
+          3. PxP            PxP
+
+Black has the superior position; he has a pawn in the centre and
+his pieces are more free.
+
+          4. Kt-QB3         B-Q3
+
+As was seen on a former occasion, it is a shade better to develop
+the Knights before the Bishops, as the choice of moves for the
+latter is less limited. The alternative might have been 5. Kt-B3,
+B-KKt5; 6. B-K2, Kt-B3.
+
+          5. P-K4
+
+Now White has also a pawn in the centre, but he is a move behind
+in his development.
+
+          5. ...           B-K3
+          6. Kt-B3         P-KB3
+          7. P-Q3          Kt-K2
+          8. B-K3          P-QB4
+          9. Q-Q2          QKt-B3
+         10. B-K2          Kt-Q5
+         11. Castles KR    Castles
+         12. Kt-Q1         KKt-B3
+         13. P-B3
+
+Now Black has gained an advantage from the command of his Q5. The
+advance of White’s QBP, which was necessitated by the dominating
+position of the Black Knight, has left White with a “backward”
+pawn at Q3.
+
+         13. ...          KtxBch
+         14. QxKt         R-K1
+
+If now a general exchange takes place after P-Q4, the KP is lost
+through B-Q4.
+
+          15. Kt-R4
+
+White’s counter attack on the King’s side becomes threatening,
+and Black must continue his operations on the Queen’s wing with
+the greatest care, as he may be called upon at any time to
+concentrate his pieces for the defence of the King’s wing.
+
+         15. ...           B-KB1
+         16. Kt-B5         K-R1
+         17. P-KKt4        Q-Q2
+         18. Kt-B2         P-QR4
+
+Black wishes to open up files on the Queen’s side.
+
+         19. P-QR3
+
+Freeing the QR.
+
+         19. ...            P-QKt4
+         20. QR-Q1          QR-Kt1
+         21. R-Q2           P-Kt5
+         22. RPxP           RPxP
+         23. P-B4           R-R1
+         24. Q-B3           R-R7
+
+Before trying to push home his advantage on the Queen’s side,
+which is made possible by the weakness of White’s QP, Black
+should look after his King’s side, where White has collected an
+alarming array of forces. After the text move the Rook is quite
+out of play.
+
+          25. P-Kt5        P-Kt3?
+
+        ---------------------------------------
+     8 |    |    |    |    | #R | #B |    | #K |
+       |---------------------------------------|
+     7 |    |    |    | #Q |    |    |    | #P |
+       |---------------------------------------|
+     6 |    |    | #Kt|    | #B | #P | #P |    |
+       |---------------------------------------|
+     5 |    |    | #P |    | #P | ^Kt| ^P |    |
+       |---------------------------------------|
+     4 |    | #P | ^P |    | ^P |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    | ^P | ^B | ^Q |    |    |
+       |---------------------------------------|
+     2 | #R | ^P |    | ^R |    | ^Kt|    | ^P |
+       |---------------------------------------|
+     1 |    |    |    |    |    | ^R | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 167
+
+Black should simply play PxP with the following continuation:
+26. BxP, Kt-Q5; 27. KtxKt, QxKt; 28. B-K3, Q-Q3. After the move
+in the text, White’s attack is overwhelming.
+
+          26. Kt-Kt4!
+
+White obtains a Rook and two pawns for his two Knights; this is
+in itself an equivalent of material. In the present instance the
+exchange is of decisive advantage for White, as Black must lose
+several moves to bring up his Rook for the defence of his
+unguarded King.
+
+          26. ...       PxKt
+          27. KtxBP     Kt-Q5
+
+If PxP, White wins by 28. Q-R5, Q-B2; 29. P-Kt6, QxPch; 30. QxQ
+and KtxR.
+
+          28. Q-B2      Q-B3
+          29. KtxR      QxKt
+          30. BxKt      KPxB
+          31. PxP       B-Q2
+          32. R-K1      Q-B2
+          33. Q-R4!     R-R1
+
+Not BxP because of 34. R-KB2, followed by KR-KB sq.
+
+          34. R-KB2     B-B3
+          35. Q-Kt4
+
+The threat is to open the Rook’s file by P-Kt6 with an attack on
+the King by the Rooks.
+
+          35. ...       R-K1
+          36. RxR       QxR
+
+BxR in order to play Q-R4 might be better. With the Queens off
+the board, Black has winning chances on account of his two
+Bishops. But then White might evade the exchange and proceed to
+seize the King’s file with the Rook after 37. Q-B4.
+
+          37. R-K2      Q-Q2
+          38. R-K6      B-R1
+
+in order to play Q-QKt2 or R2.
+
+          39. P-Kt6!    PxP
+
+If Q-QKt2, 40. R-K8!, if Q-R2, 40. Q-R4. White wins in either
+case.
+
+          40. RxP       Q-KR2
+          41. Q-Kt3
+
+Threatens Q-K5ch.
+
+          41. ...       Q-R4
+          42. R-Kt4!    Resigns.

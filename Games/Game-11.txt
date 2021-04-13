@@ -1,0 +1,171 @@
+                 GAME No. 11
+
+   White: Schlechter.    Black: Janowski.
+
+        Ruy Lopez (compare p. 40).
+
+          1. P-K4            P-K4
+          2. Kt-KB3          Kt-QB3
+          3. B-Kt5           Kt-B3
+          4. Castles         KtxP
+
+A continuation, which has lately gained in favour, is: P-Q3 and
+B-K2 (see p. 39).
+
+          5. P-Q4            B-K2
+
+It is clearly very dangerous to gratify White’s wish for an open
+file by playing PxP. The move may be playable in the system of
+defence called the “Riga variation” (see Game No. 17). Here it
+would be advantageous to be able to close the KB’s diagonal. It
+is better when intending to play the “Riga variation” to have
+played P-QR3 on the third move.
+
+          6. Q-K2           Kt-Q3
+          7. BxKt           KtPxB
+          8. PxP            Kt-Kt2
+          9. Kt-B3          Castles
+         10. R-K1           R-K1
+
+The manœuvre cited on p. 40, namely Kt-B4-K3, which makes P-Q4
+possible, is essential for the development of the QB. Black loses
+the present game because White is able to keep the Bishop shut in
+permanently
+
+         11. Q-B4           Kt-B4
+
+so that the pawn B3 should not be “hanging” when the QP moves.
+
+         12. Kt-KKt5!       BxKt
+         13. BxB            QxB
+         14. QxKt           R-K3
+
+        ---------------------------------------
+     8 | #R |    | #B |    |    |    | #K |    |
+       |---------------------------------------|
+     7 | #P |    | #P | #P |    | #P | #P | #P |
+       |---------------------------------------|
+     6 |    |    | #P |    |#R  |    |    |    |
+       |---------------------------------------|
+     5 |    |    | ^Q |    | ^P |    | #Q |    |
+       |---------------------------------------|
+     4 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    | ^Kt|    |    |    |    |    |
+       |---------------------------------------|
+     2 | ^P | ^P | ^P |    |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R |    |    |    | ^R |    | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 114
+
+After the exchanges the position is clearly in favour of White.
+Against an undeveloped B, which also hampers a Rook, his Knight
+is mobile. The Black Queen’s side pawns are weak, and give White
+winning chances even if Black succeeds in playing P-Q4 and
+bringing the Bishop into play.  The move in the text, which
+covers the pawn at B3, again prepares for P-Q4.
+
+         15. Q-Q4           B-Kt2
+
+The only chance lay in the pawn sacrifice by P-QB4, after which
+the Bishop gets to Kt2 with a threat of mate, and the QR is free.
+
+          16. Q-QKt4           B-B1
+          17. Kt-K4
+
+Fine play. If Black captures the pawn, White obtains a combined
+attack with Q, R, and Kt, to which Black can only oppose the Q,
+so that the result cannot be in doubt--e.g. 17. ... QxKP; 18. Kt-
+B5, Q-Q3; 19. Q-QB4, RxRch; 20. RxR, P-KR3; 21. R-K8ch, K-R2; 22.
+Q-K4ch, P-Kt3 (Q-Kt3?; 23. QxQ, followed by KtxP); 23.  Kt-Q3 and
+R-K7.
+
+          17. ...              Q-K2
+          18. Kt-B5            R-Kt3
+          19. R-K3             P-QR4
+          20. Q-Q4             R-Kt1
+          21. P-QB4
+
+preventing R-Kt4
+
+          21. ...              P-R3
+          22. P-QKt3           K-R2
+          23. R-Q1             Q-Kt4
+          24. R-Kt3            Q-B4
+          25. RxR              PxR
+
+Black has built a wall of pawns round his King, but it does not
+avail against the superior forces which White can concentrate.
+
+White’s plan is clear. He will advance his pawns, and break up
+those that surround the Black King, always taking care that Black
+does not free his Queen’s side meanwhile.  His pieces will then
+break in easily, and Black is forced to look on passively.
+
+          26. P-KR3            R-R1
+          27. P-QR4
+
+to prevent the sacrifice of a pawn by P-R5, which would bring the
+Black Rook into play.
+
+          27. ...              R-Kt1
+          28. R-Q3             Q-Kt4
+          29. K-R2             Q-K2
+          30. P-B4             Q-B2
+          31. P-K6!!
+
+        ---------------------------------------
+     8 |    | #R | #B |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    | #P | #P |    | #Q | #P | #K |
+       |---------------------------------------|
+     6 |    |    | #P |    | ^P |    | #P | #P |
+       |---------------------------------------|
+     5 | #P |    | ^Kt|    |    |    |    |    |
+       |---------------------------------------|
+     4 | ^P |    | ^P | ^Q |    | ^P |    |    |
+       |---------------------------------------|
+     3 |    | ^P |    | ^R |    |    |    | ^P |
+       |---------------------------------------|
+     2 |    |    |    |    |    |    | ^P | ^K |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 115
+
+A beautiful move which robs Black of his last chance of freeing
+his Queen’s side, which he might have accomplished by the pawn
+sacrifice of P-Q3.
+
+          31. ...           PxP
+          32. Q-K5          Q-K2
+          33. P-KKt4        R-Kt5
+          34. K-Kt3         R-Kt3
+          35. P-R4          Q-B1
+          36. P-R5          PxP
+          37. QxRP          R-Kt1
+          38. Q-K5          R-Kt3
+          39. P-Kt5         P-R4
+          40. P-Kt6ch
+
+The end is near. Black must take, as QxRP forces a speedy
+
+          40. ...           KxP
+          41. Q-Kt5ch       K-R2
+          42. QxRPch        K-Kt1
+          43. Q-Kt5
+
+threatening R-Q8
+
+          43. ...           K-B2
+          44. R-Q8          Q-K2
+          45. Q-R5ch       Resigns.
+
+Loss of the Queen and mate in a few moves cannot be prevented.
+Black has played the whole game practically with two pieces less,
+and the mate was really only a matter of time.

@@ -1,0 +1,177 @@
+             GAME NO. 40
+
+  White: Rubinstein.    Black: Capablanca.
+
+        Queen’s Gambit Declined.
+
+          1. P-Q4          P-Q4
+          2. Kt-KB3        P-QB4
+          3. P-B4          P-K3
+          4. PxQP          KPxP
+          5. Kt-B3         Kt-QB3
+          6. P-KKt3        B-K3
+          7. B-Kt2         B-K2
+          8. Castles       R-B1
+
+This move is not satisfactory at this juncture. It rather helps a
+combination which is frequently resorted to in similar positions,
+namely, the exchange of the Black QB and subsequent pressure on
+the KP by the White KB on the diagonal KR3-QB8. 8. ... Kt-B3
+should have been played, after
+
+        ---------------------------------------
+     8 |    |    | #R | #Q | #K |    | #Kt| #R |
+       |---------------------------------------|
+     7 | #P | #P |    |    | #B | #P | #P | #P |
+       |---------------------------------------|
+     6 |    |    | #Kt|    | #B |    |    |    |
+       |---------------------------------------|
+     5 |    |    | #P | #P |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    | ^P |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    | ^Kt|    |    | ^Kt| ^P |    |
+       |---------------------------------------|
+     2 | ^P | ^P |    |    | ^P | ^P | ^B | ^P |
+       |---------------------------------------|
+     1 | ^R |    | ^B | ^Q |    | ^R | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 157
+
+which White could hardly be said to possess any advantage, e.g.
+9. B-Kt5, Kt-K5, or 9. B-K3, Kt-KKt5, or 9. P-QR3, or 9. PxP,
+BxP; 10. B-Kt5, B-K2. After 9. PxP, however, it would be weak to
+recapture with the Queen. In a game E. Cohn-Ed. Lasker (match
+1909) there followed: 9. ... Q-R4; 10. Kt-KKt5, QxP; 11. B-K3, Q-
+R4; 12.  Q-Kt3, after which Black had to give up a pawn already:
+Castles QR; 13. KtxB, PxKt; 14. B-R3, etc.
+
+          9. PxP           BxP
+         10. Kt-KKt5       Kt-B3
+         11. KtxB          PxKt
+         12. B-R3          Q-K2
+         13. B-Kt5
+
+P-K4 is stronger here, in order to play B-Kt5 after PxP. l3. ...
+P-Q5 would then be refuted by Kt-Q5.
+
+         13. ...           Castles
+         14. BxKt          QxB
+
+After this White gains a pawn by a complicated and well-timed
+combination. Capablanca did not consider the subtle reply on
+Rubinstein’s seventeenth move. Otherwise he would have recaptured
+with the pawn. However, in that case too, White’s chances are
+good in the end-game which ensues after:  15. KtxP, PxKt; 16.
+QxPch, K-R1; 17. BxR. The Rooks would soon become effective in
+view of the open K side.
+
+         15. KtxP          Q-R3
+
+BxPch fails because of 16. K-Kt2, Q-B2; 17. Kt-B4!
+
+         16. K-Kt2         QR-Q1
+         17. Q-B1
+
+        ---------------------------------------
+     8 |    |    |    | #R |    | #R | #K |    |
+       |---------------------------------------|
+     7 | #P | #P |    |    |    |    | #P | #P |
+       |---------------------------------------|
+     6 |    |    | #Kt|    | #P |    |    | #Q |
+       |---------------------------------------|
+     5 |    |    | #B | ^Kt|    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    |    | ^P | ^B |
+       |---------------------------------------|
+     2 | ^P | ^P |    |    | ^P | ^P | ^K | ^P |
+       |---------------------------------------|
+     1 | ^R |    | ^Q |    |    | ^R |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 158
+
+         17. ...                 PxKt
+
+If RxKt, White exchanges Queens and plays BxPch.
+
+         18. QxB                 Q-Q7
+         19. Q-Kt5               Kt-Q5
+         20. Q-Q3
+
+With an extra pawn White forces the exchange of Queens.  Black
+cannot prevent it, as 20. ... QxKtP loses the Knight on account
+of 21. KR-Kt1, and 20. ... Q-Kt5 loses the QP by 21. KR-Q1 and B-
+K6ch.
+
+         20. ...                 QxQ
+         21. PxQ                 KR-K1
+         22. B-Kt4
+
+KR-K1 would not prevent the entry of the Black Rook:  Kt-B7; 23.
+RxRch, RxR; 24. R-QB1, R-K7; 25. B-Kt4, R-Q7. Black would win the
+pawn back and might even succeed in the end-game with a Knight
+against a Bishop.
+
+         22. ...                 R-Q3
+         23. KR-K1               RxR
+         24. RxR                 R-QKt3
+
+Black should first play his King to KB3, and keep the Rook away
+from his K5. Not that the QP is of paramount importance; the QKtP
+fully makes up for its loss. But as played the Knight is driven
+from his dominating position, and the badly placed Bishop gets
+into play. No doubt even after the text move the ending is most
+difficult, and it requires Rubinstein’s full powers to bring it
+to a successful issue.
+
+          25. R-K5               RxP
+          26. RxP                Kt-B3
+          27. B-K6ch             K-B1
+          28. R-B5ch             K-K1
+          29. B-B7ch             K-Q2
+          30. B-B4               P-QR3
+
+Black’s only chance is his extra pawn on the Q side. To exchange
+the Kt for the B by 30. ... K-Q3; 31. R-B 7, Kt-K4; 32. RxKKtP,
+KtxB would take too much time where time is all-important. White
+would clear the K side in the meantime, push on his KRP, and
+ultimately give up his R for Black’s remaining P, as soon as the
+latter runs into Queen, after which the three passed pawns win
+easily against the Rook. Generally speaking it is wise, in R
+endings like the present one, to advance pawns on the side where
+there is an extra pawn, in order to get a passed pawn as soon as
+possible.  Then the hostile Rook has to look after that pawn lest
+it should queen, and the greater mobility of one’s own Rook often
+saves the game even when opposed by a preponderance of pawns.
+
+         31. R-B7ch             K-Q3
+         32. RxKKtP             P-Kt4
+         33. B-Kt8              P-QR4
+         34. RxP                P-R5
+         35. P-R4               P-Kt5
+         36. R-R6ch             K-B4
+         37. R-R5ch             K-Kt3
+         38. B-Q5               P-Kt6
+
+RxP is tempting but unavailing, as White plays B-B4 followed by
+R-Kt5ch and P-R5-6, etc. After the text move White has a problem-
+like continuation, which he has worked out with great accuracy.
+
+         39. PxP                P-R6
+         40. BxKt
+
+If now P-R7, White simply plays 41. R-Kt5ch, K-R3; 42. R-Kt8-R8.
+
+         40. ...                RxKtP
+         41. B-Q5               P-R7
+         42. R-R6ch             Resigns.
+
+As the R holds the RP, e.g. K-R4; 43. B-B4 followed by R-R6ch or
+42. ... K-R2; 43. R-R8, etc.
+
